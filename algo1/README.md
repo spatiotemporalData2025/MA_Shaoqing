@@ -105,9 +105,9 @@ Misra-Griesアルゴリズムを使えば、数千〜数万の攻撃シーンの
 
 | ファイル名 | 内容 |
 |------------|------|
-| `MG_v0.py` | Misra-Gries v3.1 の実装（全体-1減算法） |
-| `MG_v1.py` | Misra-Gries v3.2 の実装（Δと段階的削除） |
-| `MG_v2.py` | Misra-Gries v3.3 の実装（最小置換法） |
+| `algo1.py` | Misra-Gries v3.1 の実装（全体-1減算法） |
+| `algo2.py` | Misra-Gries v3.2 の実装（Δと段階的削除） |
+| `algo3.py` | Misra-Gries v3.3 の実装（最小置換法） |
 
 ---
 
