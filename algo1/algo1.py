@@ -1,6 +1,6 @@
 def misra_gries_v3_1(stream, k):
     """
-    Algorithm 3.1（Misra-Gries 原始算法）を忠実に実装する。
+    Algorithm 3.1（Misra-Gries 原始算法）を実装する。
     頻度が N/k を超える可能性のある要素を推定する。
 
     引数:
