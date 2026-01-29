@@ -1,0 +1,951 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7919001,
+          35.7355381
+        ]
+      },
+      "properties": {
+        "id": "way/236659572",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署",
+        "tags": {
+          "@id": "way/236659572",
+          "addr:block_number": "45",
+          "addr:city": "荒川区",
+          "addr:housenumber": "43",
+          "addr:neighbourhood": "南千住六丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "南千住警察署",
+          "name:en": "Minami Senju Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81 3-3805-0110",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.jp/6/minamisenju/",
+          "wikidata": "Q11407550",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.799166,
+          35.7301326
+        ]
+      },
+      "properties": {
+        "id": "way/236702502",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署南千住三丁目交番",
+        "tags": {
+          "@id": "way/236702502",
+          "addr:country": "JP",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2023-01-08",
+          "name": "南千住警察署南千住三丁目交番",
+          "name:en": "Minami-Senju 3-chome Koban",
+          "name:ja": "南千住警察署南千住三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8070552,
+          35.735673
+        ]
+      },
+      "properties": {
+        "id": "way/236711432",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署 汐入出張所",
+        "tags": {
+          "@id": "way/236711432",
+          "amenity": "fire_station",
+          "name": "荒川消防署 汐入出張所",
+          "name:en": "Arakawa Fire Station Shioiri Branch",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7860151,
+          35.7519262
+        ]
+      },
+      "properties": {
+        "id": "way/236847544",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "尾久消防署尾竹橋出張所",
+        "tags": {
+          "@id": "way/236847544",
+          "amenity": "fire_station",
+          "name": "尾久消防署尾竹橋出張所",
+          "name:en": "Otakebashi Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7807727,
+          35.7429194
+        ]
+      },
+      "properties": {
+        "id": "way/237080914",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署町屋交番",
+        "tags": {
+          "@id": "way/237080914",
+          "addr:block_number": "1",
+          "addr:city": "荒川区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "町屋一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "荒川警察署町屋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7842182,
+          35.7352424
+        ]
+      },
+      "properties": {
+        "id": "way/237208079",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署",
+        "tags": {
+          "@id": "way/237208079",
+          "addr:postcode": "116-0002",
+          "amenity": "fire_station",
+          "fax": "+81-3-38011591",
+          "name": "荒川消防署",
+          "name:en": "Arakawa Fire Station",
+          "name:es": "Estación de bomberos de Arakawa",
+          "name:ja": "荒川消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38060119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-arakawa/",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7845155,
+          35.7344372
+        ]
+      },
+      "properties": {
+        "id": "way/237208081",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署",
+        "tags": {
+          "@id": "way/237208081",
+          "amenity": "police",
+          "name": "荒川警察署",
+          "name:en": "Arakawa Police Station",
+          "name:zh": "荒川警署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11618622",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7660829,
+          35.750106
+        ]
+      },
+      "properties": {
+        "id": "way/237534682",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "尾久消防署",
+        "tags": {
+          "@id": "way/237534682",
+          "amenity": "fire_station",
+          "name": "尾久消防署",
+          "name:en": "Ogu Fire Station",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7831037,
+          35.729038
+        ]
+      },
+      "properties": {
+        "id": "way/239270185",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署日暮里出張所",
+        "tags": {
+          "@id": "way/239270185",
+          "amenity": "fire_station",
+          "building": "fire_station",
+          "name": "荒川消防署日暮里出張所",
+          "name:en": "Nippori Fire Substation",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7664381,
+          35.7319787
+        ]
+      },
+      "properties": {
+        "id": "way/535587424",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署 西日暮里駅前交番",
+        "tags": {
+          "@id": "way/535587424",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2025-12-06",
+          "name": "荒川警察署 西日暮里駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7930264,
+          35.7330969
+        ]
+      },
+      "properties": {
+        "id": "node/1420770467",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署 南千住一丁目交番",
+        "tags": {
+          "@id": "node/1420770467",
+          "amenity": "police",
+          "name": "南千住警察署 南千住一丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.808013,
+          35.732401
+        ]
+      },
+      "properties": {
+        "id": "node/1420770478",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署南千住三丁目東交番",
+        "tags": {
+          "@id": "node/1420770478",
+          "amenity": "police",
+          "name": "南千住警察署南千住三丁目東交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8069079,
+          35.7371715
+        ]
+      },
+      "properties": {
+        "id": "node/1420770481",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署 南千住八丁目交番",
+        "tags": {
+          "@id": "node/1420770481",
+          "amenity": "police",
+          "name": "南千住警察署 南千住八丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.799921,
+          35.732836
+        ]
+      },
+      "properties": {
+        "id": "node/1420770492",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署南千住駅東口交番",
+        "tags": {
+          "@id": "node/1420770492",
+          "amenity": "police",
+          "name": "南千住警察署南千住駅東口交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.796398,
+          35.736827
+        ]
+      },
+      "properties": {
+        "id": "node/1420770495",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "南千住警察署天王前交番",
+        "tags": {
+          "@id": "node/1420770495",
+          "amenity": "police",
+          "name": "南千住警察署天王前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7661995,
+          35.7500319
+        ]
+      },
+      "properties": {
+        "id": "node/1420776886",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "尾久消防署",
+        "tags": {
+          "@id": "node/1420776886",
+          "addr:postcode": "116-0012",
+          "amenity": "fire_station",
+          "fax": "+81-3-38100119",
+          "name": "尾久消防署",
+          "name:en": "Ogu Fire Station",
+          "name:es": "Estación de bomberos Ogu",
+          "name:ja": "尾久消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38000119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-ogu/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7736591,
+          35.7446311
+        ]
+      },
+      "properties": {
+        "id": "node/1420776900",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "尾久消防署下尾久出張所",
+        "tags": {
+          "@id": "node/1420776900",
+          "amenity": "fire_station",
+          "name": "尾久消防署下尾久出張所",
+          "name:en": "Ogu Fire Station Shimo-ogu Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.763792,
+          35.750869
+        ]
+      },
+      "properties": {
+        "id": "node/1420776919",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "尾久警察署",
+        "tags": {
+          "@id": "node/1420776919",
+          "amenity": "police",
+          "name": "尾久警察署",
+          "name:en": "Ogu Police Station",
+          "name:zh": "尾久警署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11465111"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.796046,
+          35.736547
+        ]
+      },
+      "properties": {
+        "id": "node/1420796681",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署南千住出張所",
+        "tags": {
+          "@id": "node/1420796681",
+          "amenity": "fire_station",
+          "name": "荒川消防署南千住出張所",
+          "name:en": "Minami Senju Branch, Arakawa Fire Station",
+          "name:ja": "荒川消防署南千住出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.808725,
+          35.737001
+        ]
+      },
+      "properties": {
+        "id": "node/1420796692",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署汐入出張所",
+        "tags": {
+          "@id": "node/1420796692",
+          "KSJ2:ADS": "南千住8-2-4",
+          "KSJ2:AdminArea": "東京都荒川区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "荒川消防署汐入出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7717354,
+          35.7279849
+        ]
+      },
+      "properties": {
+        "id": "node/1420796693",
+        "ward": "arakawa",
+        "category": "fire_station",
+        "name": "荒川消防署音無川出張所",
+        "tags": {
+          "@id": "node/1420796693",
+          "amenity": "fire_station",
+          "name": "荒川消防署音無川出張所",
+          "name:en": "Otonashigawa Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7785229,
+          35.7333934
+        ]
+      },
+      "properties": {
+        "id": "node/1420796774",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署三河島駅前交番",
+        "tags": {
+          "@id": "node/1420796774",
+          "amenity": "police",
+          "name": "荒川警察署三河島駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7842601,
+          35.7386585
+        ]
+      },
+      "properties": {
+        "id": "node/1420796779",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署峡田交番",
+        "tags": {
+          "@id": "node/1420796779",
+          "amenity": "police",
+          "name": "荒川警察署峡田交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778681,
+          35.727594
+        ]
+      },
+      "properties": {
+        "id": "node/1420796783",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署日暮里本通交番",
+        "tags": {
+          "@id": "node/1420796783",
+          "amenity": "police",
+          "name": "荒川警察署日暮里本通交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7717987,
+          35.7283842
+        ]
+      },
+      "properties": {
+        "id": "node/1420796788",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署日暮里駅前交番",
+        "tags": {
+          "@id": "node/1420796788",
+          "amenity": "police",
+          "name": "荒川警察署日暮里駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.785569,
+          35.729261
+        ]
+      },
+      "properties": {
+        "id": "node/1420796794",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署東日暮里交番",
+        "tags": {
+          "@id": "node/1420796794",
+          "amenity": "police",
+          "name": "荒川警察署東日暮里交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7772367,
+          35.74445
+        ]
+      },
+      "properties": {
+        "id": "node/1420796805",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "町屋 安全・安心 ステーション",
+        "tags": {
+          "@id": "node/1420796805",
+          "amenity": "police",
+          "name": "町屋 安全・安心 ステーション",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7766867,
+          35.7374021
+        ]
+      },
+      "properties": {
+        "id": "node/1420796812",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署荒川五丁目交番",
+        "tags": {
+          "@id": "node/1420796812",
+          "amenity": "police",
+          "name": "荒川警察署荒川五丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7850406,
+          35.749795
+        ]
+      },
+      "properties": {
+        "id": "node/1420796818",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署 荒木田交番",
+        "tags": {
+          "@id": "node/1420796818",
+          "amenity": "police",
+          "name": "荒川警察署 荒木田交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7728356,
+          35.737543
+        ]
+      },
+      "properties": {
+        "id": "node/1420796829",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "荒川警察署 西日暮里六丁目交番",
+        "tags": {
+          "@id": "node/1420796829",
+          "amenity": "police",
+          "name": "荒川警察署 西日暮里六丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7850448,
+          35.7349564
+        ]
+      },
+      "properties": {
+        "id": "node/5247466425",
+        "ward": "arakawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5247466425",
+          "emergency": "defibrillator",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7576268,
+          35.7508735
+        ]
+      },
+      "properties": {
+        "id": "node/5282033634",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "尾久警察署荒川遊園前交番",
+        "tags": {
+          "@id": "node/5282033634",
+          "amenity": "police",
+          "mapillary": "5876530492467088",
+          "name": "尾久警察署荒川遊園前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7630234,
+          35.7456347
+        ]
+      },
+      "properties": {
+        "id": "node/5470401826",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "尾久警察署 西尾久交番",
+        "tags": {
+          "@id": "node/5470401826",
+          "amenity": "police",
+          "name": "尾久警察署 西尾久交番",
+          "name:en": "Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7867853,
+          35.7515252
+        ]
+      },
+      "properties": {
+        "id": "node/5470902332",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "尾久警察署 尾竹橋交番",
+        "tags": {
+          "@id": "node/5470902332",
+          "amenity": "police",
+          "name": "尾久警察署 尾竹橋交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714444,
+          35.7495498
+        ]
+      },
+      "properties": {
+        "id": "node/6765999787",
+        "ward": "arakawa",
+        "category": "police",
+        "name": "尾久警察署 熊野前交番",
+        "tags": {
+          "@id": "node/6765999787",
+          "amenity": "police",
+          "name": "尾久警察署 熊野前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7840384,
+          35.7427139
+        ]
+      },
+      "properties": {
+        "id": "node/11164255052",
+        "ward": "arakawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11164255052",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

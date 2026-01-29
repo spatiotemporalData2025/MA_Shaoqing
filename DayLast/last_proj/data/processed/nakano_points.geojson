@@ -1,0 +1,1003 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673494,
+          35.6979578
+        ]
+      },
+      "properties": {
+        "id": "way/94043321",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "way/94043321",
+          "amenity": "fire_station",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6442677,
+          35.7224182
+        ]
+      },
+      "properties": {
+        "id": "node/818389595",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署 家政通交番",
+        "tags": {
+          "@id": "node/818389595",
+          "amenity": "police",
+          "name": "野方警察署 家政通交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6379832,
+          35.7227709
+        ]
+      },
+      "properties": {
+        "id": "node/818956766",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署鷺宮駅前交番",
+        "tags": {
+          "@id": "node/818956766",
+          "amenity": "police",
+          "name": "野方警察署鷺宮駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652398,
+          35.7197953
+        ]
+      },
+      "properties": {
+        "id": "node/928152145",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署 野方駅前交番",
+        "tags": {
+          "@id": "node/928152145",
+          "amenity": "police",
+          "name": "野方警察署 野方駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6713348,
+          35.7093483
+        ]
+      },
+      "properties": {
+        "id": "node/1135043276",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署早稲田通交番",
+        "tags": {
+          "@id": "node/1135043276",
+          "amenity": "police",
+          "name": "中野警察署早稲田通交番",
+          "name:en": "Nakano Police Station Wasedatsu Police Box",
+          "name:ja": "中野警察署早稲田通交番",
+          "name:ja-Hira": "なかのけいさつしょわせだつうこうばん",
+          "name:ja-Latn": "Nakano Keisatsusho Wasedatsū Kōban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6777564,
+          35.7120509
+        ]
+      },
+      "properties": {
+        "id": "node/1213571424",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署 上高田交番",
+        "tags": {
+          "@id": "node/1213571424",
+          "amenity": "police",
+          "name": "野方警察署 上高田交番",
+          "name:ja-Hira": "のがたけいさつしょ かみたかだこうばん",
+          "name:ja-Latn": "Nogata Keisatsusho Kamitakada Kōban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6714017,
+          35.7161385
+        ]
+      },
+      "properties": {
+        "id": "node/1216134025",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署薬師駅前交番",
+        "tags": {
+          "@id": "node/1216134025",
+          "amenity": "police",
+          "name": "野方警察署薬師駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673468,
+          35.697928
+        ]
+      },
+      "properties": {
+        "id": "node/1420766476",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "中野消防署",
+        "tags": {
+          "@id": "node/1420766476",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "25",
+          "addr:city": "中野区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "中央三丁目",
+          "addr:postcode": "164-0011",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "check_date": "2023-08-19",
+          "fax": "+81-3-33660555",
+          "name": "中野消防署",
+          "name:en": "Nakano Fire Station",
+          "name:ja": "中野消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81-3-33660119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-nakano/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671441,
+          35.68629
+        ]
+      },
+      "properties": {
+        "id": "node/1420766477",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "中野消防署南中野出張所",
+        "tags": {
+          "@id": "node/1420766477",
+          "amenity": "fire_station",
+          "name": "中野消防署南中野出張所",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680634,
+          35.700872
+        ]
+      },
+      "properties": {
+        "id": "node/1420766478",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "中野消防署宮園出張所",
+        "tags": {
+          "@id": "node/1420766478",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "18",
+          "addr:city": "中野区",
+          "addr:housenumber": "24",
+          "addr:neighbourhood": "中央二丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "中野消防署宮園出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816137,
+          35.7097619
+        ]
+      },
+      "properties": {
+        "id": "node/1420766479",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "中野消防署東中野出張所",
+        "tags": {
+          "@id": "node/1420766479",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "1",
+          "addr:city": "中野区",
+          "addr:housenumber": "7",
+          "addr:neighbourhood": "上高田一丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "中野消防署東中野出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-nakano/shoukai/shosho.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6645609,
+          35.6975678
+        ]
+      },
+      "properties": {
+        "id": "node/1420766485",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署中央五丁目交番",
+        "tags": {
+          "@id": "node/1420766485",
+          "amenity": "police",
+          "name": "中野警察署中央五丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6830784,
+          35.6966742
+        ]
+      },
+      "properties": {
+        "id": "node/1420766486",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野坂上交番",
+        "tags": {
+          "@id": "node/1420766486",
+          "amenity": "police",
+          "name": "中野坂上交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66893,
+          35.6863136
+        ]
+      },
+      "properties": {
+        "id": "node/1420766488",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署南台交番",
+        "tags": {
+          "@id": "node/1420766488",
+          "amenity": "police",
+          "name": "中野警察署南台交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6743721,
+          35.7021224
+        ]
+      },
+      "properties": {
+        "id": "node/1420766489",
+        "ward": "nakano",
+        "category": "police",
+        "name": "白山地域安全センター",
+        "tags": {
+          "@id": "node/1420766489",
+          "amenity": "police",
+          "name": "白山地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "中野警察署",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.676929,
+          35.6914306
+        ]
+      },
+      "properties": {
+        "id": "node/1420766492",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署本郷通交番",
+        "tags": {
+          "@id": "node/1420766492",
+          "amenity": "police",
+          "name": "中野警察署本郷通交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686492,
+          35.7061583
+        ]
+      },
+      "properties": {
+        "id": "node/1420766493",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署東中野駅前交番",
+        "tags": {
+          "@id": "node/1420766493",
+          "amenity": "police",
+          "name": "中野警察署東中野駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.672008,
+          35.6976865
+        ]
+      },
+      "properties": {
+        "id": "node/1420766494",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署鍋屋横丁交番",
+        "tags": {
+          "@id": "node/1420766494",
+          "amenity": "police",
+          "name": "中野警察署鍋屋横丁交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6789272,
+          35.7085294
+        ]
+      },
+      "properties": {
+        "id": "node/1420766495",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署昭和さくら駐在所",
+        "tags": {
+          "@id": "node/1420766495",
+          "amenity": "police",
+          "name": "中野警察署昭和さくら駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.jp/4/nakano/koban/nakano69.htm"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6520721,
+          35.7233481
+        ]
+      },
+      "properties": {
+        "id": "node/1420799310",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "野方消防署",
+        "tags": {
+          "@id": "node/1420799310",
+          "addr:block_number": "21",
+          "addr:city": "中野区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "丸山二丁目",
+          "addr:postcode": "165-0021",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "fax": "+81-3-33365054",
+          "name": "野方消防署",
+          "name:en": "Nogata Fire Station",
+          "name:ja": "野方消防署",
+          "name:ja-Hira": "のがたしょうぼうしょ",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "operator": "東京消防庁第四消防方面本部",
+          "phone": "+81-3-33300119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-nogata/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6535189,
+          35.7151655
+        ]
+      },
+      "properties": {
+        "id": "node/1420799311",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "野方消防署大和出張所",
+        "tags": {
+          "@id": "node/1420799311",
+          "amenity": "fire_station",
+          "name": "野方消防署大和出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6686877,
+          35.7253239
+        ]
+      },
+      "properties": {
+        "id": "node/1420799312",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "野方消防署江古田出張所",
+        "tags": {
+          "@id": "node/1420799312",
+          "addr:block_number": "2",
+          "addr:city": "中野区",
+          "addr:housenumber": "7",
+          "addr:neighbourhood": "江古田二丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "野方消防署江古田出張所",
+          "name:ja": "野方消防署江古田出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6318904,
+          35.7270879
+        ]
+      },
+      "properties": {
+        "id": "node/1420799313",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "野方消防署鷺宮出張所",
+        "tags": {
+          "@id": "node/1420799313",
+          "amenity": "fire_station",
+          "name": "野方消防署鷺宮出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6604691,
+          35.7094132
+        ]
+      },
+      "properties": {
+        "id": "node/1420799314",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署",
+        "tags": {
+          "@id": "node/1420799314",
+          "addr:block_number": "12",
+          "addr:city": "中野区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "4",
+          "addr:postcode": "164-0001",
+          "addr:province": "東京都",
+          "addr:quarter": "中野",
+          "amenity": "police",
+          "name": "野方警察署",
+          "phone": "+81-3-3386-0110",
+          "wikidata": "Q11645474"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630998,
+          35.73245
+        ]
+      },
+      "properties": {
+        "id": "node/1420799316",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署上鷺宮駐在所",
+        "tags": {
+          "@id": "node/1420799316",
+          "amenity": "police",
+          "name": "野方警察署上鷺宮駐在所",
+          "name:en": "Police Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6557848,
+          35.7226956
+        ]
+      },
+      "properties": {
+        "id": "node/1420799317",
+        "ward": "nakano",
+        "category": "police",
+        "name": "丸山地域交通安全センター",
+        "tags": {
+          "@id": "node/1420799317",
+          "amenity": "police",
+          "name": "丸山地域交通安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6745912,
+          35.7311045
+        ]
+      },
+      "properties": {
+        "id": "node/1420799319",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署江原町交番",
+        "tags": {
+          "@id": "node/1420799319",
+          "amenity": "police",
+          "name": "野方警察署江原町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6656662,
+          35.7239934
+        ]
+      },
+      "properties": {
+        "id": "node/1420799320",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署江古田四丁目交番",
+        "tags": {
+          "@id": "node/1420799320",
+          "addr:block_number": "1",
+          "addr:city": "中野区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "4",
+          "addr:postcode": "165-0022",
+          "addr:province": "東京都",
+          "addr:quarter": "江古田",
+          "amenity": "police",
+          "name": "野方警察署江古田四丁目交番",
+          "name:ja": "野方警察署江古田四丁目交番",
+          "name:ja-Hira": "のがたけいさつしょえこだよちょうめこうばん",
+          "name:ja-Latn": "Nogata Keisatsusho Ekoda Yon-chōme Kōban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6636336,
+          35.7188208
+        ]
+      },
+      "properties": {
+        "id": "node/1420799321",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署沼袋交番（仮設）",
+        "tags": {
+          "@id": "node/1420799321",
+          "amenity": "police",
+          "name": "野方警察署沼袋交番（仮設）",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6365663,
+          35.7195549
+        ]
+      },
+      "properties": {
+        "id": "node/1420799322",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署白鷺駐在所",
+        "tags": {
+          "@id": "node/1420799322",
+          "amenity": "police",
+          "name": "野方警察署白鷺駐在所",
+          "name:ja": "野方警察署白鷺駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6451562,
+          35.7158007
+        ]
+      },
+      "properties": {
+        "id": "node/1420799323",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署 若宮交番",
+        "tags": {
+          "@id": "node/1420799323",
+          "amenity": "police",
+          "name": "野方警察署 若宮交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65422,
+          35.7113334
+        ]
+      },
+      "properties": {
+        "id": "node/1420799325",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署野方一丁目交番",
+        "tags": {
+          "@id": "node/1420799325",
+          "amenity": "police",
+          "name": "野方警察署野方一丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6274434,
+          35.7272115
+        ]
+      },
+      "properties": {
+        "id": "node/1420799327",
+        "ward": "nakano",
+        "category": "police",
+        "name": "野方警察署鷺宮六丁目交番",
+        "tags": {
+          "@id": "node/1420799327",
+          "amenity": "police",
+          "name": "野方警察署鷺宮六丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.682802,
+          35.69988
+        ]
+      },
+      "properties": {
+        "id": "node/2401378824",
+        "ward": "nakano",
+        "category": "fire_station",
+        "name": "中野消防署 宮園出張所",
+        "tags": {
+          "@id": "node/2401378824",
+          "amenity": "fire_station",
+          "name": "中野消防署 宮園出張所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6605977,
+          35.7087967
+        ]
+      },
+      "properties": {
+        "id": "node/3770297483",
+        "ward": "nakano",
+        "category": "police",
+        "name": "警視庁第四方面本部",
+        "tags": {
+          "@id": "node/3770297483",
+          "amenity": "police",
+          "name": "警視庁第四方面本部"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660603,
+          35.7086029
+        ]
+      },
+      "properties": {
+        "id": "node/3770297484",
+        "ward": "nakano",
+        "category": "police",
+        "name": "警視庁第四方面交通機動隊",
+        "tags": {
+          "@id": "node/3770297484",
+          "amenity": "police",
+          "name": "警視庁第四方面交通機動隊"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6686615,
+          35.6976957
+        ]
+      },
+      "properties": {
+        "id": "node/4986606454",
+        "ward": "nakano",
+        "category": "police",
+        "name": "中野警察署",
+        "tags": {
+          "@id": "node/4986606454",
+          "amenity": "police",
+          "name": "中野警察署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6808314,
+          35.6969508
+        ]
+      },
+      "properties": {
+        "id": "node/6217609580",
+        "ward": "nakano",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6217609580",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

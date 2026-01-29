@@ -1,0 +1,2967 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6856977,
+          35.5682144
+        ]
+      },
+      "properties": {
+        "id": "way/158941539",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "way/158941539",
+          "amenity": "fire_station",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7532556,
+          35.549116
+        ]
+      },
+      "properties": {
+        "id": "way/171507774",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "蒲田消防署 空港分署",
+        "tags": {
+          "@id": "way/171507774",
+          "amenity": "fire_station",
+          "building": "office",
+          "name": "蒲田消防署 空港分署",
+          "name:en": "Kamata fire department Airport branch office",
+          "website": "https://www.tfd.metro.tokyo.lg.jp/hp-kamata/topics/bunsyo.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531667,
+          35.5472297
+        ]
+      },
+      "properties": {
+        "id": "way/208359586",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京空港警察署弁天橋交番",
+        "tags": {
+          "@id": "way/208359586",
+          "amenity": "police",
+          "building": "yes",
+          "name": "東京空港警察署弁天橋交番",
+          "name:en": "Bentenbashi Koban - Tokyo Airport Police Station",
+          "name:es": "Estación de policía del aeropuerto de Tokio - Bentenbashi Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7443912,
+          35.5636545
+        ]
+      },
+      "properties": {
+        "id": "way/211215177",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署森ヶ崎交番",
+        "tags": {
+          "@id": "way/211215177",
+          "addr:city": "大田区",
+          "addr:province": "東京都",
+          "addr:quarter": "大森南",
+          "amenity": "police",
+          "building": "public",
+          "int_name": "Koban",
+          "name": "大森警察署森ヶ崎交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7133003,
+          35.5792393
+        ]
+      },
+      "properties": {
+        "id": "way/211265946",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署市野倉交番",
+        "tags": {
+          "@id": "way/211265946",
+          "KSJ2:ADS": "中央6-8-6",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署市野倉交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7337578,
+          35.5726383
+        ]
+      },
+      "properties": {
+        "id": "way/215546479",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署",
+        "tags": {
+          "@id": "way/215546479",
+          "KSJ2:ADS": "大森中1-1-16",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大森警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11436417",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7234714,
+          35.5698463
+        ]
+      },
+      "properties": {
+        "id": "way/217625134",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署 大森西交番",
+        "tags": {
+          "@id": "way/217625134",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大森警察署 大森西交番",
+          "source": "bing, survey",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6811366,
+          35.564952
+        ]
+      },
+      "properties": {
+        "id": "way/217966481",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署ガス橋交番",
+        "tags": {
+          "@id": "way/217966481",
+          "KSJ2:ADS": "下丸子3-30-3",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "building": "yes",
+          "name": "池上警察署ガス橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696409,
+          35.5574889
+        ]
+      },
+      "properties": {
+        "id": "way/217966482",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署多摩川大橋交番",
+        "tags": {
+          "@id": "way/217966482",
+          "KSJ2:ADS": "矢口3-16-6",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "building": "yes",
+          "name": "池上警察署多摩川大橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7357421,
+          35.5683298
+        ]
+      },
+      "properties": {
+        "id": "way/219974514",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森東地域安全センター",
+        "tags": {
+          "@id": "way/219974514",
+          "amenity": "police",
+          "name": "大森東地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "keisicho (URL http://www.keishicho.metro.tokyo.jp/2/omori/koban/koban.htm)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7448087,
+          35.5572663
+        ]
+      },
+      "properties": {
+        "id": "way/221362169",
+        "ward": "ota",
+        "category": "police",
+        "name": "東糀谷地域安全センター",
+        "tags": {
+          "@id": "way/221362169",
+          "amenity": "police",
+          "building": "police",
+          "name": "東糀谷地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "Keishicho (URL http://www.keishicho.metro.tokyo.jp/2/kamata/pb/higashikojiya.htm)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6915661,
+          35.6003309
+        ]
+      },
+      "properties": {
+        "id": "way/221757347",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署洗足地交番",
+        "tags": {
+          "@id": "way/221757347",
+          "amenity": "police",
+          "building": "yes",
+          "name": "田園調布警察署洗足地交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7577872,
+          35.5735291
+        ]
+      },
+      "properties": {
+        "id": "way/610536029",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "way/610536029",
+          "amenity": "fire_station",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7213988,
+          35.546158
+        ]
+      },
+      "properties": {
+        "id": "way/733859531",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "蒲田消防署六郷出張所",
+        "tags": {
+          "@id": "way/733859531",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "蒲田消防署六郷出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7539249,
+          35.5602755
+        ]
+      },
+      "properties": {
+        "id": "way/820335262",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京湾岸警察署羽田水上派出所",
+        "tags": {
+          "@id": "way/820335262",
+          "amenity": "police",
+          "building": "yes",
+          "name": "東京湾岸警察署羽田水上派出所",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7260697,
+          35.5659079
+        ]
+      },
+      "properties": {
+        "id": "way/1215036147",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "way/1215036147",
+          "amenity": "fire_station",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7841697,
+          35.5551731
+        ]
+      },
+      "properties": {
+        "id": "way/1303500451",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京空港警察署",
+        "tags": {
+          "@id": "way/1303500451",
+          "amenity": "police",
+          "name": "東京空港警察署",
+          "name:en": "Tokyo Airport Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11525071",
+          "wikipedia": "ja:東京空港警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.685344,
+          35.6074757
+        ]
+      },
+      "properties": {
+        "id": "way/1391618784",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署大岡山駅前交番",
+        "tags": {
+          "@id": "way/1391618784",
+          "addr:block_number": "27",
+          "addr:city": "大田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "北千束三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "building": "yes",
+          "name": "田園調布警察署大岡山駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7394016,
+          35.5788014
+        ]
+      },
+      "properties": {
+        "id": "node/1420773672",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "大森消防署",
+        "tags": {
+          "@id": "node/1420773672",
+          "KSJ2:ADS": "大森東1-32-8",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:postcode": "143-0012",
+          "amenity": "fire_station",
+          "fax": "+81-3-37643610",
+          "name": "大森消防署",
+          "name:en": "Omori Fire Station",
+          "name:ja": "大森消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-37660119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/",
+          "wikidata": "Q11436383",
+          "wikipedia": "ja:大森消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711497,
+          35.574943
+        ]
+      },
+      "properties": {
+        "id": "node/1420773681",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "大森消防署市野倉出張所",
+        "tags": {
+          "@id": "node/1420773681",
+          "KSJ2:ADS": "中央8-1-14",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "大森消防署市野倉出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7457652,
+          35.5646194
+        ]
+      },
+      "properties": {
+        "id": "node/1420773684",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "大森消防署森ヶ崎出張所",
+        "tags": {
+          "@id": "node/1420773684",
+          "amenity": "fire_station",
+          "name": "大森消防署森ヶ崎出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11436383",
+          "wikipedia": "ja:大森消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7114325,
+          35.5907673
+        ]
+      },
+      "properties": {
+        "id": "node/1420773688",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "大森消防署馬込出張所",
+        "tags": {
+          "@id": "node/1420773688",
+          "amenity": "fire_station",
+          "name": "大森消防署馬込出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7217168,
+          35.5893155
+        ]
+      },
+      "properties": {
+        "id": "node/1420773735",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署 八景園地域安全センター",
+        "tags": {
+          "@id": "node/1420773735",
+          "KSJ2:ADS": "山王2-31-9",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大森警察署 八景園地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7367127,
+          35.5816547
+        ]
+      },
+      "properties": {
+        "id": "node/1420773742",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署大森海岸交番",
+        "tags": {
+          "@id": "node/1420773742",
+          "KSJ2:ADS": "大森本町1-11-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大森警察署大森海岸交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7286341,
+          35.588659
+        ]
+      },
+      "properties": {
+        "id": "node/1420773747",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署大森駅前交番",
+        "tags": {
+          "@id": "node/1420773747",
+          "KSJ2:ADS": "大森北1-6-16",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大森警察署大森駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7261355,
+          35.59114
+        ]
+      },
+      "properties": {
+        "id": "node/1420773751",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署山王交番",
+        "tags": {
+          "@id": "node/1420773751",
+          "KSJ2:ADS": "山王2-17-10",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "check_date": "2022-09-27",
+          "name": "大森警察署山王交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7485022,
+          35.5821335
+        ]
+      },
+      "properties": {
+        "id": "node/1420773753",
+        "ward": "ota",
+        "category": "police",
+        "name": "平和島地域安全センター",
+        "tags": {
+          "@id": "node/1420773753",
+          "amenity": "police",
+          "name": "平和島地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7217032,
+          35.5810944
+        ]
+      },
+      "properties": {
+        "id": "node/1420773758",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署春日橋交番",
+        "tags": {
+          "@id": "node/1420773758",
+          "amenity": "police",
+          "name": "大森警察署春日橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.764105,
+          35.572695
+        ]
+      },
+      "properties": {
+        "id": "node/1420784174",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署京浜島地域安全センター",
+        "tags": {
+          "@id": "node/1420784174",
+          "amenity": "police",
+          "name": "大森警察署京浜島地域安全センター",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7578468,
+          35.5786287
+        ]
+      },
+      "properties": {
+        "id": "node/1420784188",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京湾岸警察署大田市場前交番",
+        "tags": {
+          "@id": "node/1420784188",
+          "amenity": "police",
+          "name": "東京湾岸警察署大田市場前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7856682,
+          35.5472022
+        ]
+      },
+      "properties": {
+        "id": "node/1420784873",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京空港警察署第1ターミナル交番",
+        "tags": {
+          "@id": "node/1420784873",
+          "amenity": "police",
+          "level": "2",
+          "name": "東京空港警察署第1ターミナル交番",
+          "name:en": "Terminal 1 Koban",
+          "name:es": "Policía de la terminal 1",
+          "name:ja": "第1ターミナル交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7881082,
+          35.5512166
+        ]
+      },
+      "properties": {
+        "id": "node/1420784876",
+        "ward": "ota",
+        "category": "police",
+        "name": "東京空港警察署第2ターミナル交番",
+        "tags": {
+          "@id": "node/1420784876",
+          "amenity": "police",
+          "name": "東京空港警察署第2ターミナル交番",
+          "name:en": "Koban",
+          "name:ja": "署第2ﾀｰﾐﾅﾙ交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698658,
+          35.574361
+        ]
+      },
+      "properties": {
+        "id": "node/1420787752",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署",
+        "tags": {
+          "@id": "node/1420787752",
+          "KSJ2:ADS": "池上3-20-10",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11551492"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7104799,
+          35.5968221
+        ]
+      },
+      "properties": {
+        "id": "node/1420787754",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署三本松交番",
+        "tags": {
+          "@id": "node/1420787754",
+          "KSJ2:ADS": "北馬込2-28-6",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署三本松交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6907835,
+          35.5808581
+        ]
+      },
+      "properties": {
+        "id": "node/1420787755",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署久が原交番",
+        "tags": {
+          "@id": "node/1420787755",
+          "amenity": "police",
+          "name": "池上警察署久が原交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6892565,
+          35.5711779
+        ]
+      },
+      "properties": {
+        "id": "node/1420787756",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署 千鳥交番",
+        "tags": {
+          "@id": "node/1420787756",
+          "KSJ2:ADS": "千鳥3-19-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署 千鳥交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7140689,
+          35.5872526
+        ]
+      },
+      "properties": {
+        "id": "node/1420787757",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署南馬込交番",
+        "tags": {
+          "@id": "node/1420787757",
+          "KSJ2:ADS": "南馬込4-29-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署南馬込交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696249,
+          35.566305
+        ]
+      },
+      "properties": {
+        "id": "node/1420787761",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署矢口交番",
+        "tags": {
+          "@id": "node/1420787761",
+          "KSJ2:ADS": "矢口1-2-6",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署矢口交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7087723,
+          35.564591
+        ]
+      },
+      "properties": {
+        "id": "node/1420787762",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署 蓮沼交番",
+        "tags": {
+          "@id": "node/1420787762",
+          "amenity": "police",
+          "name": "池上警察署 蓮沼交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7057815,
+          35.5869344
+        ]
+      },
+      "properties": {
+        "id": "node/1420787763",
+        "ward": "ota",
+        "category": "police",
+        "name": "池上警察署西馬込交番",
+        "tags": {
+          "@id": "node/1420787763",
+          "KSJ2:ADS": "西馬込2-2-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "池上警察署西馬込交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.677639,
+          35.589913
+        ]
+      },
+      "properties": {
+        "id": "node/1420789980",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "田園調布消防署",
+        "tags": {
+          "@id": "node/1420789980",
+          "addr:postcode": "145-0067",
+          "amenity": "fire_station",
+          "fax": "+81-3-54990119",
+          "name": "田園調布消防署",
+          "name:en": "Denencyofu Fire Station",
+          "name:ja": "田園調布消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-37270119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695754,
+          35.5824651
+        ]
+      },
+      "properties": {
+        "id": "node/1420789981",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "田園調布消防署 久が原出張所",
+        "tags": {
+          "@id": "node/1420789981",
+          "KSJ2:ADS": "久が原2-16-3",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "田園調布消防署 久が原出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917641,
+          35.5942406
+        ]
+      },
+      "properties": {
+        "id": "node/1420789982",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "田園調布消防署雪谷出張所",
+        "tags": {
+          "@id": "node/1420789982",
+          "KSJ2:ADS": "東雪谷4-4-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "田園調布消防署雪谷出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.677305,
+          35.589135
+        ]
+      },
+      "properties": {
+        "id": "node/1420789985",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署",
+        "tags": {
+          "@id": "node/1420789985",
+          "amenity": "police",
+          "name": "田園調布警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11576437"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6987799,
+          35.5910898
+        ]
+      },
+      "properties": {
+        "id": "node/1420789986",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署中谷駐在所",
+        "tags": {
+          "@id": "node/1420789986",
+          "KSJ2:ADS": "上池台5-31-20",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署中谷駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6699667,
+          35.5860576
+        ]
+      },
+      "properties": {
+        "id": "node/1420789987",
+        "ward": "ota",
+        "category": "police",
+        "name": "Denenchofu Marukobashi Police Box",
+        "tags": {
+          "@id": "node/1420789987",
+          "amenity": "police",
+          "check_date": "2025-03-08",
+          "name": "Denenchofu Marukobashi Police Box",
+          "name:ja": "田園調布警察署丸子橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "opening_hours": "24/7",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6610204,
+          35.5957188
+        ]
+      },
+      "properties": {
+        "id": "node/1420789989",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署多摩川台駐在所",
+        "tags": {
+          "@id": "node/1420789989",
+          "amenity": "police",
+          "name": "田園調布警察署多摩川台駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6993379,
+          35.5984419
+        ]
+      },
+      "properties": {
+        "id": "node/1420789991",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署小池駐在所",
+        "tags": {
+          "@id": "node/1420789991",
+          "KSJ2:ADS": "上池台1-53-10",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署小池駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6811789,
+          35.585751
+        ]
+      },
+      "properties": {
+        "id": "node/1420789992",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署嶺駐在所",
+        "tags": {
+          "@id": "node/1420789992",
+          "KSJ2:ADS": "北嶺町34-24",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署嶺駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6671722,
+          35.5974837
+        ]
+      },
+      "properties": {
+        "id": "node/1420789995",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署田園調布駅前交番",
+        "tags": {
+          "@id": "node/1420789995",
+          "KSJ2:ADS": "田園調布2-62-3",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署田園調布駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6839764,
+          35.5977359
+        ]
+      },
+      "properties": {
+        "id": "node/1420789996",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署石川台交番",
+        "tags": {
+          "@id": "node/1420789996",
+          "KSJ2:ADS": "東雪谷2-8-6",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署石川台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6965528,
+          35.5881248
+        ]
+      },
+      "properties": {
+        "id": "node/1420789997",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署道々橋交番",
+        "tags": {
+          "@id": "node/1420789997",
+          "KSJ2:ADS": "仲池上1-24-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署道々橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.681445,
+          35.575387
+        ]
+      },
+      "properties": {
+        "id": "node/1420789998",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署鵜の木駅前交番",
+        "tags": {
+          "@id": "node/1420789998",
+          "KSJ2:ADS": "鵜の木1-16-21",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "田園調布警察署鵜の木駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69925,
+          35.559556
+        ]
+      },
+      "properties": {
+        "id": "node/1420790695",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "矢口消防署",
+        "tags": {
+          "@id": "node/1420790695",
+          "KSJ2:ADS": "多摩川2-5-20",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:postcode": "146-0095",
+          "amenity": "fire_station",
+          "fax": "+81-3-37569233",
+          "name": "矢口消防署",
+          "name:en": "Yaguchi Fire Station",
+          "name:ja": "矢口消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-37580119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6857389,
+          35.5682216
+        ]
+      },
+      "properties": {
+        "id": "node/1420790705",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "矢口消防署下丸子出張所",
+        "tags": {
+          "@id": "node/1420790705",
+          "amenity": "fire_station",
+          "name": "矢口消防署下丸子出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707444,
+          35.544586
+        ]
+      },
+      "properties": {
+        "id": "node/1420790706",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "矢口消防署西六郷出張所",
+        "tags": {
+          "@id": "node/1420790706",
+          "KSJ2:ADS": "西六郷4-1-3",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "矢口消防署西六郷出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71172,
+          35.563361
+        ]
+      },
+      "properties": {
+        "id": "node/1420790712",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "矢口消防署西蒲田出張所",
+        "tags": {
+          "@id": "node/1420790712",
+          "KSJ2:ADS": "西蒲田7-33-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "矢口消防署西蒲田出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7198486,
+          35.5557225
+        ]
+      },
+      "properties": {
+        "id": "node/1420797260",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "蒲田消防署",
+        "tags": {
+          "@id": "node/1420797260",
+          "KSJ2:ADS": "蒲田本町2-28-1",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:postcode": "144-0053",
+          "amenity": "fire_station",
+          "fax": "+81-3-37393943",
+          "name": "蒲田消防署",
+          "name:en": "Kamata Fire Station",
+          "name:ja": "蒲田消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3‐37350119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733803,
+          35.548947
+        ]
+      },
+      "properties": {
+        "id": "node/1420797263",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "蒲田消防署羽田出張所",
+        "tags": {
+          "@id": "node/1420797263",
+          "amenity": "fire_station",
+          "name": "蒲田消防署羽田出張所",
+          "name:en": "Kamata fire department - Haneda branch office",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720025,
+          35.558223
+        ]
+      },
+      "properties": {
+        "id": "node/1420797265",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署",
+        "tags": {
+          "@id": "node/1420797265",
+          "KSJ2:ADS": "蒲田本町2-3-3",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11621386"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7241575,
+          35.5613565
+        ]
+      },
+      "properties": {
+        "id": "node/1420797266",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署 京急蒲田駅前交番",
+        "tags": {
+          "@id": "node/1420797266",
+          "amenity": "police",
+          "name": "蒲田警察署 京急蒲田駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7379121,
+          35.5612656
+        ]
+      },
+      "properties": {
+        "id": "node/1420797267",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署北糀谷交番",
+        "tags": {
+          "@id": "node/1420797267",
+          "KSJ2:ADS": "大森南1-24-7",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署北糀谷交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7266464,
+          35.5561784
+        ]
+      },
+      "properties": {
+        "id": "node/1420797269",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署日の出交番",
+        "tags": {
+          "@id": "node/1420797269",
+          "KSJ2:ADS": "西糀谷4-32-17",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署日の出交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7297345,
+          35.5482983
+        ]
+      },
+      "properties": {
+        "id": "node/1420797270",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署本羽田交番",
+        "tags": {
+          "@id": "node/1420797270",
+          "KSJ2:ADS": "本羽田2-2-17",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署本羽田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7131334,
+          35.5456479
+        ]
+      },
+      "properties": {
+        "id": "node/1420797271",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署東六郷交番",
+        "tags": {
+          "@id": "node/1420797271",
+          "KSJ2:ADS": "東六郷3-6-2",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署東六郷交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746857,
+          35.550503
+        ]
+      },
+      "properties": {
+        "id": "node/1420797273",
+        "ward": "ota",
+        "category": "police",
+        "name": "穴守稲荷駅前地域安全センター",
+        "tags": {
+          "@id": "node/1420797273",
+          "KSJ2:ADS": "羽田4-6-11",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "穴守稲荷駅前地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "keishicho (URL http://www.keishicho.metro.tokyo.jp/2/kamata/pb/anamori.htm)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716692,
+          35.562722
+        ]
+      },
+      "properties": {
+        "id": "node/1420797274",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署蒲田駅東口交番",
+        "tags": {
+          "@id": "node/1420797274",
+          "KSJ2:ADS": "蒲田5-13-1-101",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署蒲田駅東口交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155061,
+          35.5624189
+        ]
+      },
+      "properties": {
+        "id": "node/1420797275",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署蒲田駅西口交番",
+        "tags": {
+          "@id": "node/1420797275",
+          "addr:block_number": "68",
+          "addr:city": "大田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "西蒲田七丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "蒲田警察署蒲田駅西口交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7093049,
+          35.5551208
+        ]
+      },
+      "properties": {
+        "id": "node/1420797276",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署 西六郷一丁目 地域安全センター",
+        "tags": {
+          "@id": "node/1420797276",
+          "amenity": "police",
+          "name": "蒲田警察署 西六郷一丁目 地域安全センター",
+          "name:ja": "西六郷一丁目地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2;survey",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7070035,
+          35.5493615
+        ]
+      },
+      "properties": {
+        "id": "node/1420797277",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署 西六郷交番",
+        "tags": {
+          "@id": "node/1420797277",
+          "amenity": "police",
+          "name": "蒲田警察署 西六郷交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716525,
+          35.569527
+        ]
+      },
+      "properties": {
+        "id": "node/1420797278",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署西蒲田交番",
+        "tags": {
+          "@id": "node/1420797278",
+          "KSJ2:ADS": "西蒲田4-4-10",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署西蒲田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7156342,
+          35.5489801
+        ]
+      },
+      "properties": {
+        "id": "node/1420797279",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署雑色交番",
+        "tags": {
+          "@id": "node/1420797279",
+          "KSJ2:ADS": "東六郷2-18-8",
+          "KSJ2:AdminArea": "東京都大田区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "蒲田警察署雑色交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6989969,
+          35.602095
+        ]
+      },
+      "properties": {
+        "id": "node/2153058397",
+        "ward": "ota",
+        "category": "police",
+        "name": "田園調布警察署 南千束地域安全センター",
+        "tags": {
+          "@id": "node/2153058397",
+          "addr:block_number": "6",
+          "addr:city": "大田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "上池台一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "田園調布警察署 南千束地域安全センター",
+          "source": "Bing,2007-04;survey",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7297196,
+          35.5689439
+        ]
+      },
+      "properties": {
+        "id": "node/2291027756",
+        "ward": "ota",
+        "category": "police",
+        "name": "大森警察署谷戸交番",
+        "tags": {
+          "@id": "node/2291027756",
+          "amenity": "police",
+          "name": "大森警察署谷戸交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6999766,
+          35.5820542
+        ]
+      },
+      "properties": {
+        "id": "node/2921870792",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/2921870792",
+          "emergency": "defibrillator",
+          "level": "1",
+          "name": "AED",
+          "operator": "オーケー仲池上店",
+          "source": "survey,2014-06"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6761828,
+          35.5816083
+        ]
+      },
+      "properties": {
+        "id": "node/2976832298",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/2976832298",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "source": "survey,2014-07"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6955979,
+          35.5690765
+        ]
+      },
+      "properties": {
+        "id": "node/3108605217",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3108605217",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "operator": "島忠ホームセンター大田千鳥店",
+          "source": "survey,2014-10"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7105965,
+          35.5939856
+        ]
+      },
+      "properties": {
+        "id": "node/3127680766",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3127680766",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "operator": "馬込文化センター",
+          "source": "survey,2014-10"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6975561,
+          35.6018761
+        ]
+      },
+      "properties": {
+        "id": "node/3292192371",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3292192371",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "operator": "三菱東京UFJ銀行長原支店",
+          "source": "survey,2015-01"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7997609,
+          35.5362366
+        ]
+      },
+      "properties": {
+        "id": "node/3296687816",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "node/3296687816",
+          "amenity": "fire_station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7216992,
+          35.589321
+        ]
+      },
+      "properties": {
+        "id": "node/3451328271",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3451328271",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6948625,
+          35.5974095
+        ]
+      },
+      "properties": {
+        "id": "node/3451337567",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3451337567",
+          "emergency": "defibrillator",
+          "level": "0",
+          "name": "AED",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6989823,
+          35.6021094
+        ]
+      },
+      "properties": {
+        "id": "node/3717723358",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3717723358",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699323,
+          35.5984281
+        ]
+      },
+      "properties": {
+        "id": "node/3717734754",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/3717734754",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7185728,
+          35.579542
+        ]
+      },
+      "properties": {
+        "id": "node/4339314942",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/4339314942",
+          "alt_name": "まちかど救急隊",
+          "emergency": "defibrillator",
+          "name": "AED",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7186491,
+          35.5796145
+        ]
+      },
+      "properties": {
+        "id": "node/4339319720",
+        "ward": "ota",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/4339319720",
+          "emergency": "defibrillator",
+          "level": "0",
+          "name": "AED",
+          "operator": "大森医師会",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7425505,
+          35.5858195
+        ]
+      },
+      "properties": {
+        "id": "node/4971588389",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4971588389",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7299929,
+          35.569746
+        ]
+      },
+      "properties": {
+        "id": "node/5827129005",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "大森消防署 山谷出張所",
+        "tags": {
+          "@id": "node/5827129005",
+          "amenity": "fire_station",
+          "name": "大森消防署 山谷出張所",
+          "name:en": "Sanya Branch Omori Fire Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7261079,
+          35.5911394
+        ]
+      },
+      "properties": {
+        "id": "node/9144225601",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9144225601",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7282929,
+          35.5885073
+        ]
+      },
+      "properties": {
+        "id": "node/9196844527",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9196844527",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.785376,
+          35.5472956
+        ]
+      },
+      "properties": {
+        "id": "node/9459478691",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459478691",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7861405,
+          35.5456861
+        ]
+      },
+      "properties": {
+        "id": "node/9459519009",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459519009",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7851829,
+          35.5470512
+        ]
+      },
+      "properties": {
+        "id": "node/9459519010",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459519010",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7833161,
+          35.5486672
+        ]
+      },
+      "properties": {
+        "id": "node/9459519011",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459519011",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7817832,
+          35.551718
+        ]
+      },
+      "properties": {
+        "id": "node/9459519016",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459519016",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7844695,
+          35.5482668
+        ]
+      },
+      "properties": {
+        "id": "node/9459524835",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524835",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7849429,
+          35.5478554
+        ]
+      },
+      "properties": {
+        "id": "node/9459524836",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524836",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7834321,
+          35.5498969
+        ]
+      },
+      "properties": {
+        "id": "node/9459524838",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524838",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7836085,
+          35.5494288
+        ]
+      },
+      "properties": {
+        "id": "node/9459524839",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524839",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7830304,
+          35.5510437
+        ]
+      },
+      "properties": {
+        "id": "node/9459524840",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524840",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7828735,
+          35.55052
+        ]
+      },
+      "properties": {
+        "id": "node/9459524841",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524841",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7831954,
+          35.5503792
+        ]
+      },
+      "properties": {
+        "id": "node/9459524842",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524842",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7837211,
+          35.5496634
+        ]
+      },
+      "properties": {
+        "id": "node/9459524843",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524843",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7847819,
+          35.5482733
+        ]
+      },
+      "properties": {
+        "id": "node/9459524844",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524844",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7853868,
+          35.5473982
+        ]
+      },
+      "properties": {
+        "id": "node/9459524845",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524845",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7854391,
+          35.547539
+        ]
+      },
+      "properties": {
+        "id": "node/9459524846",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459524846",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826576,
+          35.5505211
+        ]
+      },
+      "properties": {
+        "id": "node/9459525017",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459525017",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7830439,
+          35.550556
+        ]
+      },
+      "properties": {
+        "id": "node/9459525018",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459525018",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7835079,
+          35.5498489
+        ]
+      },
+      "properties": {
+        "id": "node/9459525019",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459525019",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7847873,
+          35.5481162
+        ]
+      },
+      "properties": {
+        "id": "node/9459525020",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9459525020",
+          "emergency": "defibrillator",
+          "level": "2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7290529,
+          35.5878125
+        ]
+      },
+      "properties": {
+        "id": "node/9849255424",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9849255424",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7035772,
+          35.5723605
+        ]
+      },
+      "properties": {
+        "id": "node/10214775111",
+        "ward": "ota",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/10214775111",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7216928,
+          35.581105
+        ]
+      },
+      "properties": {
+        "id": "node/10647988432",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/10647988432",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7500058,
+          35.5629764
+        ]
+      },
+      "properties": {
+        "id": "node/11230680981",
+        "ward": "ota",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11230680981",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7769336,
+          35.5591652
+        ]
+      },
+      "properties": {
+        "id": "node/11581710055",
+        "ward": "ota",
+        "category": "fire_station",
+        "name": "一般財団法人航空保安協会 東京第一事務所",
+        "tags": {
+          "@id": "node/11581710055",
+          "amenity": "fire_station",
+          "name": "一般財団法人航空保安協会 東京第一事務所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7408265,
+          35.5521633
+        ]
+      },
+      "properties": {
+        "id": "node/12522732546",
+        "ward": "ota",
+        "category": "police",
+        "name": "蒲田警察署大鳥居交番",
+        "tags": {
+          "@id": "node/12522732546",
+          "addr:block_number": "1",
+          "addr:city": "大田区",
+          "addr:country": "JP",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "羽田一丁目",
+          "addr:postcode": "144-0043",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "蒲田警察署大鳥居交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    }
+  ]
+}

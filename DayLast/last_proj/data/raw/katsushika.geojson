@@ -1,0 +1,1156 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T07:47:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/149336656",
+        "amenity": "police",
+        "name": "亀有警察署",
+        "name:en": "Kameari Police Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11370962",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8622399,
+          35.762329
+        ]
+      },
+      "id": "way/149336656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/222484435",
+        "amenity": "police",
+        "building": "yes",
+        "name": "堀切駅前交番",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8266272,
+          35.7470393
+        ]
+      },
+      "id": "way/222484435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233636145",
+        "amenity": "police",
+        "building": "yes",
+        "name": "葛飾警察署新小岩駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8586486,
+          35.7165962
+        ]
+      },
+      "id": "way/233636145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/758369176",
+        "amenity": "fire_station",
+        "name": "東京消防庁第七消防方面訓練場",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8612241,
+          35.7415908
+        ]
+      },
+      "id": "way/758369176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766578",
+        "amenity": "police",
+        "name": "亀有警察署 お花茶屋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8396322,
+          35.7503731
+        ]
+      },
+      "id": "node/1420766578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766579",
+        "amenity": "police",
+        "name": "亀有警察署 亀有駅北口交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8480476,
+          35.7670846
+        ]
+      },
+      "id": "node/1420766579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766580",
+        "amenity": "police",
+        "name": "亀有警察署 亀有駅南口交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8474092,
+          35.7662206
+        ]
+      },
+      "id": "node/1420766580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766581",
+        "amenity": "police",
+        "name": "亀有警察署 亀田橋駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8612746,
+          35.7552073
+        ]
+      },
+      "id": "node/1420766581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766582",
+        "amenity": "police",
+        "name": "亀有警察署十三橋交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8438839,
+          35.7569687
+        ]
+      },
+      "id": "node/1420766582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766583",
+        "KSJ2:ADS": "南水元3-6-2",
+        "KSJ2:AdminArea": "東京都葛飾区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "亀有警察署南水元交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.866337,
+          35.776117
+        ]
+      },
+      "id": "node/1420766583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766584",
+        "amenity": "police",
+        "name": "亀有警察署 堀切七丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8302148,
+          35.7539411
+        ]
+      },
+      "id": "node/1420766584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766585",
+        "amenity": "police",
+        "name": "亀有警察署 小菅交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "bing,survey Apr-May 2013",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8232923,
+          35.7553736
+        ]
+      },
+      "id": "node/1420766585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766586",
+        "KSJ2:ADS": "東金町7-5-5",
+        "KSJ2:AdminArea": "東京都葛飾区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "亀有警察署東金町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8796678,
+          35.7765696
+        ]
+      },
+      "id": "node/1420766586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766588",
+        "amenity": "police",
+        "name": "亀有警察署 柴又二丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8705079,
+          35.7584161
+        ]
+      },
+      "id": "node/1420766588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766589",
+        "amenity": "police",
+        "name": "亀有警察署柴又交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8769165,
+          35.7562071
+        ]
+      },
+      "id": "node/1420766589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766590",
+        "KSJ2:ADS": "東水元3-1-3",
+        "KSJ2:AdminArea": "東京都葛飾区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "亀有警察署水元公園前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.866921,
+          35.781005
+        ]
+      },
+      "id": "node/1420766590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766591",
+        "amenity": "police",
+        "name": "亀有警察署水元駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8529282,
+          35.7808322
+        ]
+      },
+      "id": "node/1420766591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766592",
+        "amenity": "police",
+        "name": "亀有警察署葛三橋交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.85977,
+          35.7932862
+        ]
+      },
+      "id": "node/1420766592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766593",
+        "amenity": "police",
+        "name": "亀有警察署 西亀有交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8335076,
+          35.7590227
+        ]
+      },
+      "id": "node/1420766593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766594",
+        "amenity": "police",
+        "name": "亀有警察署西水元駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8573009,
+          35.7890393
+        ]
+      },
+      "id": "node/1420766594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766595",
+        "amenity": "police",
+        "name": "亀有警察署 金町駅北口交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8702694,
+          35.7701064
+        ]
+      },
+      "id": "node/1420766595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766596",
+        "amenity": "police",
+        "name": "亀有警察署金町駅南口交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8720042,
+          35.7693314
+        ]
+      },
+      "id": "node/1420766596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766597",
+        "amenity": "police",
+        "name": "亀有警察署 青戸交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8510482,
+          35.7536774
+        ]
+      },
+      "id": "node/1420766597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766598",
+        "amenity": "police",
+        "name": "亀有警察署 青戸北部駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8577736,
+          35.7527237
+        ]
+      },
+      "id": "node/1420766598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766599",
+        "amenity": "police",
+        "name": "亀有警察署 青戸南部駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8590588,
+          35.7480992
+        ]
+      },
+      "id": "node/1420766599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420781776",
+        "KSJ2:ADS": "東立石3-12-7",
+        "KSJ2:AdminArea": "東京都葛飾区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:postcode": "124-0013",
+        "amenity": "fire_station",
+        "fax": "+81-3-36911199",
+        "name": "本田消防署",
+        "name:en": "Honden Fire Station",
+        "name:ja": "本田消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第七消防方面本部",
+        "phone": "+81-3-36940119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-honden/",
+        "wikidata": "Q48764992",
+        "wikipedia": "ja:本田消防署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8442372,
+          35.73618
+        ]
+      },
+      "id": "node/1420781776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420781777",
+        "amenity": "fire_station",
+        "name": "本田消防署上平井出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8530206,
+          35.7233961
+        ]
+      },
+      "id": "node/1420781777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420781778",
+        "amenity": "fire_station",
+        "name": "本田消防署南綾瀬出張所",
+        "name:en": "Honda Fire Station Minami-Ayase Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8372995,
+          35.7505653
+        ]
+      },
+      "id": "node/1420781778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420781780",
+        "amenity": "fire_station",
+        "name": "本田消防署青戸出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8522693,
+          35.7519811
+        ]
+      },
+      "id": "node/1420781780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797223",
+        "amenity": "police",
+        "name": "葛飾警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11621086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8389172,
+          35.7380321
+        ]
+      },
+      "id": "node/1420797223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797224",
+        "amenity": "police",
+        "name": "葛飾警察署たつみ橋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.856424,
+          35.719513
+        ]
+      },
+      "id": "node/1420797224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797225",
+        "amenity": "police",
+        "name": "葛飾警察署上平井交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8528816,
+          35.723433
+        ]
+      },
+      "id": "node/1420797225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797226",
+        "amenity": "police",
+        "name": "葛飾警察署 四ツ木交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8334653,
+          35.7354203
+        ]
+      },
+      "id": "node/1420797226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797227",
+        "amenity": "police",
+        "name": "葛飾警察署四ツ木駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8339393,
+          35.7318342
+        ]
+      },
+      "id": "node/1420797227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797228",
+        "amenity": "police",
+        "name": "葛飾警察署 堀切交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.830481,
+          35.7407525
+        ]
+      },
+      "id": "node/1420797228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797230",
+        "amenity": "police",
+        "name": "葛飾警察署奥戸交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.865247,
+          35.7343238
+        ]
+      },
+      "id": "node/1420797230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797231",
+        "amenity": "police",
+        "name": "葛飾警察署 宝町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8366557,
+          35.7468194
+        ]
+      },
+      "id": "node/1420797231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797232",
+        "amenity": "police",
+        "name": "葛飾警察署 小松橋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8666376,
+          35.7200947
+        ]
+      },
+      "id": "node/1420797232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797233",
+        "amenity": "police",
+        "name": "葛飾警察署 平和橋交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8479926,
+          35.7284048
+        ]
+      },
+      "id": "node/1420797233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797235",
+        "amenity": "police",
+        "name": "葛飾警察署立石交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8454716,
+          35.7366242
+        ]
+      },
+      "id": "node/1420797235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797236",
+        "amenity": "police",
+        "name": "葛飾警察署立石駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8490674,
+          35.7388475
+        ]
+      },
+      "id": "node/1420797236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797237",
+        "amenity": "police",
+        "name": "葛飾警察署細田交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8695527,
+          35.740142
+        ]
+      },
+      "id": "node/1420797237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797238",
+        "amenity": "police",
+        "name": "葛飾警察署 鎌倉交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8802143,
+          35.7473684
+        ]
+      },
+      "id": "node/1420797238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797239",
+        "amenity": "police",
+        "name": "葛飾警察署 青砥駅前交番",
+        "name:en": "Aoto Station Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "opening_hours": "24/7",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8566192,
+          35.7462131
+        ]
+      },
+      "id": "node/1420797239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797240",
+        "amenity": "police",
+        "name": "葛飾警察署 高砂地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8719102,
+          35.7469704
+        ]
+      },
+      "id": "node/1420797240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797241",
+        "amenity": "police",
+        "name": "葛飾警察署 高砂駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.868019,
+          35.7511165
+        ]
+      },
+      "id": "node/1420797241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799345",
+        "amenity": "fire_station",
+        "name": "金町消防署",
+        "name:en": "Kanamachi Fire Station",
+        "name:es": "Estación de bomberos Kanamachi",
+        "name:ja": "金町消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第七消防方面本部",
+        "source": "KSJ2;(URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-kanamati/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.865116,
+          35.763897
+        ]
+      },
+      "id": "node/1420799345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799346",
+        "amenity": "fire_station",
+        "name": "金町消防署亀有出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8462601,
+          35.7619898
+        ]
+      },
+      "id": "node/1420799346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799349",
+        "amenity": "fire_station",
+        "check_date": "2023-06-24",
+        "name": "金町消防署柴又出張所",
+        "name:en": "Kanamachi Fire Station, Shibamata Branch",
+        "name:ja": "金町消防署柴又出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8786795,
+          35.7518256
+        ]
+      },
+      "id": "node/1420799349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799351",
+        "KSJ2:ADS": "水元3-11-1",
+        "KSJ2:AdminArea": "東京都葛飾区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "金町消防署水元出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.863643,
+          35.780811
+        ]
+      },
+      "id": "node/1420799351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2314532479",
+        "amenity": "police",
+        "name": "堀切駅前交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8266212,
+          35.7470393
+        ]
+      },
+      "id": "node/2314532479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7083693095",
+        "amenity": "fire_station",
+        "name": "本田消防署奥戸出張所",
+        "name:en": "Okudo Branch Honden Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8670583,
+          35.7358087
+        ]
+      },
+      "id": "node/7083693095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9211662902",
+        "amenity": "police",
+        "name": "堀切駅前交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8264142,
+          35.7467836
+        ]
+      },
+      "id": "node/9211662902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9220123452",
+        "amenity": "fire_station",
+        "name": "本田消防団第四分団 防災資機材格納庫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8572198,
+          35.7462167
+        ]
+      },
+      "id": "node/9220123452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9268969107",
+        "amenity": "fire_station",
+        "name": "本田消防団第十二分団本部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8579775,
+          35.7529535
+        ]
+      },
+      "id": "node/9268969107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132689690",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8852852,
+          35.7829053
+        ]
+      },
+      "id": "node/10132689690"
+    }
+  ]
+}

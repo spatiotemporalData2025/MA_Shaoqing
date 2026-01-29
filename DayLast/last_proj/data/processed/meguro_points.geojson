@@ -1,0 +1,2513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6793606,
+          35.6087859
+        ]
+      },
+      "properties": {
+        "id": "relation/16219422",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立第十一中学校",
+        "tags": {
+          "@id": "relation/16219422",
+          "addr:postcode": "152-0034",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3718-6301",
+          "isced:level": "2",
+          "loc_name": "目十一中",
+          "name": "目黒区立第十一中学校",
+          "name:ja": "目黒区立第十一中学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "目黒区",
+          "operator:type": "public",
+          "phone": "03-3718-6506",
+          "short_name": "第十一中学校",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "type": "multipolygon",
+          "website": "https://www.meguro.ed.jp/meguro11/",
+          "wikidata": "Q11581642",
+          "wikipedia": "ja:目黒区立第十一中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6773572,
+          35.6618644
+        ]
+      },
+      "properties": {
+        "id": "way/27406744",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京大学 駒場リサーチキャンパス",
+        "tags": {
+          "@id": "way/27406744",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "東京大学 駒場リサーチキャンパス",
+          "name:en": "The University of Tokyo, Komaba Research Campus",
+          "name:es": "Universidad de Tokio (Campus de investigación Komaba)",
+          "wheelchair": "limited",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6608655,
+          35.6251896
+        ]
+      },
+      "properties": {
+        "id": "way/27620248",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "駒沢オリンピック公園総合運動場",
+        "tags": {
+          "@id": "way/27620248",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "駒沢オリンピック公園総合運動場",
+          "name:en": "Komazawa Olympic Park",
+          "name:es": "Parque Olímpico Komazawa",
+          "name:ja": "駒沢オリンピック公園",
+          "name:zh": "駒澤奧林匹克公園",
+          "source": "Bing",
+          "sport": "multi",
+          "wikidata": "Q2021485",
+          "wikipedia": "ja:駒沢オリンピック公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6801944,
+          35.6621432
+        ]
+      },
+      "properties": {
+        "id": "way/28145788",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "駒場公園",
+        "tags": {
+          "@id": "way/28145788",
+          "addr:block_number": "3",
+          "addr:city": "目黒区",
+          "addr:housenumber": "55",
+          "addr:neighbourhood": "駒場四丁目",
+          "addr:province": "東京都",
+          "contact:website": "https://www.city.meguro.tokyo.jp/shisetsu/shisetsu/koen/komaba.html",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "駒場公園",
+          "name:en": "Komaba Park",
+          "name:es": "Parque Komaba",
+          "name:fr": "Parc Komaba",
+          "name:ja-Hira": "こまばこうえん",
+          "name:ja-Latn": "Komaba-kōen",
+          "name:ru": "Парк Комаба",
+          "opening_hours": "Tu-Su 09:00-16:30; Mo off; Dec 29-Jan 03 off",
+          "operator": "目黒区",
+          "operator:wikidata": "Q233903",
+          "start_date": "1967",
+          "wikidata": "Q11668323",
+          "wikimedia_commons": "Category:Komaba Park",
+          "wikipedia": "ja:駒場公園 (目黒区)",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6790525,
+          35.6587065
+        ]
+      },
+      "properties": {
+        "id": "way/32619125",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京都立 国際高等学校",
+        "tags": {
+          "@id": "way/32619125",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "東京都立 国際高等学校",
+          "wikidata": "Q10699299",
+          "wikipedia": "ja:東京都立国際高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6819067,
+          35.6597022
+        ]
+      },
+      "properties": {
+        "id": "way/43890867",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 駒場小学校",
+        "tags": {
+          "@id": "way/43890867",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立 駒場小学校",
+          "name:en": "Komaba Elementary School",
+          "name:es": "Escuela primaria Komaba",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q17218452",
+          "wikipedia": "ja:目黒区立駒場小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6713589,
+          35.6207773
+        ]
+      },
+      "properties": {
+        "id": "way/53751935",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京都立 桜修館中等教育学校",
+        "tags": {
+          "@id": "way/53751935",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "name": "東京都立 桜修館中等教育学校",
+          "wikidata": "Q11525520",
+          "wikipedia": "ja:東京都立桜修館中等教育学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6788411,
+          35.612529
+        ]
+      },
+      "properties": {
+        "id": "way/88971166",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 中根小学校",
+        "tags": {
+          "@id": "way/88971166",
+          "addr:postcode": "152-0034",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3718-5229",
+          "name": "目黒区立 中根小学校",
+          "name:ja": "中根小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "03-3718-4506",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581628",
+          "wikipedia": "ja:目黒区立中根小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135678,
+          35.642018
+        ]
+      },
+      "properties": {
+        "id": "way/93182025",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "恵比寿ガーデンプレイス",
+        "tags": {
+          "@id": "way/93182025",
+          "alt_name:en": "Yebisu Garden Place",
+          "alt_name:es": "Yebisu Garden Place",
+          "building": "commercial",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "恵比寿ガーデンプレイス",
+          "name:en": "Ebisu Garden Place",
+          "name:es": "Ebisu Garden Place",
+          "source": "Bing, 2007-04",
+          "wikidata": "Q11259433",
+          "wikimedia_commons": "Category:Yebisu Garden Place",
+          "wikipedia": "ja:恵比寿ガーデンプレイス",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6807485,
+          35.6584859
+        ]
+      },
+      "properties": {
+        "id": "way/96225927",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "駒場野公園",
+        "tags": {
+          "@id": "way/96225927",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "駒場野公園",
+          "name:en": "Komabano Park",
+          "name:ja_rm": "Komabano Kōen",
+          "wikidata": "Q11668330",
+          "wikimedia_commons": "Category:Komabano Park",
+          "wikipedia": "ja:駒場野公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6907025,
+          35.6463072
+        ]
+      },
+      "properties": {
+        "id": "way/107836736",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立東山中学校",
+        "tags": {
+          "@id": "way/107836736",
+          "addr:block_number": "24",
+          "addr:city": "目黒区",
+          "addr:housenumber": "31",
+          "addr:neighbourhood": "東山一丁目",
+          "addr:postcode": "153-0043",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3711-8896",
+          "name": "目黒区立東山中学校",
+          "name:en": "Higashiyama Junior High School",
+          "name:ja": "目黒区立東山中学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "目黒区教育委員会",
+          "phone": "03-3711-8794",
+          "source": "KSJ2;(URL) 2014",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.meguro.ed.jp/meghyjhs/",
+          "wikidata": "Q11581632",
+          "wikipedia": "ja:目黒区立東山中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6865352,
+          35.647946
+        ]
+      },
+      "properties": {
+        "id": "way/107852352",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東山公園",
+        "tags": {
+          "@id": "way/107852352",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "東山公園",
+          "name:en": "Higashiyama Park",
+          "name:ja": "東山公園",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6863214,
+          35.6467866
+        ]
+      },
+      "properties": {
+        "id": "way/107852378",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 東山小学校",
+        "tags": {
+          "@id": "way/107852378",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立 東山小学校",
+          "name:ja": "東山小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581633",
+          "wikipedia": "ja:目黒区立東山小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6848043,
+          35.6473637
+        ]
+      },
+      "properties": {
+        "id": "way/107875924",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東山公園",
+        "tags": {
+          "@id": "way/107875924",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "東山公園",
+          "note": "estimated",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687843,
+          35.6339361
+        ]
+      },
+      "properties": {
+        "id": "way/116429944",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立五本木小学校",
+        "tags": {
+          "@id": "way/116429944",
+          "addr:block_number": "24",
+          "addr:city": "目黒区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "五本木二丁目",
+          "addr:postcode": "153-0053",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3711-8420",
+          "name": "目黒区立五本木小学校",
+          "name:en": "Gohongi Elementary School",
+          "name:ja": "目黒区立五本木小学校",
+          "phone": "03-3711-8494",
+          "source": "KSJ2;Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916654",
+          "wikipedia": "ja:目黒区立五本木小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6682301,
+          35.6269064
+        ]
+      },
+      "properties": {
+        "id": "way/116483155",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立東根小学校",
+        "tags": {
+          "@id": "way/116483155",
+          "addr:block_number": "20",
+          "addr:city": "目黒区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "東が丘一丁目",
+          "addr:postcode": "152-0021",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3424-6614",
+          "name": "目黒区立東根小学校",
+          "name:en": "Higashine Elementary School",
+          "name:ja": "目黒区立東根小学校",
+          "phone": "+81 3-3424-4511",
+          "source": "KSJ2;Bing;National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q21019714",
+          "wikipedia": "ja:目黒区立東根小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6827082,
+          35.6193981
+        ]
+      },
+      "properties": {
+        "id": "way/116949669",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立第八中学校",
+        "tags": {
+          "@id": "way/116949669",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立第八中学校",
+          "name:ja": "目黒区立第八中学校",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581640",
+          "wikipedia": "ja:目黒区立第八中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7092419,
+          35.6340793
+        ]
+      },
+      "properties": {
+        "id": "way/137629357",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立下目黒小学校",
+        "tags": {
+          "@id": "way/137629357",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立下目黒小学校",
+          "name:en": "Shimogami Elementary School",
+          "name:es": "Escuela primaria Shimogami",
+          "name:ja": "目黒区立下目黒小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2;Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581627",
+          "wikipedia": "ja:目黒区立下目黒小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7076061,
+          35.6308232
+        ]
+      },
+      "properties": {
+        "id": "way/137629358",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立大鳥中学校",
+        "tags": {
+          "@id": "way/137629358",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立大鳥中学校",
+          "name:ja": "目黒区立大鳥中学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2;Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81964028",
+          "wikipedia": "ja:目黒区立大鳥中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6716341,
+          35.6180699
+        ]
+      },
+      "properties": {
+        "id": "way/159018560",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立八雲小学校",
+        "tags": {
+          "@id": "way/159018560",
+          "addr:block_number": "5",
+          "addr:city": "目黒区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "八雲二丁目",
+          "addr:postcode": "152-0023",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3718-5752",
+          "name": "目黒区立八雲小学校",
+          "name:ja": "目黒区立八雲小学校",
+          "phone": "+81 3-3718-6306",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581630",
+          "wikipedia": "ja:目黒区立八雲小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6738406,
+          35.6101769
+        ]
+      },
+      "properties": {
+        "id": "way/159029483",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立緑ヶ丘小学校",
+        "tags": {
+          "@id": "way/159029483",
+          "addr:postcode": "152-0034",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3718-5389",
+          "name": "目黒区立緑ヶ丘小学校",
+          "name:ja": "目黒区立緑ヶ丘小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "phone": "03-3718-5406",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581645",
+          "wikipedia": "ja:目黒区立緑ヶ丘小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7093173,
+          35.6372432
+        ]
+      },
+      "properties": {
+        "id": "way/160074269",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立田道小学校",
+        "tags": {
+          "@id": "way/160074269",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立田道小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916656",
+          "wikipedia": "ja:目黒区立田道小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6903664,
+          35.6384834
+        ]
+      },
+      "properties": {
+        "id": "way/161725454",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立上目黒小学校",
+        "tags": {
+          "@id": "way/161725454",
+          "addr:block_number": "12",
+          "addr:city": "目黒区",
+          "addr:housenumber": "13",
+          "addr:neighbourhood": "五本木一丁目",
+          "addr:postcode": "153-0053",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3719-2747",
+          "name": "目黒区立上目黒小学校",
+          "name:en": "Kamimeguro Elementary School",
+          "name:ja": "目黒区立上目黒小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "03-3719-2594",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q60986041",
+          "wikipedia": "ja:目黒区立上目黒小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6729642,
+          35.6214302
+        ]
+      },
+      "properties": {
+        "id": "way/163614822",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "めぐろ区民キャンパス",
+        "tags": {
+          "@id": "way/163614822",
+          "emergency": "assembly_point",
+          "leisure": "common",
+          "name": "めぐろ区民キャンパス",
+          "name:en": "Meguro Citizens Campus",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6902327,
+          35.6274511
+        ]
+      },
+      "properties": {
+        "id": "way/165335017",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立鷹番小学校",
+        "tags": {
+          "@id": "way/165335017",
+          "addr:block_number": "20",
+          "addr:city": "目黒区",
+          "addr:housenumber": "26",
+          "addr:neighbourhood": "中央町一丁目",
+          "addr:postcode": "152-0001",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3714-3796",
+          "name": "目黒区立鷹番小学校",
+          "name:en": "Takaban Elementary School",
+          "name:ja": "目黒区立鷹番小学校",
+          "phone": "+81 3-3714-2594",
+          "source": "KSJ2;Bing 2007",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "wikidata": "Q11581647",
+          "wikipedia": "ja:目黒区立鷹番小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7031734,
+          35.6254208
+        ]
+      },
+      "properties": {
+        "id": "way/170295471",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "林試の森公園",
+        "tags": {
+          "@id": "way/170295471",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "林試の森公園",
+          "name:en": "Rinshi No Mori Park",
+          "name:es": "Parque Rinshi No Mori",
+          "name:ja_rm": "Rinshi-no-mori Kōen",
+          "wikidata": "Q11533314",
+          "wikimedia_commons": "Category:Rinshinomori Park",
+          "wikipedia": "ja:林試の森公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6992879,
+          35.626972
+        ]
+      },
+      "properties": {
+        "id": "way/170295527",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 不動小学校",
+        "tags": {
+          "@id": "way/170295527",
+          "addr:block_number": "11",
+          "addr:city": "目黒区",
+          "addr:housenumber": "35",
+          "addr:neighbourhood": "下目黒六丁目",
+          "addr:postcode": "153-0064",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3714-4654",
+          "name": "目黒区立 不動小学校",
+          "name:ja": "不動小学校",
+          "phone": "+81 3-3714-3594",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916663",
+          "wikipedia": "ja:目黒区立不動小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6984965,
+          35.6322758
+        ]
+      },
+      "properties": {
+        "id": "way/170295685",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 油面小学校",
+        "tags": {
+          "@id": "way/170295685",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立 油面小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581634",
+          "wikipedia": "ja:目黒区立油面小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6949561,
+          35.6370708
+        ]
+      },
+      "properties": {
+        "id": "way/170295781",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京都立目黒高等学校",
+        "tags": {
+          "@id": "way/170295781",
+          "addr:block_number": "7",
+          "addr:city": "目黒区",
+          "addr:housenumber": "15",
+          "addr:neighbourhood": "祐天寺二丁目",
+          "addr:postcode": "153-0052",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3792-5945",
+          "name": "東京都立目黒高等学校",
+          "name:en": "Meguro High School",
+          "name:ja": "東京都立目黒高等学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "03-3792-5541",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11525562",
+          "wikipedia": "ja:東京都立目黒高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6992753,
+          35.639713
+        ]
+      },
+      "properties": {
+        "id": "way/170295842",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立中目黒小学校",
+        "tags": {
+          "@id": "way/170295842",
+          "addr:block_number": "13",
+          "addr:city": "目黒区",
+          "addr:housenumber": "32",
+          "addr:neighbourhood": "中目黒三丁目",
+          "addr:postcode": "153-0061",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3711-7626",
+          "name": "目黒区立中目黒小学校",
+          "name:en": "Nakameguro Elementary School",
+          "name:ja": "目黒区立中目黒小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "03-3711-7628",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581629",
+          "wikipedia": "ja:目黒区立中目黒小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6919472,
+          35.6226977
+        ]
+      },
+      "properties": {
+        "id": "way/170295896",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立第七中学校",
+        "tags": {
+          "@id": "way/170295896",
+          "addr:block_number": "1",
+          "addr:city": "目黒区",
+          "addr:housenumber": "33",
+          "addr:neighbourhood": "碑文谷一丁目",
+          "addr:postcode": "152-0003",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3714-3761",
+          "name": "目黒区立第七中学校",
+          "name:en": "Meguro7 Junior High School",
+          "name:ja": "目黒区立第七中学校",
+          "phone": "+81 3-3714-3794",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581639",
+          "wikipedia": "ja:目黒区立第七中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6926053,
+          35.6513552
+        ]
+      },
+      "properties": {
+        "id": "way/179858735",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立菅刈小学校",
+        "tags": {
+          "@id": "way/179858735",
+          "addr:block_number": "3",
+          "addr:city": "目黒区",
+          "addr:housenumber": "26",
+          "addr:neighbourhood": "青葉台三丁目",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3461-0623",
+          "name": "目黒区立菅刈小学校",
+          "name:en": "Sugekari Elementary School",
+          "name:ja": "目黒区立菅刈小学校",
+          "name:ja_rm": "Sugekari Shōgakkō",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "03-3461-2569",
+          "source": "KSJ2;image;Bing 2010",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581644",
+          "wikipedia": "ja:目黒区立菅刈小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6926105,
+          35.6441271
+        ]
+      },
+      "properties": {
+        "id": "way/179879289",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立烏森小学校",
+        "tags": {
+          "@id": "way/179879289",
+          "addr:block_number": "37",
+          "addr:city": "目黒区",
+          "addr:housenumber": "27",
+          "addr:neighbourhood": "上目黒三丁目",
+          "addr:postcode": "153-0051",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3719-2857",
+          "name": "目黒区立烏森小学校",
+          "name:en": "Karasumori Elementary School",
+          "name:ja": "目黒区立烏森小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "03-3719-1794",
+          "source": "KSJ2;image;Bing 2010",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916649",
+          "wikipedia": "ja:目黒区立烏森小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7052617,
+          35.640757
+        ]
+      },
+      "properties": {
+        "id": "way/186794806",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "中目黒公園",
+        "tags": {
+          "@id": "way/186794806",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "中目黒公園",
+          "name:en": "Nakameguro Park",
+          "wikidata": "Q42311906",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7040422,
+          35.6414441
+        ]
+      },
+      "properties": {
+        "id": "way/186798314",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京共済病院",
+        "tags": {
+          "@id": "way/186798314",
+          "amenity": "hospital",
+          "emergency": "assembly_point",
+          "healthcare": "hospital",
+          "name": "東京共済病院",
+          "name:en": "Tokyo Kyosai Hospital",
+          "name:ja": "東京共済病院",
+          "opening_hours": "Mo-Fr 8:30-17:00; Sa[1,3,5] 8:30-12:30; Sa[2,4],Su,PH OFF",
+          "wikidata": "Q11524555",
+          "wikimedia_commons": "Category:Tokyo Kyosai Hospital",
+          "wikipedia": "ja:東京共済病院",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6908027,
+          35.615474
+        ]
+      },
+      "properties": {
+        "id": "way/258734702",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立原町小学校",
+        "tags": {
+          "@id": "way/258734702",
+          "addr:block_number": "18",
+          "addr:city": "目黒区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "原町二丁目",
+          "addr:postcode": "152-0003",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3714-3995",
+          "name": "目黒区立原町小学校",
+          "name:ja": "目黒区立原町小学校",
+          "phone": "03-3714-2794",
+          "source": "KSJ2;Bing 2010",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916661",
+          "wikipedia": "ja:目黒区立原町小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6963147,
+          35.6185288
+        ]
+      },
+      "properties": {
+        "id": "way/258734703",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 向原小学校",
+        "tags": {
+          "@id": "way/258734703",
+          "addr:block_number": "7",
+          "addr:city": "目黒区",
+          "addr:housenumber": "15",
+          "addr:neighbourhood": "目黒本町六丁目",
+          "addr:postcode": "152-0002",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3714-6204",
+          "name": "目黒区立 向原小学校",
+          "name:ja": "向原小学校",
+          "operator": "目黒区教育委員会",
+          "phone": "+81 3-3714-1794",
+          "source": "Bing 2010;KSJ2;(URL) 2014",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.meguro.ed.jp/memkhreh/",
+          "wikidata": "Q81916652",
+          "wikipedia": "ja:目黒区立向原小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6670631,
+          35.6154571
+        ]
+      },
+      "properties": {
+        "id": "way/258734704",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立宮前小学校",
+        "tags": {
+          "@id": "way/258734704",
+          "addr:block_number": "13",
+          "addr:city": "目黒区",
+          "addr:housenumber": "21",
+          "addr:neighbourhood": "八雲三丁目",
+          "addr:postcode": "152-0023",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3718-5091",
+          "name": "目黒区立宮前小学校",
+          "name:en": "Miyamae Elementary School",
+          "name:ja": "目黒区立宮前小学校",
+          "phone": "+81 3-3718-5506",
+          "source": "KSJ2;Bing 2010;National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916665",
+          "wikipedia": "ja:目黒区立宮前小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6908512,
+          35.6194604
+        ]
+      },
+      "properties": {
+        "id": "way/258734705",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立碑小学校",
+        "tags": {
+          "@id": "way/258734705",
+          "addr:block_number": "18",
+          "addr:city": "目黒区",
+          "addr:housenumber": "2",
+          "addr:neighbourhood": "碑文谷一丁目",
+          "addr:postcode": "152-0003",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3714-1770",
+          "name": "目黒区立碑小学校",
+          "name:ja": "目黒区立碑小学校",
+          "phone": "+81 3-3714-1594",
+          "source": "KSJ2;Bing 2010",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581637",
+          "wikipedia": "ja:目黒区立碑小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6949447,
+          35.6227936
+        ]
+      },
+      "properties": {
+        "id": "way/258734706",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立月光原小学校",
+        "tags": {
+          "@id": "way/258734706",
+          "addr:block_number": "15",
+          "addr:city": "目黒区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "目黒本町四丁目",
+          "addr:postcode": "152-0002",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3-3714-3260",
+          "name": "目黒区立月光原小学校",
+          "name:ja": "目黒区立月光原小学校",
+          "phone": "+81 3-3714-2694",
+          "source": "KSJ2;National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81916659",
+          "wikipedia": "ja:目黒区立月光原小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6949401,
+          35.6133753
+        ]
+      },
+      "properties": {
+        "id": "way/258734708",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 第九中学校",
+        "tags": {
+          "@id": "way/258734708",
+          "addr:block_number": "29",
+          "addr:city": "目黒区",
+          "addr:housenumber": "26",
+          "addr:neighbourhood": "洗足一丁目",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3714-4776",
+          "name": "目黒区立 第九中学校",
+          "name:ja": "第九中学校",
+          "phone": "03-3714-4694",
+          "source": "KSJ2;Bing 2010;National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q60986281",
+          "wikipedia": "ja:目黒区立第九中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6852027,
+          35.660624
+        ]
+      },
+      "properties": {
+        "id": "way/317015602",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京大学 駒場Ⅰキャンパス",
+        "tags": {
+          "@id": "way/317015602",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "東京大学 駒場Ⅰキャンパス",
+          "name:en": "The University of Tokyo, Komaba Ⅰ Campus",
+          "name:es": "Universidad de Tokio (Campus Komaba)",
+          "name:ja": "東京大学 駒場Ⅰキャンパス",
+          "wikidata": "Q7896466",
+          "wikimedia_commons": "Category:Komaba Campus, the University of Tokyo",
+          "wikipedia": "ja:東京大学駒場地区キャンパス",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6780309,
+          35.6101704
+        ]
+      },
+      "properties": {
+        "id": "node/442128636",
+        "ward": "meguro",
+        "category": "police",
+        "name": "緑が丘交番",
+        "tags": {
+          "@id": "node/442128636",
+          "amenity": "police",
+          "name": "緑が丘交番",
+          "name:ja_rm": "Midorigaoka Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6821365,
+          35.6271717
+        ]
+      },
+      "properties": {
+        "id": "way/585488007",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "碑文谷体育館",
+        "tags": {
+          "@id": "way/585488007",
+          "emergency": "assembly_point",
+          "leisure": "sports_centre",
+          "level": "3",
+          "name": "碑文谷体育館",
+          "sport": "basketball;volleyball;badminton;table_tennis",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6938144,
+          35.6502117
+        ]
+      },
+      "properties": {
+        "id": "way/627424795",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "菅刈公園",
+        "tags": {
+          "@id": "way/627424795",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "菅刈公園",
+          "name:en": "Sugekari Park",
+          "name:ja_rm": "Sugekari Kōen",
+          "opening_hours": "06:00-21:00",
+          "wikidata": "Q11619120",
+          "wikimedia_commons": "Category:Sugekari Park",
+          "wikipedia": "ja:菅刈公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6938103,
+          35.6345044
+        ]
+      },
+      "properties": {
+        "id": "way/628305916",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立目黒中央中学校",
+        "tags": {
+          "@id": "way/628305916",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "name": "目黒区立目黒中央中学校",
+          "name:ja": "目黒区立目黒中央中学校",
+          "wikidata": "Q11581635",
+          "wikipedia": "ja:目黒区立目黒中央中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6831352,
+          35.6152273
+        ]
+      },
+      "properties": {
+        "id": "way/633523799",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立 大岡山小学校",
+        "tags": {
+          "@id": "way/633523799",
+          "addr:block_number": "3",
+          "addr:city": "目黒区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "平町二丁目",
+          "addr:postcode": "152-0032",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3718-5682",
+          "name": "目黒区立 大岡山小学校",
+          "name:en": "Ookayama Elementary School",
+          "name:ja": "大岡山小学校",
+          "phone": "03-3718-5306",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581631",
+          "wikipedia": "ja:目黒区立大岡山小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6688429,
+          35.6239317
+        ]
+      },
+      "properties": {
+        "id": "way/634176776",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立第十中学校",
+        "tags": {
+          "@id": "way/634176776",
+          "addr:block_number": "2",
+          "addr:city": "目黒区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "八雲五丁目",
+          "addr:postcode": "152-0023",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3718-6144",
+          "fixme": "English name is strange",
+          "name": "目黒区立第十中学校",
+          "name:en": "meguro10 Junior High School",
+          "name:ja": "目黒区立第十中学校",
+          "phone": "03-3718-6406",
+          "source": "KSJ2;National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581641",
+          "wikipedia": "ja:目黒区立第十中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6869662,
+          35.654392
+        ]
+      },
+      "properties": {
+        "id": "way/635382981",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "目黒区立第一中学校",
+        "tags": {
+          "@id": "way/635382981",
+          "addr:block_number": "11",
+          "addr:city": "目黒区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "大橋二丁目",
+          "addr:postcode": "153-0044",
+          "addr:province": "東京都",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "fax": "03-3466-6182",
+          "name": "目黒区立第一中学校",
+          "name:en": "Daiichi Junior High School",
+          "name:ja": "目黒区立第一中学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "+81 3-3466-6158",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581636",
+          "wikipedia": "ja:目黒区立第一中学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702745,
+          35.6391644
+        ]
+      },
+      "properties": {
+        "id": "way/661344336",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "めぐろ学校サポートセンター",
+        "tags": {
+          "@id": "way/661344336",
+          "amenity": "social_centre",
+          "emergency": "assembly_point",
+          "name": "めぐろ学校サポートセンター",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.685385,
+          35.6551469
+        ]
+      },
+      "properties": {
+        "id": "way/1382197850",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "東京都立駒場高等学校",
+        "tags": {
+          "@id": "way/1382197850",
+          "addr:postcode": "153-0044",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "name": "東京都立駒場高等学校",
+          "name:en": "Komaba High School",
+          "name:ja": "東京都立駒場高等学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "東京都教育委員会",
+          "operator:en": "Tokyo Metropolitan Government Board of Education",
+          "operator:ja": "東京都教育委員会",
+          "operator:type": "public",
+          "operator:wikidata": "Q6131931",
+          "source": "KSJ2;(URL) 2014",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.komaba-h.metro.tokyo.jp/cms/html/top/main/",
+          "wikidata": "Q11525642",
+          "wikimedia_commons": "Category:Tokyo Metropolitan Komaba High School",
+          "wikipedia": "ja:東京都立駒場高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002977,
+          35.6298274
+        ]
+      },
+      "properties": {
+        "id": "node/1420790498",
+        "ward": "meguro",
+        "category": "fire_station",
+        "name": "目黒消防署",
+        "tags": {
+          "@id": "node/1420790498",
+          "amenity": "fire_station",
+          "fax": "+81-3-37944196",
+          "name": "目黒消防署",
+          "name:en": "Meguro Fire Station",
+          "name:es": "Estación de bomberos de Meguro",
+          "name:ja": "目黒消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "東京消防庁第三消防方面本部",
+          "phone": "+81-3-37100119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-meguro/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7001038,
+          35.6419187
+        ]
+      },
+      "properties": {
+        "id": "node/1420790499",
+        "ward": "meguro",
+        "category": "fire_station",
+        "name": "目黒消防署 中目黒出張所",
+        "tags": {
+          "@id": "node/1420790499",
+          "amenity": "fire_station",
+          "name": "目黒消防署 中目黒出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.663861,
+          35.615492
+        ]
+      },
+      "properties": {
+        "id": "node/1420790500",
+        "ward": "meguro",
+        "category": "fire_station",
+        "name": "目黒消防署八雲出張所",
+        "tags": {
+          "@id": "node/1420790500",
+          "KSJ2:ADS": "八雲3-29-14",
+          "KSJ2:AdminArea": "東京都目黒区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "目黒消防署八雲出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.679748,
+          35.611438
+        ]
+      },
+      "properties": {
+        "id": "node/1420790508",
+        "ward": "meguro",
+        "category": "fire_station",
+        "name": "目黒消防署大岡山出張所",
+        "tags": {
+          "@id": "node/1420790508",
+          "KSJ2:ADS": "大岡山1-37-15",
+          "KSJ2:AdminArea": "東京都目黒区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "目黒消防署大岡山出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.685914,
+          35.623353
+        ]
+      },
+      "properties": {
+        "id": "node/1420790512",
+        "ward": "meguro",
+        "category": "fire_station",
+        "name": "目黒消防署碑文谷出張所",
+        "tags": {
+          "@id": "node/1420790512",
+          "amenity": "fire_station",
+          "name": "目黒消防署碑文谷出張所",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7050865,
+          35.6379645
+        ]
+      },
+      "properties": {
+        "id": "node/1420790522",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署",
+        "tags": {
+          "@id": "node/1420790522",
+          "addr:block_number": "7",
+          "addr:city": "目黒区",
+          "addr:housenumber": "13",
+          "addr:neighbourhood": "中目黒二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "目黒警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581679"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712745,
+          35.638963
+        ]
+      },
+      "properties": {
+        "id": "node/1420790523",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署三田交番",
+        "tags": {
+          "@id": "node/1420790523",
+          "addr:block_number": "4",
+          "addr:city": "目黒区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "三田一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "目黒警察署三田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692191,
+          35.641657
+        ]
+      },
+      "properties": {
+        "id": "node/1420790524",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署上目黒四丁目交番",
+        "tags": {
+          "@id": "node/1420790524",
+          "amenity": "police",
+          "name": "目黒警察署上目黒四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111264,
+          35.6338256
+        ]
+      },
+      "properties": {
+        "id": "node/1420790525",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署 下目黒交番",
+        "tags": {
+          "@id": "node/1420790525",
+          "amenity": "police",
+          "name": "目黒警察署 下目黒交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7002033,
+          35.6437034
+        ]
+      },
+      "properties": {
+        "id": "node/1420790526",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署中目黒駅前交番",
+        "tags": {
+          "@id": "node/1420790526",
+          "amenity": "police",
+          "name": "目黒警察署中目黒駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.687386,
+          35.63288
+        ]
+      },
+      "properties": {
+        "id": "node/1420790527",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署五本木交番",
+        "tags": {
+          "@id": "node/1420790527",
+          "amenity": "police",
+          "name": "目黒警察署五本木交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6878532,
+          35.6524337
+        ]
+      },
+      "properties": {
+        "id": "node/1420790532",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署大橋交番",
+        "tags": {
+          "@id": "node/1420790532",
+          "amenity": "police",
+          "name": "目黒警察署大橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6899532,
+          35.6447811
+        ]
+      },
+      "properties": {
+        "id": "node/1420790543",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署宿山交番",
+        "tags": {
+          "@id": "node/1420790543",
+          "addr:block_number": "31",
+          "addr:city": "目黒区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "東山一丁目",
+          "addr:postcode": "153-0043",
+          "amenity": "police",
+          "name": "目黒警察署宿山交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701278,
+          35.6307031
+        ]
+      },
+      "properties": {
+        "id": "node/1420790544",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署油面交番",
+        "tags": {
+          "@id": "node/1420790544",
+          "addr:block_number": "26",
+          "addr:city": "目黒区",
+          "addr:housenumber": "6",
+          "addr:neighbourhood": "目黒四丁目",
+          "addr:postcode": "153-0063",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "目黒警察署油面交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "phone": "+81 3-3710-0110",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6913357,
+          35.637962
+        ]
+      },
+      "properties": {
+        "id": "node/1420790560",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署祐天寺駅前交番",
+        "tags": {
+          "@id": "node/1420790560",
+          "amenity": "police",
+          "name": "目黒警察署祐天寺駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.697857,
+          35.635157
+        ]
+      },
+      "properties": {
+        "id": "node/1420790570",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署谷戸前交番",
+        "tags": {
+          "@id": "node/1420790570",
+          "amenity": "police",
+          "name": "目黒警察署谷戸前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.684719,
+          35.655905
+        ]
+      },
+      "properties": {
+        "id": "node/1420790579",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署駒場一丁目駐在所",
+        "tags": {
+          "@id": "node/1420790579",
+          "amenity": "police",
+          "name": "目黒警察署駒場一丁目駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6812445,
+          35.6207999
+        ]
+      },
+      "properties": {
+        "id": "node/1420791036",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署",
+        "tags": {
+          "@id": "node/1420791036",
+          "amenity": "police",
+          "name": "碑文谷警察署",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11587734"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669888,
+          35.614826
+        ]
+      },
+      "properties": {
+        "id": "node/1420791039",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署中根交番",
+        "tags": {
+          "@id": "node/1420791039",
+          "amenity": "police",
+          "name": "碑文谷警察署中根交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6915039,
+          35.6151235
+        ]
+      },
+      "properties": {
+        "id": "node/1420791051",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署 原町交番",
+        "tags": {
+          "@id": "node/1420791051",
+          "amenity": "police",
+          "check_date": "2025-02-16",
+          "name": "碑文谷警察署 原町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6852299,
+          35.6288802
+        ]
+      },
+      "properties": {
+        "id": "node/1420791054",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署学芸大学駅前交番",
+        "tags": {
+          "@id": "node/1420791054",
+          "amenity": "police",
+          "name": "碑文谷警察署学芸大学駅前交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693219,
+          35.627492
+        ]
+      },
+      "properties": {
+        "id": "node/1420791055",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署本町二丁目交番",
+        "tags": {
+          "@id": "node/1420791055",
+          "amenity": "police",
+          "name": "碑文谷警察署本町二丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7010003,
+          35.6210929
+        ]
+      },
+      "properties": {
+        "id": "node/1420791063",
+        "ward": "meguro",
+        "category": "police",
+        "name": "本町地域安全センター",
+        "tags": {
+          "@id": "node/1420791063",
+          "amenity": "police",
+          "name": "本町地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "old_name": "碑文谷警察署本町五丁目交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6931488,
+          35.6206182
+        ]
+      },
+      "properties": {
+        "id": "node/1420791068",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署 本町六丁目交番",
+        "tags": {
+          "@id": "node/1420791068",
+          "amenity": "police",
+          "name": "碑文谷警察署 本町六丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6665165,
+          35.6287205
+        ]
+      },
+      "properties": {
+        "id": "node/1420791073",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署 東が丘駐在所",
+        "tags": {
+          "@id": "node/1420791073",
+          "amenity": "police",
+          "name": "碑文谷警察署 東が丘駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6703183,
+          35.6260088
+        ]
+      },
+      "properties": {
+        "id": "node/1420791076",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署柿の木坂交番",
+        "tags": {
+          "@id": "node/1420791076",
+          "amenity": "police",
+          "name": "碑文谷警察署柿の木坂交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683913,
+          35.622771
+        ]
+      },
+      "properties": {
+        "id": "node/1420791083",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷地域安全センター",
+        "tags": {
+          "@id": "node/1420791083",
+          "amenity": "police",
+          "name": "碑文谷地域安全センター",
+          "old_name": "碑文谷警察署碑文谷五丁目交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6686316,
+          35.6076625
+        ]
+      },
+      "properties": {
+        "id": "node/1420791085",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署自由が丘交番",
+        "tags": {
+          "@id": "node/1420791085",
+          "KSJ2:ADS": "自由が丘1-30-2",
+          "KSJ2:AdminArea": "東京都目黒区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "碑文谷警察署自由が丘交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675582,
+          35.617937
+        ]
+      },
+      "properties": {
+        "id": "node/1420791086",
+        "ward": "meguro",
+        "category": "police",
+        "name": "碑文谷警察署都立大学駅前交番",
+        "tags": {
+          "@id": "node/1420791086",
+          "amenity": "police",
+          "name": "碑文谷警察署都立大学駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.68385,
+          35.653502
+        ]
+      },
+      "properties": {
+        "id": "node/1420795733",
+        "ward": "meguro",
+        "category": "police",
+        "name": "第三方面本部",
+        "tags": {
+          "@id": "node/1420795733",
+          "amenity": "police",
+          "name": "第三方面本部",
+          "name:en": "The Third District Headquarters",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6803045,
+          35.6573519
+        ]
+      },
+      "properties": {
+        "id": "node/3156294561",
+        "ward": "meguro",
+        "category": "assembly_point",
+        "name": "大学入試センター",
+        "tags": {
+          "@id": "node/3156294561",
+          "building": "public",
+          "emergency": "assembly_point",
+          "name": "大学入試センター",
+          "name:en": "National Center for University Entrance Examinations",
+          "name:ja_rm": "Daigaku Nyūshi Centre"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701049,
+          35.6210853
+        ]
+      },
+      "properties": {
+        "id": "node/4242536481",
+        "ward": "meguro",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4242536481",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7136285,
+          35.6409508
+        ]
+      },
+      "properties": {
+        "id": "node/8493507114",
+        "ward": "meguro",
+        "category": "police",
+        "name": "目黒警察署三田交番",
+        "tags": {
+          "@id": "node/8493507114",
+          "amenity": "police",
+          "name": "目黒警察署三田交番"
+        }
+      }
+    }
+  ]
+}

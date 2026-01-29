@@ -1,0 +1,2606 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7098924,
+          35.6851027
+        ]
+      },
+      "properties": {
+        "id": "way/15772074",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "新宿御苑",
+        "tags": {
+          "@id": "way/15772074",
+          "addr:block_number": "11",
+          "addr:city": "新宿区",
+          "addr:postcode": "160-0014",
+          "addr:province": "東京都",
+          "addr:quarter": "内藤町",
+          "charge:adult": "500 JPY;250 JPY",
+          "charge:child": "250 JPY;0 JPY",
+          "contact:phone": "+81 3-3350-0151",
+          "contact:tripadvisor": "479258",
+          "contact:twitter": "SG_info_kyokai",
+          "contact:website": "http://www.env.go.jp/garden/shinjukugyoen/",
+          "emergency": "assembly_point",
+          "fee": "yes",
+          "leisure": "park",
+          "name": "新宿御苑",
+          "name:de": "Shinjuku Gyoen",
+          "name:en": "Shinjuku Gyoen National Garden",
+          "name:es": "Shinjuku Gyoen",
+          "name:fr": "Jardin impérial de Shinjuku",
+          "name:it": "Shinjuku Gyoen",
+          "name:ja-Hira": "しんじゅくぎょえん",
+          "name:ja-Latn": "Shinjuku-gyoen",
+          "name:ko": "신주쿠 교엔",
+          "name:ru": "Национальный парк Синдзюку-гёэн",
+          "name:zh": "新宿御苑",
+          "opening_hours": "Mo off; Oct 01-Mar 14 Tu-Su 09:00-16:30; Mar 15-Jun 30 Tu-Su 09:00-18:00; Jul 01-Aug 20 Tu-Su 09:00-19:00; Aug 21-Sep 30 Tu-Su 09:00-18:00; Dec 29-Jan 03 off",
+          "operator": "環境省",
+          "operator:wikidata": "Q1125558",
+          "payment:alipay": "yes",
+          "payment:american_express": "yes",
+          "payment:coins": "yes",
+          "payment:diners_club": "yes",
+          "payment:icoca": "yes",
+          "payment:id": "yes",
+          "payment:jcb": "yes",
+          "payment:jkopay": "yes",
+          "payment:mastercard": "yes",
+          "payment:nanaco": "yes",
+          "payment:notes": "yes",
+          "payment:paypay": "yes",
+          "payment:quicpay": "yes",
+          "payment:rakuten_edy": "yes",
+          "payment:suica": "yes",
+          "payment:unionpay": "yes",
+          "payment:visa": "yes",
+          "payment:waon": "yes",
+          "start_date": "1892",
+          "wikidata": "Q776863",
+          "wikimedia_commons": "Category:Shinjuku Gyo-en",
+          "wikipedia": "ja:新宿御苑",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6852182,
+          35.6647994
+        ]
+      },
+      "properties": {
+        "id": "relation/18744911",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東海大学 渋谷キャンパス",
+        "tags": {
+          "@id": "relation/18744911",
+          "amenity": "university",
+          "assembly_point:unable_to_move": "yes",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "東海大学 渋谷キャンパス",
+          "old_name": "東海大学 代々木キャンパス",
+          "operator": "学校法人東海大学",
+          "type": "multipolygon",
+          "wikidata": "Q132716952",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6963083,
+          35.6699745
+        ]
+      },
+      "properties": {
+        "id": "relation/19862716",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "代々木公園",
+        "tags": {
+          "@id": "relation/19862716",
+          "contact:tripadvisor": "561514",
+          "contact:twitter": "ParksYoyogi",
+          "contact:website": "https://www.tokyo-park.or.jp/park/format/index039.html",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "代々木公園",
+          "name:en": "Yoyogi Park",
+          "name:es": "Parque Yoyogi",
+          "name:fr": "Parc Yoyogi",
+          "name:it": "Parco Yoyogi",
+          "name:ja": "代々木公園",
+          "name:ja-Hira": "よよぎこうえん",
+          "name:ja-Latn": "Yoyogi-kōen",
+          "name:ko": "요요기 공원",
+          "name:ru": "Парк Ёёги",
+          "name:zh": "代代木公園",
+          "official_name": "都立代々木公園",
+          "official_name:ja": "都立代々木公園",
+          "operator": "東京都公園協会",
+          "operator:wikidata": "Q11525258",
+          "start_date": "1967-10-20",
+          "type": "multipolygon",
+          "wikidata": "Q1204253",
+          "wikimedia_commons": "Category:Yoyogi Park",
+          "wikipedia": "ja:代々木公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6985218,
+          35.6504344
+        ]
+      },
+      "properties": {
+        "id": "way/49257374",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京都立 第一商業高等学校",
+        "tags": {
+          "@id": "way/49257374",
+          "addr:block_number": "8",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:postcode": "150-0035",
+          "addr:province": "東京都",
+          "addr:quarter": "鉢山町",
+          "amenity": "school",
+          "assembly_point:unable_to_move": "yes",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "東京都立 第一商業高等学校",
+          "name:en": "Daiichi Commercial High School",
+          "name:es": "Colegio comercial Daiichi",
+          "operator": "東京都教育委員会",
+          "operator:en": "Tokyo Metropolitan Government Board of Education",
+          "operator:ja": "東京都教育委員会",
+          "operator:type": "public",
+          "operator:wikidata": "Q6131931",
+          "phone": "+81 3 3463 2606",
+          "social_facility": "shelter",
+          "website": "http://www.daiichishogyo-h.metro.tokyo.jp/site/zen/",
+          "wikidata": "Q11525582",
+          "wikipedia": "ja:東京都立第一商業高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6669002,
+          35.6768207
+        ]
+      },
+      "properties": {
+        "id": "way/52881226",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "私立 富士見丘中学高等学校",
+        "tags": {
+          "@id": "way/52881226",
+          "amenity": "school",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "私立 富士見丘中学高等学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6993159,
+          35.6563584
+        ]
+      },
+      "properties": {
+        "id": "way/55441040",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "セルリアンタワー",
+        "tags": {
+          "@id": "way/55441040",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "building:levels": "47",
+          "emergency": "assembly_point",
+          "height": "184",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "-SHIBUYA-Wi-Wi-Fi-",
+          "name": "セルリアンタワー",
+          "name:en": "Cerulean Tower Tokyo Hotel",
+          "tourism": "hotel",
+          "wikidata": "Q5065298",
+          "wikimedia_commons": "Category:Cerulean Tower",
+          "wikipedia": "en:Cerulean Tower",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7103095,
+          35.660551
+        ]
+      },
+      "properties": {
+        "id": "way/55896463",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "青山学院大学",
+        "tags": {
+          "@id": "way/55896463",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "青山学院大学",
+          "name:en": "Aoyama Gakuin University",
+          "name:es": "Universidad Aoyama Gakuin",
+          "name:ko": "아오야마가쿠인 대학",
+          "source": "NRPB of MLIT Japan",
+          "source:ja": "国土画像情報(オルソ化空中写真)国土計画局",
+          "wheelchair": "limited",
+          "wikidata": "Q616359",
+          "wikipedia": "ja:青山学院大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7126853,
+          35.6532029
+        ]
+      },
+      "properties": {
+        "id": "way/92652878",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京都立 広尾高等学校",
+        "tags": {
+          "@id": "way/92652878",
+          "amenity": "school",
+          "assembly_point:unable_to_move": "yes",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "東京都立 広尾高等学校",
+          "name:en": "Hiroo High School",
+          "name:es": "Colegio Hiroo",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2;Bing, 2007-04",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11525481",
+          "wikipedia": "ja:東京都立広尾高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7135678,
+          35.642018
+        ]
+      },
+      "properties": {
+        "id": "way/93182025",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "恵比寿ガーデンプレイス",
+        "tags": {
+          "@id": "way/93182025",
+          "alt_name:en": "Yebisu Garden Place",
+          "alt_name:es": "Yebisu Garden Place",
+          "building": "commercial",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "恵比寿ガーデンプレイス",
+          "name:en": "Ebisu Garden Place",
+          "name:es": "Ebisu Garden Place",
+          "source": "Bing, 2007-04",
+          "wikidata": "Q11259433",
+          "wikimedia_commons": "Category:Yebisu Garden Place",
+          "wikipedia": "ja:恵比寿ガーデンプレイス",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7081651,
+          35.6625359
+        ]
+      },
+      "properties": {
+        "id": "way/96368987",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "国連大学",
+        "tags": {
+          "@id": "way/96368987",
+          "addr:block_number": "53",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "70",
+          "addr:neighbourhood": "5丁目",
+          "addr:postcode": "150-8925",
+          "addr:province": "東京都",
+          "addr:quarter": "神宮前",
+          "amenity": "university",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "国連大学",
+          "name:ar": "جامعة الأمم المتحدة",
+          "name:en": "United Nations University",
+          "name:fr": "Université des Nations unies",
+          "name:ja": "国連大学",
+          "name:ru": "Университет Организации Объединенных Наций",
+          "name:zh": "联合国大学",
+          "source": "Bing, 2007-04",
+          "website": "https://unu.edu/",
+          "wheelchair": "yes",
+          "wikidata": "Q492442",
+          "wikipedia": "ja:国連大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7040057,
+          35.6577595
+        ]
+      },
+      "properties": {
+        "id": "way/109037638",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署",
+        "tags": {
+          "@id": "way/109037638",
+          "addr:block_number": "8",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "15",
+          "addr:neighbourhood": "3丁目",
+          "addr:postcode": "150-0002",
+          "addr:province": "東京都",
+          "addr:quarter": "渋谷",
+          "amenity": "police",
+          "building": "yes",
+          "name": "渋谷警察署",
+          "name:en": "Shibuya Police Station",
+          "name:es": "Estación de policía Shibuya",
+          "operator": "警視庁第三方面本部",
+          "phone": "+81 3 3498 0110",
+          "wikidata": "Q11561774",
+          "wikipedia": "ja:渋谷警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6981028,
+          35.6610511
+        ]
+      },
+      "properties": {
+        "id": "way/136730001",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "宇田川交番",
+        "tags": {
+          "@id": "way/136730001",
+          "amenity": "police",
+          "building": "public",
+          "check_date": "2024-03-04",
+          "name": "宇田川交番",
+          "name:en": "Udagawa Police Box",
+          "name:es": "Policía de Udagawacho",
+          "name:ja-Latn": "Udagawa Kōban",
+          "source": "Bing,2007-04",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6919946,
+          35.6594514
+        ]
+      },
+      "properties": {
+        "id": "way/136794249",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署松濤出張所",
+        "tags": {
+          "@id": "way/136794249",
+          "addr:block_number": "25",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "14",
+          "addr:neighbourhood": "松濤一丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "渋谷消防署松濤出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都渋谷区",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7031177,
+          35.6843981
+        ]
+      },
+      "properties": {
+        "id": "way/137189971",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "ドコモ代々木タワー",
+        "tags": {
+          "@id": "way/137189971",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "building:colour": "#AAA5A8",
+          "building:levels": "32",
+          "building:material": "concrete",
+          "ele": "36.4",
+          "emergency": "assembly_point",
+          "height": "153",
+          "name": "ドコモ代々木タワー",
+          "name:en": "NTT Docomo Yoyogi Building",
+          "name:es": "NTT Docomo Yoyogi Building",
+          "name:ja": "ドコモ代々木タワー",
+          "source": "Bing",
+          "wikidata": "Q2090752",
+          "wikimedia_commons": "Category:NTT DoCoMo Yoyogi Building",
+          "wikipedia": "en:NTT Docomo Yoyogi Building",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6963737,
+          35.663814
+        ]
+      },
+      "properties": {
+        "id": "way/138391433",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "日本アムウェイ",
+        "tags": {
+          "@id": "way/138391433",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "emergency": "assembly_point",
+          "name": "日本アムウェイ",
+          "name:en": "Amway Japan",
+          "name:es": "Amway Japan",
+          "source": "Bing,2007-04",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6988553,
+          35.6870463
+        ]
+      },
+      "properties": {
+        "id": "way/138522509",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "ホテルサンルートプラザ新宿",
+        "tags": {
+          "@id": "way/138522509",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "building:levels": "13",
+          "emergency": "assembly_point",
+          "name": "ホテルサンルートプラザ新宿",
+          "name:ja": "ホテルサンルートプラザ新宿",
+          "name:zh": "新宿灿路都广场大饭店",
+          "roof:colour": "#cccccc",
+          "source": "Bing",
+          "wikidata": "Q11306081",
+          "wikipedia": "ja:サンルートホテルチェーン",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7011604,
+          35.6643294
+        ]
+      },
+      "properties": {
+        "id": "way/138576864",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署",
+        "tags": {
+          "@id": "way/138576864",
+          "addr:postcode": "150-0041",
+          "amenity": "fire_station",
+          "building": "yes",
+          "building:levels": "4",
+          "fax": "+81-3-34640143",
+          "height": "25",
+          "image": "https://photos.app.goo.gl/2yk8ZEfsyZNrjiP29",
+          "name": "渋谷消防署",
+          "name:en": "Shibuya Fire Station",
+          "name:ja": "渋谷消防署",
+          "operator": "東京消防庁第三消防方面本部",
+          "phone": "+81-3-34640119",
+          "source": "Bing,2007-04;Bing 2010;(URL)",
+          "website": "https://www.tfd.metro.tokyo.lg.jp/",
+          "wheelchair": "yes",
+          "wikimedia_commons": "File:Shibuya fire st 2301.jpg",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7112456,
+          35.6579742
+        ]
+      },
+      "properties": {
+        "id": "way/141293479",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "青山学院初等部",
+        "tags": {
+          "@id": "way/141293479",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "青山学院初等部",
+          "name:en": "Aoyama Gakuin Elementary School",
+          "name:es": "Escuela primaria Aoyama Gakuin",
+          "source": "Bing,2007-04",
+          "wikidata": "Q11661253",
+          "wikipedia": "ja:青山学院初等部",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7098121,
+          35.6571765
+        ]
+      },
+      "properties": {
+        "id": "way/141293500",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "私立 実践女子学園中学校 高等学校",
+        "tags": {
+          "@id": "way/141293500",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "私立 実践女子学園中学校 高等学校",
+          "name:en": "Jissen Joshi Gakuen Junior High School & High School",
+          "name:es": "Colegio secundario y superior Jissen Joshi",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2;Bing,2007-04",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7049902,
+          35.6809445
+        ]
+      },
+      "properties": {
+        "id": "way/153184861",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "SYD修養団",
+        "tags": {
+          "@id": "way/153184861",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "emergency": "assembly_point",
+          "name": "SYD修養団",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7094251,
+          35.6475292
+        ]
+      },
+      "properties": {
+        "id": "way/184421571",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署恵比寿駅前交番",
+        "tags": {
+          "@id": "way/184421571",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "渋谷警察署恵比寿駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6739831,
+          35.6726186
+        ]
+      },
+      "properties": {
+        "id": "way/190346812",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京消防庁消防学校",
+        "tags": {
+          "@id": "way/190346812",
+          "addr:postcode": "151-0066",
+          "amenity": "college",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "東京消防庁消防学校",
+          "name:ja": "東京消防庁消防学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報公共施設データ平成19年　国土交通省",
+          "phone": "+81-3-34661511",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7039663,
+          35.6591468
+        ]
+      },
+      "properties": {
+        "id": "way/204091879",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "渋谷ヒカリエ",
+        "tags": {
+          "@id": "way/204091879",
+          "addr:block_number": "21",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "2丁目",
+          "addr:postcode": "150-8510",
+          "addr:province": "東京都",
+          "addr:quarter": "渋谷",
+          "assembly_point:unable_to_move": "yes",
+          "building": "retail",
+          "building:levels": "43",
+          "emergency": "assembly_point",
+          "height": "183",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "-SHIBUYA-Wi-Wi-Fi-",
+          "name": "渋谷ヒカリエ",
+          "name:en": "Shibuya Hikarie",
+          "name:es": "Shibuya Hikarie",
+          "name:ja": "渋谷ヒカリエ",
+          "name:ko": "시부야 히카리에",
+          "name:zh": "澀谷Hikarie",
+          "opening_hours": "Mo-Sa 10:00-21:00; Su 10:00-22:00",
+          "operator": "Shibuya Hikarie",
+          "phone": "03-5468-5892",
+          "shop": "mall",
+          "source": "TokyuFloorMap",
+          "website": "https://www.hikarie.jp/",
+          "wikidata": "Q11561670",
+          "wikimedia_commons": "Category:Shibuya Hikarie",
+          "wikipedia": "ja:渋谷ヒカリエ",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7196101,
+          35.6521738
+        ]
+      },
+      "properties": {
+        "id": "way/209161961",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "聖心女子大学",
+        "tags": {
+          "@id": "way/209161961",
+          "addr:block_number": "3",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "4丁目",
+          "addr:postcode": "150-8938",
+          "addr:province": "東京都",
+          "addr:quarter": "広尾",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "聖心女子大学",
+          "name:en": "University of the Sacred Heart",
+          "name:es": "Universidad del Sagrado Corazón",
+          "name:ja": "聖心女子大学",
+          "name:ko": "성심여자대학",
+          "name:pt": "Universidade do Sagrado Coração",
+          "name:zh": "圣心女子大学",
+          "operator": "学校法人聖心女子学院",
+          "wikidata": "Q860278",
+          "wikipedia": "ja:聖心女子大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7074497,
+          35.67189
+        ]
+      },
+      "properties": {
+        "id": "way/209969132",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署",
+        "tags": {
+          "@id": "way/209969132",
+          "amenity": "police",
+          "building": "public",
+          "building:levels": "12",
+          "height": "45",
+          "name": "原宿警察署",
+          "name:en": "Harajuku Police Station",
+          "wikidata": "Q11409571",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7191131,
+          35.6489869
+        ]
+      },
+      "properties": {
+        "id": "way/218098602",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "広尾五丁目交番",
+        "tags": {
+          "@id": "way/218098602",
+          "addr:block_number": "20",
+          "addr:housenumber": "6",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "広尾五丁目交番",
+          "name:en": "Koban Hiroo 5-chome",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6875017,
+          35.6742891
+        ]
+      },
+      "properties": {
+        "id": "way/258440896",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/258440896",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674875,
+          35.6731898
+        ]
+      },
+      "properties": {
+        "id": "way/289312226",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "JICA東京国際センター",
+        "tags": {
+          "@id": "way/289312226",
+          "assembly_point:unable_to_move": "yes",
+          "building": "office",
+          "emergency": "assembly_point",
+          "name": "JICA東京国際センター",
+          "name:en": "JICA Tokyo International Center",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6852027,
+          35.660624
+        ]
+      },
+      "properties": {
+        "id": "way/317015602",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京大学 駒場Ⅰキャンパス",
+        "tags": {
+          "@id": "way/317015602",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "東京大学 駒場Ⅰキャンパス",
+          "name:en": "The University of Tokyo, Komaba Ⅰ Campus",
+          "name:es": "Universidad de Tokio (Campus Komaba)",
+          "name:ja": "東京大学 駒場Ⅰキャンパス",
+          "wikidata": "Q7896466",
+          "wikimedia_commons": "Category:Komaba Campus, the University of Tokyo",
+          "wikipedia": "ja:東京大学駒場地区キャンパス",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7121062,
+          35.6793144
+        ]
+      },
+      "properties": {
+        "id": "way/451878702",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京体育館",
+        "tags": {
+          "@id": "way/451878702",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "leisure": "sports_centre",
+          "name": "東京体育館",
+          "name:en": "Tokyo Metropolitan Gymnasium",
+          "name:es": "Gimnasio Metropolitano de Tokio",
+          "name:ko": "도쿄 체육관",
+          "name:pt": "Ginásio Metropolitano de Tóquio",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6994785,
+          35.6750484
+        ]
+      },
+      "properties": {
+        "id": "way/469908925",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "明治神宮",
+        "tags": {
+          "@id": "way/469908925",
+          "addr:block_number": "1",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:postcode": "151-8557",
+          "addr:province": "東京都",
+          "addr:quarter": "代々木神園町",
+          "alt_name": "明治神宮前",
+          "alt_name:en": "Meiji Shrine",
+          "alt_name:es": "Santuario Meiji Jingu",
+          "alt_name:fr": "Grand sanctuaire Meiji",
+          "alt_name:it": "Santuario Meiji",
+          "alt_name:ja-Hira": "めいじ じんぐうまえ",
+          "alt_name:ja-Latn": "Meiji-jingūmae",
+          "amenity": "place_of_worship",
+          "architect": "伊東忠太",
+          "architect:wikidata": "Q1050457",
+          "contact:phone": "+81-3-3379-5511",
+          "contact:tripadvisor": "1373780",
+          "contact:website": "https://www.meijijingu.or.jp/",
+          "contact:youtube": "UCwBMJNpNM2saJaKF6O6S5bw",
+          "emergency": "assembly_point",
+          "fee": "no",
+          "name": "明治神宮",
+          "name:en": "Meiji Jingu Main Shrine",
+          "name:es": "Meiji Jingu",
+          "name:fr": "Sanctuaire Meiji",
+          "name:it": "Meiji Jingu",
+          "name:ja-Hira": "めいじじんぐう",
+          "name:ja-Latn": "Meiji-jingū",
+          "name:ko": "메이지 신궁",
+          "name:ru": "Храм Мэйдзи",
+          "name:zh": "明治神宮",
+          "opening_hours": "Jan 06:40-16:20; Feb 06:20-16:50; Mar 05:40-17:20; Apr 05:10-17:50; May 05:00-18:10; Jun 05:00-18:30; Jul 05:00-18:20; Aug 05:00-18:00; Sep 05:20-17:20; Oct 05:40-16:40; Nov 06:10-16:10; Dec 06:40-16:00",
+          "religion": "shinto",
+          "service_times": "sunrise-sunset",
+          "start_date": "1920-11-01",
+          "wikidata": "Q287165",
+          "wikimedia_commons": "Category:Meiji Shrine",
+          "wikipedia": "ja:明治神宮",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7189719,
+          35.6761978
+        ]
+      },
+      "properties": {
+        "id": "way/499552718",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "明治神宮外苑",
+        "tags": {
+          "@id": "way/499552718",
+          "emergency": "assembly_point",
+          "leisure": "sports_centre",
+          "name": "明治神宮外苑",
+          "name:en": "Meiji Jingu Garden",
+          "name:es": "Jardín Meiji Jingu",
+          "name:ja": "明治神宮外苑",
+          "name:pt": "Jardim Meiji Jingu",
+          "name:zh": "明治神宫外苑",
+          "wikidata": "Q6631448",
+          "wikipedia": "ja:明治神宮外苑",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.706452,
+          35.6575499
+        ]
+      },
+      "properties": {
+        "id": "way/511276638",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "金王八幡宮",
+        "tags": {
+          "@id": "way/511276638",
+          "addr:block_number": "5",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "3丁目",
+          "addr:postcode": "150-0002",
+          "addr:province": "東京都",
+          "addr:quarter": "渋谷",
+          "amenity": "place_of_worship",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "金王八幡宮",
+          "name:en": "Konno Hachimangu",
+          "name:ja": "金王八幡宮",
+          "religion": "shinto",
+          "social_facility": "shelter",
+          "wikidata": "Q11647638",
+          "wikimedia_commons": "Category:Konnō-hachimangū",
+          "wikipedia": "ja:金王八幡宮",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7062236,
+          35.6571636
+        ]
+      },
+      "properties": {
+        "id": "way/511276646",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "豐榮稲荷神社",
+        "tags": {
+          "@id": "way/511276646",
+          "amenity": "place_of_worship",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "豐榮稲荷神社",
+          "name:en": "Toyosaka Inari",
+          "religion": "shinto",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6945198,
+          35.6857074
+        ]
+      },
+      "properties": {
+        "id": "way/575505286",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "文化学園大学",
+        "tags": {
+          "@id": "way/575505286",
+          "amenity": "university",
+          "assembly_point:unable_to_move": "yes",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "文化学園大学",
+          "name:en": "Bunka Gakuen University",
+          "name:es": "Universidad Bunka Gakuen",
+          "name:ja": "文化学園大学",
+          "name:ko": "문화학원대학",
+          "name:zh": "文化学园大学",
+          "wikidata": "Q4997733",
+          "wikipedia": "ja:文化学園大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714957,
+          35.6738661
+        ]
+      },
+      "properties": {
+        "id": "way/625278153",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "私立 國學院高等学校",
+        "tags": {
+          "@id": "way/625278153",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "私立 國學院高等学校",
+          "name:en": "Kokugakuin High School",
+          "name:es": "Colegio Kokugakuin",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11422706",
+          "wikipedia": "ja:國學院高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7158419,
+          35.6728242
+        ]
+      },
+      "properties": {
+        "id": "way/625278154",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京都立 青山高等学校",
+        "tags": {
+          "@id": "way/625278154",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "東京都立 青山高等学校",
+          "name:en": "Aoyama High School",
+          "name:es": "Colegio Aoyama",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q10869427",
+          "wikipedia": "ja:東京都立青山高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6802877,
+          35.6679617
+        ]
+      },
+      "properties": {
+        "id": "way/661384510",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "一般社団法人日本音楽著作権協会",
+        "tags": {
+          "@id": "way/661384510",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "emergency": "assembly_point",
+          "name": "一般社団法人日本音楽著作権協会",
+          "wikidata": "Q774842",
+          "wikipedia": "en:Japanese Society for Rights of Authors, Composers and Publishers",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7118704,
+          35.655555
+        ]
+      },
+      "properties": {
+        "id": "way/661384511",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "國學院大學",
+        "tags": {
+          "@id": "way/661384511",
+          "amenity": "university",
+          "assembly_point:unable_to_move": "yes",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "國學院大學",
+          "name:en": "Kokugakuin University",
+          "name:es": "Universidad Kokugakuin",
+          "wikidata": "Q495330",
+          "wikipedia": "ja:國學院大學",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6790037,
+          35.6683878
+        ]
+      },
+      "properties": {
+        "id": "node/661999785",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木上原駅前交番",
+        "tags": {
+          "@id": "node/661999785",
+          "amenity": "police",
+          "name": "代々木上原駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6919626,
+          35.6594904
+        ]
+      },
+      "properties": {
+        "id": "node/694150818",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "node/694150818",
+          "amenity": "fire_station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692654,
+          35.6757278
+        ]
+      },
+      "properties": {
+        "id": "way/823009317",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/823009317",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6958935,
+          35.6573799
+        ]
+      },
+      "properties": {
+        "id": "node/1400936796",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "道玄坂上交番",
+        "tags": {
+          "@id": "node/1400936796",
+          "amenity": "police",
+          "name": "道玄坂上交番",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683135,
+          35.679847
+        ]
+      },
+      "properties": {
+        "id": "node/1420766870",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署",
+        "tags": {
+          "@id": "node/1420766870",
+          "addr:block_number": "11",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "本町一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "代々木警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11378231"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680246,
+          35.682957
+        ]
+      },
+      "properties": {
+        "id": "node/1420766871",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署不動前交番",
+        "tags": {
+          "@id": "node/1420766871",
+          "amenity": "police",
+          "name": "代々木警察署不動前交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693245,
+          35.681736
+        ]
+      },
+      "properties": {
+        "id": "node/1420766872",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署代々木三丁目交番",
+        "tags": {
+          "@id": "node/1420766872",
+          "addr:block_number": "37",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "代々木三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "代々木警察署代々木三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6921258,
+          35.6676893
+        ]
+      },
+      "properties": {
+        "id": "node/1420766873",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署代々木公園交番",
+        "tags": {
+          "@id": "node/1420766873",
+          "addr:block_number": "3",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "19",
+          "addr:neighbourhood": "神南二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "check_date": "2024-04-20",
+          "name": "代々木警察署代々木公園交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6875148,
+          35.6742961
+        ]
+      },
+      "properties": {
+        "id": "node/1420766874",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署初台二丁目交番",
+        "tags": {
+          "@id": "node/1420766874",
+          "amenity": "police",
+          "name": "代々木警察署初台二丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686079,
+          35.681319
+        ]
+      },
+      "properties": {
+        "id": "node/1420766875",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署初台駅前交番",
+        "tags": {
+          "@id": "node/1420766875",
+          "addr:block_number": "1",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "10",
+          "addr:neighbourhood": "本町一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "代々木警察署初台駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674802,
+          35.676374
+        ]
+      },
+      "properties": {
+        "id": "node/1420766876",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署幡ヶ谷駅前交番",
+        "tags": {
+          "@id": "node/1420766876",
+          "addr:block_number": "5",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "幡ヶ谷一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "代々木警察署幡ヶ谷駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6826734,
+          35.6888569
+        ]
+      },
+      "properties": {
+        "id": "node/1420766877",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署清水橋交番",
+        "tags": {
+          "@id": "node/1420766877",
+          "amenity": "police",
+          "name": "代々木警察署清水橋交番",
+          "name:en": "Koban",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6673055,
+          35.6746433
+        ]
+      },
+      "properties": {
+        "id": "node/1420766878",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署笹塚交番",
+        "tags": {
+          "@id": "node/1420766878",
+          "amenity": "police",
+          "name": "代々木警察署笹塚交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678441,
+          35.669653
+        ]
+      },
+      "properties": {
+        "id": "node/1420766879",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "代々木警察署西原交番",
+        "tags": {
+          "@id": "node/1420766879",
+          "addr:block_number": "15",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "西原三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "代々木警察署西原交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696633,
+          35.687096
+        ]
+      },
+      "properties": {
+        "id": "node/1420771038",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署代々木二丁目交番",
+        "tags": {
+          "@id": "node/1420771038",
+          "amenity": "police",
+          "name": "原宿警察署代々木二丁目交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7019822,
+          35.6827276
+        ]
+      },
+      "properties": {
+        "id": "node/1420771039",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署代々木駅前交番",
+        "tags": {
+          "@id": "node/1420771039",
+          "amenity": "police",
+          "name": "原宿警察署代々木駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7117726,
+          35.6807943
+        ]
+      },
+      "properties": {
+        "id": "node/1420771040",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署千駄ヶ谷駅前交番",
+        "tags": {
+          "@id": "node/1420771040",
+          "amenity": "police",
+          "name": "原宿警察署千駄ヶ谷駅前交番",
+          "name:en": "Koban Police",
+          "name:es": "Policía de Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714271,
+          35.669932
+        ]
+      },
+      "properties": {
+        "id": "node/1420771041",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署原宿交番",
+        "tags": {
+          "@id": "node/1420771041",
+          "addr:block_number": "1",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "30",
+          "addr:neighbourhood": "神宮前三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "原宿警察署原宿交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7029264,
+          35.6870003
+        ]
+      },
+      "properties": {
+        "id": "node/1420771042",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署御苑裏交番",
+        "tags": {
+          "@id": "node/1420771042",
+          "addr:block_number": "27",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "千駄ヶ谷五丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "原宿警察署御苑裏交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7071328,
+          35.6679213
+        ]
+      },
+      "properties": {
+        "id": "node/1420771043",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "原宿警察署神宮前交番",
+        "tags": {
+          "@id": "node/1420771043",
+          "amenity": "police",
+          "name": "原宿警察署神宮前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700084,
+          35.666258
+        ]
+      },
+      "properties": {
+        "id": "node/1420780982",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "日本スポーツ振興センター国立代々木競技場",
+        "tags": {
+          "@id": "node/1420780982",
+          "emergency": "assembly_point",
+          "name": "日本スポーツ振興センター国立代々木競技場",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.684718,
+          35.680458
+        ]
+      },
+      "properties": {
+        "id": "node/1420789201",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署代々木出張所",
+        "tags": {
+          "@id": "node/1420789201",
+          "KSJ2:ADS": "本町1-6-6",
+          "KSJ2:AdminArea": "東京都渋谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "渋谷消防署代々木出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702355,
+          35.679986
+        ]
+      },
+      "properties": {
+        "id": "node/1420789202",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署原宿出張所",
+        "tags": {
+          "@id": "node/1420789202",
+          "amenity": "fire_station",
+          "name": "渋谷消防署原宿出張所",
+          "name:en": "Shibuya Fire Station Harajuku Branch",
+          "name:es": "Estación de bomberos Shibuya Ramal Harajuku",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6881297,
+          35.6648217
+        ]
+      },
+      "properties": {
+        "id": "node/1420789203",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署富ヶ谷出張所",
+        "tags": {
+          "@id": "node/1420789203",
+          "amenity": "fire_station",
+          "name": "渋谷消防署富ヶ谷出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikimedia_commons": "File:Tomigaya fs 2302.jpg"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712886,
+          35.643995
+        ]
+      },
+      "properties": {
+        "id": "node/1420789204",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "渋谷消防署恵比寿出張所",
+        "tags": {
+          "@id": "node/1420789204",
+          "amenity": "fire_station",
+          "name": "渋谷消防署恵比寿出張所",
+          "name:en": "Ebisu Fire Station",
+          "name:es": "Estación de bomberos Ebisu",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701771,
+          35.647257
+        ]
+      },
+      "properties": {
+        "id": "node/1420789214",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署代官山交番",
+        "tags": {
+          "@id": "node/1420789214",
+          "amenity": "police",
+          "name": "渋谷警察署代官山交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "opening_hours": "24/7",
+          "source": "KSJ2; Bing; survey",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7126154,
+          35.6584191
+        ]
+      },
+      "properties": {
+        "id": "node/1420789216",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署常磐松交番",
+        "tags": {
+          "@id": "node/1420789216",
+          "amenity": "police",
+          "name": "渋谷警察署常磐松交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "opening_hours": "24/7",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720522,
+          35.648101
+        ]
+      },
+      "properties": {
+        "id": "node/1420789217",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署広尾五丁目交番",
+        "tags": {
+          "@id": "node/1420789217",
+          "amenity": "police",
+          "name": "渋谷警察署広尾五丁目交番",
+          "name:ja": "Hiroo 5-chome koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709912,
+          35.642824
+        ]
+      },
+      "properties": {
+        "id": "node/1420789218",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署恵比寿南駐在所",
+        "tags": {
+          "@id": "node/1420789218",
+          "addr:block_number": "24",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "恵比寿南二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "渋谷警察署恵比寿南駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7151867,
+          35.6439439
+        ]
+      },
+      "properties": {
+        "id": "node/1420789219",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署 恵比寿四丁目交番",
+        "tags": {
+          "@id": "node/1420789219",
+          "amenity": "police",
+          "name": "渋谷警察署 恵比寿四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7171492,
+          35.6549406
+        ]
+      },
+      "properties": {
+        "id": "node/1420789221",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署 日赤病院前交番",
+        "tags": {
+          "@id": "node/1420789221",
+          "amenity": "police",
+          "name": "渋谷警察署 日赤病院前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707911,
+          35.653794
+        ]
+      },
+      "properties": {
+        "id": "node/1420789222",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署東交番",
+        "tags": {
+          "@id": "node/1420789222",
+          "addr:block_number": "23",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "東二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "渋谷警察署東交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7010358,
+          35.6593164
+        ]
+      },
+      "properties": {
+        "id": "node/1420789223",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署渋谷駅前交番",
+        "tags": {
+          "@id": "node/1420789223",
+          "amenity": "police",
+          "name": "渋谷警察署渋谷駅前交番",
+          "name:en": "Koban",
+          "source": "KSJ2",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6981506,
+          35.6528835
+        ]
+      },
+      "properties": {
+        "id": "node/1420789225",
+        "ward": "shibuya",
+        "category": "police",
+        "name": "渋谷警察署 鉢山交番",
+        "tags": {
+          "@id": "node/1420789225",
+          "amenity": "police",
+          "name": "渋谷警察署 鉢山交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6998158,
+          35.6669244
+        ]
+      },
+      "properties": {
+        "id": "way/1452614349",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "国立代々木競技場",
+        "tags": {
+          "@id": "way/1452614349",
+          "addr:block_number": "1",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "神南二丁目",
+          "addr:postcode": "150-0041",
+          "addr:province": "東京都",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "leisure": "sports_centre",
+          "name": "国立代々木競技場",
+          "name:en": "Yoyogi National Gymnasium",
+          "name:es": "Gimnasio Nacional Yoyogi",
+          "name:ja": "国立代々木競技場",
+          "name:ja-Hira": "こくりつよよぎきょうぎじょう",
+          "name:zh": "國立代代木競技場",
+          "official_name": "国立代々木屋内総合競技場",
+          "official_name:ja": "国立代々木屋内総合競技場",
+          "operator": "日本スポーツ振興センター",
+          "sport": "multi",
+          "website": "https://www.jpnsport.go.jp/yoyogi/",
+          "wikidata": "Q1069457",
+          "wikipedia": "ja:国立代々木競技場",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6858441,
+          35.6825317
+        ]
+      },
+      "properties": {
+        "id": "node/1694095987",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "新国立劇場",
+        "tags": {
+          "@id": "node/1694095987",
+          "addr:postcode": "151-0071",
+          "amenity": "theatre",
+          "assembly_point:unable_to_move": "yes",
+          "designation": "Opeara",
+          "emergency": "assembly_point",
+          "name": "新国立劇場",
+          "name:en": "New National Theatre",
+          "name:es": "Nuevo Teatro Nacional",
+          "name:ja": "新国立劇場",
+          "name:ja_rm": "Shinkokuritugekijiyo",
+          "operator": "新国立劇場",
+          "short_name:en": "NNTT",
+          "social_facility": "shelter",
+          "source": "Bing 2010, (URL)",
+          "website": "https://www.nntt.jac.go.jp/",
+          "wikidata": "Q1056064",
+          "wikimedia_commons": "Category:New National Theatre, Tokyo",
+          "wikipedia": "ja:新国立劇場"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7070958,
+          35.660624
+        ]
+      },
+      "properties": {
+        "id": "node/5132278978",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5132278978",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.693466,
+          35.6746054
+        ]
+      },
+      "properties": {
+        "id": "node/6053950990",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "国立オリンピック記念青少年総合センター",
+        "tags": {
+          "@id": "node/6053950990",
+          "amenity": "community_centre",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "国立オリンピック記念青少年総合センター",
+          "name:en": "National Olympics Memorial Youth Center",
+          "name:es": "Centro Juvenil Memorial de los Juegos Olímpicos",
+          "name:ja": "国立オリンピック記念青少年総合センター",
+          "wikidata": "Q11421211",
+          "wikimedia_commons": "Category:National Olympics Memorial Youth Center",
+          "wikipedia": "ja:国立オリンピック記念青少年総合センター"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6980425,
+          35.681293
+        ]
+      },
+      "properties": {
+        "id": "node/6170147681",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6170147681",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6670865,
+          35.67411
+        ]
+      },
+      "properties": {
+        "id": "node/6191909365",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "笹塚ボウル",
+        "tags": {
+          "@id": "node/6191909365",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "leisure": "bowling_alley",
+          "name": "笹塚ボウル"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7080908,
+          35.6633619
+        ]
+      },
+      "properties": {
+        "id": "node/6191909370",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京ウィメンズプラザ",
+        "tags": {
+          "@id": "node/6191909370",
+          "assembly_point:unable_to_move": "yes",
+          "building": "yes",
+          "emergency": "assembly_point",
+          "name": "東京ウィメンズプラザ"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6997166,
+          35.6586784
+        ]
+      },
+      "properties": {
+        "id": "node/6191909382",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "渋谷エクセルホテル東急",
+        "tags": {
+          "@id": "node/6191909382",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "渋谷エクセルホテル東急",
+          "name:en": "Shibuya Excel Hotel Tokyu",
+          "name:ja": "渋谷エクセルホテル東急",
+          "tourism": "hotel",
+          "wheelchair": "limited",
+          "wikidata": "Q111406672",
+          "wikimedia_commons": "Category:Shibuya Excel Hotel Tokyu"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6734511,
+          35.6722638
+        ]
+      },
+      "properties": {
+        "id": "node/6978512385",
+        "ward": "shibuya",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "node/6978512385",
+          "amenity": "fire_station",
+          "name:en": "Tokyo Fire Department Academy",
+          "website": "http://tfd.metro.tokyi.jp"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7000288,
+          35.6592828
+        ]
+      },
+      "properties": {
+        "id": "node/11397179769",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11397179769",
+          "access": "yes",
+          "check_date": "2023-12-06",
+          "defibrillator:location:en": "Right next to the entrance to the staircase",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995526,
+          35.6616751
+        ]
+      },
+      "properties": {
+        "id": "node/11903948346",
+        "ward": "shibuya",
+        "category": "assembly_point",
+        "name": "東京山手教会",
+        "tags": {
+          "@id": "node/11903948346",
+          "amenity": "place_of_worship",
+          "assembly_point:unable_to_move": "yes",
+          "emergency": "assembly_point",
+          "name": "東京山手教会",
+          "name:en": "Tokyo Yamate Church",
+          "name:es": "Tokyo Yamate Church",
+          "name:ja": "東京山手教会",
+          "official_name": "日本基督教団 東京山手教会",
+          "operator": "日本基督教団",
+          "religion": "christian",
+          "short_name": "山手教会",
+          "short_name:ja": "山手教会"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7102561,
+          35.6463349
+        ]
+      },
+      "properties": {
+        "id": "node/12927588009",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12927588009",
+          "access": "yes",
+          "defibrillator:location": "恵比寿駅改札内、トイレ手前",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7095154,
+          35.6472018
+        ]
+      },
+      "properties": {
+        "id": "node/12927594264",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12927594264",
+          "access": "yes",
+          "defibrillator:location": "エスカレーター横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7025191,
+          35.6799906
+        ]
+      },
+      "properties": {
+        "id": "node/12979164754",
+        "ward": "shibuya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12979164754",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

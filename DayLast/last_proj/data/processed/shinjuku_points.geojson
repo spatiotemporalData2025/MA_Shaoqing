@@ -1,0 +1,2083 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6893859,
+          35.6891268
+        ]
+      },
+      "properties": {
+        "id": "relation/13272644",
+        "ward": "shinjuku",
+        "category": "assembly_point",
+        "name": "新宿中央公園",
+        "tags": {
+          "@id": "relation/13272644",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "新宿中央公園",
+          "name:en": "Shinjuku Central Park",
+          "name:es": "Parque central Shinjuku",
+          "name:ja": "新宿中央公園",
+          "name:ja-Hira": "しんじゅくちゅうおうこうえん",
+          "name:ja-Latn": "Shinjuku Chuou Koen",
+          "name:ko": "신주쿠 중앙공원",
+          "type": "multipolygon",
+          "website": "http://www.city.shinjuku.lg.jp/seikatsu/file15_02_00001.html",
+          "wikidata": "Q5364883",
+          "wikipedia": "ja:新宿中央公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7098924,
+          35.6851027
+        ]
+      },
+      "properties": {
+        "id": "way/15772074",
+        "ward": "shinjuku",
+        "category": "assembly_point",
+        "name": "新宿御苑",
+        "tags": {
+          "@id": "way/15772074",
+          "addr:block_number": "11",
+          "addr:city": "新宿区",
+          "addr:postcode": "160-0014",
+          "addr:province": "東京都",
+          "addr:quarter": "内藤町",
+          "charge:adult": "500 JPY;250 JPY",
+          "charge:child": "250 JPY;0 JPY",
+          "contact:phone": "+81 3-3350-0151",
+          "contact:tripadvisor": "479258",
+          "contact:twitter": "SG_info_kyokai",
+          "contact:website": "http://www.env.go.jp/garden/shinjukugyoen/",
+          "emergency": "assembly_point",
+          "fee": "yes",
+          "leisure": "park",
+          "name": "新宿御苑",
+          "name:de": "Shinjuku Gyoen",
+          "name:en": "Shinjuku Gyoen National Garden",
+          "name:es": "Shinjuku Gyoen",
+          "name:fr": "Jardin impérial de Shinjuku",
+          "name:it": "Shinjuku Gyoen",
+          "name:ja-Hira": "しんじゅくぎょえん",
+          "name:ja-Latn": "Shinjuku-gyoen",
+          "name:ko": "신주쿠 교엔",
+          "name:ru": "Национальный парк Синдзюку-гёэн",
+          "name:zh": "新宿御苑",
+          "opening_hours": "Mo off; Oct 01-Mar 14 Tu-Su 09:00-16:30; Mar 15-Jun 30 Tu-Su 09:00-18:00; Jul 01-Aug 20 Tu-Su 09:00-19:00; Aug 21-Sep 30 Tu-Su 09:00-18:00; Dec 29-Jan 03 off",
+          "operator": "環境省",
+          "operator:wikidata": "Q1125558",
+          "payment:alipay": "yes",
+          "payment:american_express": "yes",
+          "payment:coins": "yes",
+          "payment:diners_club": "yes",
+          "payment:icoca": "yes",
+          "payment:id": "yes",
+          "payment:jcb": "yes",
+          "payment:jkopay": "yes",
+          "payment:mastercard": "yes",
+          "payment:nanaco": "yes",
+          "payment:notes": "yes",
+          "payment:paypay": "yes",
+          "payment:quicpay": "yes",
+          "payment:rakuten_edy": "yes",
+          "payment:suica": "yes",
+          "payment:unionpay": "yes",
+          "payment:visa": "yes",
+          "payment:waon": "yes",
+          "start_date": "1892",
+          "wikidata": "Q776863",
+          "wikimedia_commons": "Category:Shinjuku Gyo-en",
+          "wikipedia": "ja:新宿御苑",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6944843,
+          35.6934966
+        ]
+      },
+      "properties": {
+        "id": "way/137626342",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署",
+        "tags": {
+          "@id": "way/137626342",
+          "addr:block_number": "1",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "6丁目",
+          "addr:postcode": "160-0023",
+          "addr:province": "東京都",
+          "addr:quarter": "西新宿",
+          "addr:suburb": "新宿区",
+          "amenity": "police",
+          "building": "yes",
+          "building:colour": "#bdbdbb",
+          "building:levels": "13",
+          "name": "新宿警察署",
+          "name:en": "Shinjuku Police Station",
+          "name:es": "Estación de policía Shinjuku",
+          "operator": "警視庁第四方面本部",
+          "phone": "+81 3 3346 0110",
+          "roof:colour": "#b5bbce",
+          "website": "https://www.keishicho.metro.tokyo.jp/4/shinjuku/",
+          "wikidata": "Q11501870",
+          "wikipedia": "ja:新宿警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6898168,
+          35.6861398
+        ]
+      },
+      "properties": {
+        "id": "way/153148028",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署 西新宿出張所",
+        "tags": {
+          "@id": "way/153148028",
+          "amenity": "fire_station",
+          "building": "yes",
+          "building:levels": "8」",
+          "name": "新宿消防署 西新宿出張所",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7112341,
+          35.7133561
+        ]
+      },
+      "properties": {
+        "id": "way/155927949",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "警視庁戸塚警察署",
+        "tags": {
+          "@id": "way/155927949",
+          "amenity": "police",
+          "building": "yes",
+          "name": "警視庁戸塚警察署",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724942,
+          35.6936667
+        ]
+      },
+      "properties": {
+        "id": "way/169522652",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/169522652",
+          "amenity": "police",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691932,
+          35.6945117
+        ]
+      },
+      "properties": {
+        "id": "way/258422681",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/258422681",
+          "amenity": "police",
+          "building": "yes",
+          "source": "image,2014-01;Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7189719,
+          35.6761978
+        ]
+      },
+      "properties": {
+        "id": "way/499552718",
+        "ward": "shinjuku",
+        "category": "assembly_point",
+        "name": "明治神宮外苑",
+        "tags": {
+          "@id": "way/499552718",
+          "emergency": "assembly_point",
+          "leisure": "sports_centre",
+          "name": "明治神宮外苑",
+          "name:en": "Meiji Jingu Garden",
+          "name:es": "Jardín Meiji Jingu",
+          "name:ja": "明治神宮外苑",
+          "name:pt": "Jardim Meiji Jingu",
+          "name:zh": "明治神宫外苑",
+          "wikidata": "Q6631448",
+          "wikipedia": "ja:明治神宮外苑",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714957,
+          35.6738661
+        ]
+      },
+      "properties": {
+        "id": "way/625278153",
+        "ward": "shinjuku",
+        "category": "assembly_point",
+        "name": "私立 國學院高等学校",
+        "tags": {
+          "@id": "way/625278153",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "私立 國學院高等学校",
+          "name:en": "Kokugakuin High School",
+          "name:es": "Colegio Kokugakuin",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11422706",
+          "wikipedia": "ja:國學院高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7158419,
+          35.6728242
+        ]
+      },
+      "properties": {
+        "id": "way/625278154",
+        "ward": "shinjuku",
+        "category": "assembly_point",
+        "name": "東京都立 青山高等学校",
+        "tags": {
+          "@id": "way/625278154",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "東京都立 青山高等学校",
+          "name:en": "Aoyama High School",
+          "name:es": "Colegio Aoyama",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q10869427",
+          "wikipedia": "ja:東京都立青山高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7184902,
+          35.7066621
+        ]
+      },
+      "properties": {
+        "id": "way/627368590",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署馬場下交番",
+        "tags": {
+          "@id": "way/627368590",
+          "amenity": "police",
+          "building": "yes",
+          "name": "牛込警察署馬場下交番",
+          "name:en": "Koban",
+          "name:ja": "牛込警察署馬場下交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source:geometry": "Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6945263,
+          35.7064222
+        ]
+      },
+      "properties": {
+        "id": "way/679270156",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/679270156",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7201074,
+          35.6882904
+        ]
+      },
+      "properties": {
+        "id": "node/1420771499",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "四谷消防署",
+        "tags": {
+          "@id": "node/1420771499",
+          "addr:postcode": "160-0004",
+          "amenity": "fire_station",
+          "fax": "+81-3-33568510",
+          "name": "四谷消防署",
+          "name:en": "Yotsuya Fire Station",
+          "name:ja": "四谷消防署",
+          "name:ko": "요츠야 소방서",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第四消防方面本部",
+          "phone": "+81-3-33570119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-yotuya/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7113644,
+          35.6886248
+        ]
+      },
+      "properties": {
+        "id": "node/1420771503",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "四谷消防署新宿御苑出張所",
+        "tags": {
+          "@id": "node/1420771503",
+          "amenity": "fire_station",
+          "name": "四谷消防署新宿御苑出張所",
+          "name:en": "Yotsuya Fire Station Shinjuku Gyoen Branch",
+          "name:es": "Estación de bomberos Yotsuya, sede Shinjuku Gyoen",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7190655,
+          35.6805108
+        ]
+      },
+      "properties": {
+        "id": "node/1420771527",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署信濃町交番",
+        "tags": {
+          "@id": "node/1420771527",
+          "amenity": "police",
+          "name": "四谷警察署信濃町交番",
+          "name:ja": "四谷警察署信濃町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726646,
+          35.68073
+        ]
+      },
+      "properties": {
+        "id": "node/1420771528",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署南元町警備派出所",
+        "tags": {
+          "@id": "node/1420771528",
+          "addr:block_number": "1",
+          "addr:city": "新宿区",
+          "addr:housenumber": "23",
+          "addr:neighbourhood": "若葉町",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "四谷警察署南元町警備派出所",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7196981,
+          35.6880998
+        ]
+      },
+      "properties": {
+        "id": "node/1420771531",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署四谷三丁目交番",
+        "tags": {
+          "@id": "node/1420771531",
+          "addr:block_number": "10",
+          "addr:city": "新宿区",
+          "addr:housenumber": "38",
+          "addr:neighbourhood": "四谷三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "四谷警察署四谷三丁目交番",
+          "name:ja": "四谷三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7296843,
+          35.6854874
+        ]
+      },
+      "properties": {
+        "id": "node/1420771539",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署四谷見附交番",
+        "tags": {
+          "@id": "node/1420771539",
+          "amenity": "police",
+          "name": "四谷警察署四谷見附交番",
+          "name:en": "Yotsuya Police",
+          "name:es": "Comisaría de Yotsuya",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7157749,
+          35.6831578
+        ]
+      },
+      "properties": {
+        "id": "node/1420771544",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署大京町交番",
+        "tags": {
+          "@id": "node/1420771544",
+          "addr:block_number": "28",
+          "addr:city": "新宿区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "大京町",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "四谷警察署大京町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7072899,
+          35.6918454
+        ]
+      },
+      "properties": {
+        "id": "node/1420771549",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署御苑大通交番",
+        "tags": {
+          "@id": "node/1420771549",
+          "amenity": "police",
+          "name": "四谷警察署御苑大通交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709549,
+          35.689041
+        ]
+      },
+      "properties": {
+        "id": "node/1420771550",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署新宿交番",
+        "tags": {
+          "@id": "node/1420771550",
+          "amenity": "police",
+          "name": "四谷警察署新宿交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7036795,
+          35.6888533
+        ]
+      },
+      "properties": {
+        "id": "node/1420771555",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署新宿四丁目交番",
+        "tags": {
+          "@id": "node/1420771555",
+          "amenity": "police",
+          "name": "四谷警察署新宿四丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704771,
+          35.693484
+        ]
+      },
+      "properties": {
+        "id": "node/1420771557",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署花園交番",
+        "tags": {
+          "@id": "node/1420771557",
+          "addr:block_number": "1",
+          "addr:city": "新宿区",
+          "addr:housenumber": "13",
+          "addr:neighbourhood": "歌舞伎町一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "四谷警察署花園交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7051122,
+          35.6908759
+        ]
+      },
+      "properties": {
+        "id": "node/1420771558",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署追分交番",
+        "tags": {
+          "@id": "node/1420771558",
+          "amenity": "police",
+          "name": "四谷警察署追分交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no",
+          "wheelchair:description": "小さな交番なので入口にいつもおまわりさんが立っていて、対応してくれます。"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711214,
+          35.713343
+        ]
+      },
+      "properties": {
+        "id": "node/1420780473",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署",
+        "tags": {
+          "@id": "node/1420780473",
+          "amenity": "police",
+          "name": "戸塚警察署",
+          "name:en": "Totsuka Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11496306",
+          "wikipedia": "ja:戸塚警察署 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.685734,
+          35.7133102
+        ]
+      },
+      "properties": {
+        "id": "node/1420780474",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署 上落合交番",
+        "tags": {
+          "@id": "node/1420780474",
+          "amenity": "police",
+          "check_date": "2025-11-04",
+          "name": "戸塚警察署 上落合交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704298,
+          35.720342
+        ]
+      },
+      "properties": {
+        "id": "node/1420780475",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署下落合三丁目駐在所",
+        "tags": {
+          "@id": "node/1420780475",
+          "addr:block_number": "3",
+          "addr:city": "新宿区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "下落合三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "戸塚警察署下落合三丁目駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699631,
+          35.721953
+        ]
+      },
+      "properties": {
+        "id": "node/1420780476",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署下落合交番",
+        "tags": {
+          "@id": "node/1420780476",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "14",
+          "addr:city": "新宿区",
+          "addr:housenumber": "20",
+          "addr:neighbourhood": "下落合三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "戸塚警察署下落合交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6944559,
+          35.7169651
+        ]
+      },
+      "properties": {
+        "id": "node/1420780477",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署下落合駅前交番",
+        "tags": {
+          "@id": "node/1420780477",
+          "addr:block_number": "14",
+          "addr:city": "中落合二丁目",
+          "addr:neighbourhood": "8",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "戸塚警察署下落合駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6852334,
+          35.720481
+        ]
+      },
+      "properties": {
+        "id": "node/1420780478",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署中落合交番",
+        "tags": {
+          "@id": "node/1420780478",
+          "amenity": "police",
+          "name": "戸塚警察署中落合交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7189277,
+          35.7120225
+        ]
+      },
+      "properties": {
+        "id": "node/1420780479",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署 戸塚一丁目交番",
+        "tags": {
+          "@id": "node/1420780479",
+          "amenity": "police",
+          "name": "戸塚警察署 戸塚一丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6795051,
+          35.7230635
+        ]
+      },
+      "properties": {
+        "id": "node/1420780480",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署西落合交番",
+        "tags": {
+          "@id": "node/1420780480",
+          "addr:block_number": "26",
+          "addr:city": "新宿区",
+          "addr:housenumber": "10",
+          "addr:neighbourhood": "西落合一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "戸塚警察署西落合交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7042877,
+          35.7129424
+        ]
+      },
+      "properties": {
+        "id": "node/1420780482",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "戸塚警察署高田馬場駅前交番",
+        "tags": {
+          "@id": "node/1420780482",
+          "amenity": "police",
+          "name": "戸塚警察署高田馬場駅前交番",
+          "name:en": "Koban",
+          "name:es": "Policía",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6946888,
+          35.7068845
+        ]
+      },
+      "properties": {
+        "id": "node/1420780822",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署",
+        "tags": {
+          "@id": "node/1420780822",
+          "addr:block_number": "29",
+          "addr:city": "新宿区",
+          "addr:housenumber": "4",
+          "addr:neighbourhood": "百人町三丁目",
+          "addr:postcode": "169-0073",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "fax": "+81-3-33607481",
+          "name": "新宿消防署",
+          "name:en": "Shinjuku Fire Station",
+          "name:ja": "新宿消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第四消防方面本部",
+          "phone": "+81-3-33710119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-sinjyuku/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7085928,
+          35.6975991
+        ]
+      },
+      "properties": {
+        "id": "node/1420780823",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署大久保出張所",
+        "tags": {
+          "@id": "node/1420780823",
+          "amenity": "fire_station",
+          "name": "新宿消防署大久保出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7086773,
+          35.7082986
+        ]
+      },
+      "properties": {
+        "id": "node/1420780824",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署戸塚出張所",
+        "tags": {
+          "@id": "node/1420780824",
+          "amenity": "fire_station",
+          "name": "新宿消防署戸塚出張所",
+          "name:en": "Shinjuku Fire Station Totsuka Depot",
+          "name:es": "Estación de bomberos",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6904179,
+          35.7206138
+        ]
+      },
+      "properties": {
+        "id": "node/1420780825",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署落合出張所",
+        "tags": {
+          "@id": "node/1420780825",
+          "amenity": "fire_station",
+          "name": "新宿消防署落合出張所",
+          "name:en": "Shinjuku Fire Department Ochiai Branch",
+          "name:ja-Hira": "しんじゅくしょうぼうしょおちあいしゅっちょうじょ",
+          "name:ja-Latn": "Shinjuku Shōbōsho Ochiai Shucchōjo",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6898089,
+          35.6861435
+        ]
+      },
+      "properties": {
+        "id": "node/1420780826",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "新宿消防署西新宿出張所",
+        "tags": {
+          "@id": "node/1420780826",
+          "amenity": "fire_station",
+          "name": "新宿消防署西新宿出張所",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6907732,
+          35.6971287
+        ]
+      },
+      "properties": {
+        "id": "node/1420780838",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署北新宿一丁目交番",
+        "tags": {
+          "@id": "node/1420780838",
+          "amenity": "police",
+          "name": "新宿警察署北新宿一丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7041725,
+          35.7013281
+        ]
+      },
+      "properties": {
+        "id": "node/1420780839",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "大久保交番",
+        "tags": {
+          "@id": "node/1420780839",
+          "addr:block_number": "25",
+          "addr:city": "新宿区",
+          "addr:housenumber": "2",
+          "addr:neighbourhood": "大久保二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "大久保交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6919329,
+          35.6945091
+        ]
+      },
+      "properties": {
+        "id": "node/1420780840",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署成子坂交番",
+        "tags": {
+          "@id": "node/1420780840",
+          "amenity": "police",
+          "name": "新宿警察署成子坂交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7011426,
+          35.6917673
+        ]
+      },
+      "properties": {
+        "id": "node/1420780842",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署新宿駅東口交番",
+        "tags": {
+          "@id": "node/1420780842",
+          "addr:block_number": "38",
+          "addr:city": "新宿区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "新宿三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "新宿警察署新宿駅東口交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701632,
+          35.696151
+        ]
+      },
+      "properties": {
+        "id": "node/1420780844",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署歌舞伎町交番",
+        "tags": {
+          "@id": "node/1420780844",
+          "amenity": "police",
+          "name": "新宿警察署歌舞伎町交番",
+          "name:en": "Kabukicho Koban",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6945035,
+          35.7064252
+        ]
+      },
+      "properties": {
+        "id": "node/1420780845",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署淀橋市場前交番",
+        "tags": {
+          "@id": "node/1420780845",
+          "amenity": "police",
+          "name": "新宿警察署淀橋市場前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6875688,
+          35.690951
+        ]
+      },
+      "properties": {
+        "id": "node/1420780846",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署熊野神社前交番",
+        "tags": {
+          "@id": "node/1420780846",
+          "amenity": "police",
+          "name": "新宿警察署熊野神社前交番",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6994381,
+          35.7014352
+        ]
+      },
+      "properties": {
+        "id": "node/1420780847",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署百人町交番",
+        "tags": {
+          "@id": "node/1420780847",
+          "amenity": "police",
+          "name": "新宿警察署百人町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691498,
+          35.6848984
+        ]
+      },
+      "properties": {
+        "id": "node/1420780848",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署西新宿三丁目交番",
+        "tags": {
+          "@id": "node/1420780848",
+          "amenity": "police",
+          "name": "新宿警察署西新宿三丁目交番",
+          "name:en": "Koban",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7394401,
+          35.7035579
+        ]
+      },
+      "properties": {
+        "id": "node/1420789353",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "牛込消防署",
+        "tags": {
+          "@id": "node/1420789353",
+          "addr:block_number": "5",
+          "addr:city": "新宿区",
+          "addr:housenumber": "16",
+          "addr:neighbourhood": "筑土八幡町",
+          "addr:postcode": "162-0815",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "fax": "+81-3-32674655",
+          "name": "牛込消防署",
+          "name:en": "Usigome Fire Station",
+          "name:ja": "牛込消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第四消防方面本部",
+          "phone": "+81-3-32670119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-usigome/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724686,
+          35.706067
+        ]
+      },
+      "properties": {
+        "id": "node/1420789354",
+        "ward": "shinjuku",
+        "category": "fire_station",
+        "name": "牛込消防署早稲田出張所",
+        "tags": {
+          "@id": "node/1420789354",
+          "addr:block_number": "504",
+          "addr:city": "新宿区",
+          "addr:housenumber": "6",
+          "addr:neighbourhood": "早稲田鶴巻町",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "牛込消防署早稲田出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.731574,
+          35.698957
+        ]
+      },
+      "properties": {
+        "id": "node/1420789361",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署",
+        "tags": {
+          "@id": "node/1420789361",
+          "addr:block_number": "1",
+          "addr:city": "新宿区",
+          "addr:housenumber": "15",
+          "addr:neighbourhood": "南山伏町",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "牛込警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "wikidata": "Q11570239"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7337393,
+          35.6915011
+        ]
+      },
+      "properties": {
+        "id": "node/1420789362",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署八幡前交番",
+        "tags": {
+          "@id": "node/1420789362",
+          "amenity": "police",
+          "name": "牛込警察署八幡前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7427326,
+          35.7077092
+        ]
+      },
+      "properties": {
+        "id": "node/1420789370",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署大曲交番",
+        "tags": {
+          "@id": "node/1420789370",
+          "amenity": "police",
+          "name": "牛込警察署大曲交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7173512,
+          35.6914075
+        ]
+      },
+      "properties": {
+        "id": "node/1420789372",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署 富久町交番",
+        "tags": {
+          "@id": "node/1420789372",
+          "amenity": "police",
+          "name": "牛込警察署 富久町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7267981,
+          35.7049307
+        ]
+      },
+      "properties": {
+        "id": "node/1420789380",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署 弁天町交番",
+        "tags": {
+          "@id": "node/1420789380",
+          "amenity": "police",
+          "name": "牛込警察署 弁天町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.714813,
+          35.7014948
+        ]
+      },
+      "properties": {
+        "id": "node/1420789381",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署戸山町交番",
+        "tags": {
+          "@id": "node/1420789381",
+          "amenity": "police",
+          "name": "牛込警察署戸山町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7266737,
+          35.699505
+        ]
+      },
+      "properties": {
+        "id": "node/1420789389",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署柳町交番",
+        "tags": {
+          "@id": "node/1420789389",
+          "amenity": "police",
+          "name": "牛込警察署柳町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7173304,
+          35.6987267
+        ]
+      },
+      "properties": {
+        "id": "node/1420789391",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署 河田町交番",
+        "tags": {
+          "@id": "node/1420789391",
+          "amenity": "police",
+          "name": "牛込警察署 河田町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7307879,
+          35.7044787
+        ]
+      },
+      "properties": {
+        "id": "node/1420789396",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署 矢来町地域安全センター",
+        "tags": {
+          "@id": "node/1420789396",
+          "amenity": "police",
+          "name": "牛込警察署 矢来町地域安全センター",
+          "name:ja": "牛込警察署 矢来町地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7383316,
+          35.7025329
+        ]
+      },
+      "properties": {
+        "id": "node/1420789402",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署神楽坂上交番",
+        "tags": {
+          "@id": "node/1420789402",
+          "amenity": "police",
+          "name": "牛込警察署神楽坂上交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724599,
+          35.7073888
+        ]
+      },
+      "properties": {
+        "id": "node/1420789418",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "牛込警察署鶴巻町交番",
+        "tags": {
+          "@id": "node/1420789418",
+          "amenity": "police",
+          "name": "牛込警察署鶴巻町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724994,
+          35.693587
+        ]
+      },
+      "properties": {
+        "id": "node/1420795784",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "第四方面本部",
+        "tags": {
+          "@id": "node/1420795784",
+          "amenity": "police",
+          "name": "第四方面本部",
+          "name:en": "The 4th District Headquarters",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699392,
+          35.690523
+        ]
+      },
+      "properties": {
+        "id": "node/2389061857",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署新宿駅西口交番",
+        "tags": {
+          "@id": "node/2389061857",
+          "amenity": "police",
+          "name": "新宿警察署新宿駅西口交番",
+          "name:en": "Shinjuku Police Station Shinjuku Station Nishiguchi Kobanji",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7151429,
+          35.6988551
+        ]
+      },
+      "properties": {
+        "id": "node/2606035904",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "警視庁第八機動隊",
+        "tags": {
+          "@id": "node/2606035904",
+          "amenity": "police",
+          "name": "警視庁第八機動隊"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7434276,
+          35.7008195
+        ]
+      },
+      "properties": {
+        "id": "node/4591847581",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4591847581",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74401,
+          35.7028635
+        ]
+      },
+      "properties": {
+        "id": "node/5616248350",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5616248350",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718484,
+          35.7066785
+        ]
+      },
+      "properties": {
+        "id": "node/5922366101",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5922366101",
+          "access": "yes",
+          "check_date": "2025-09-19",
+          "defibrillator:location": "交番に入って右の壁",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7428323,
+          35.7061297
+        ]
+      },
+      "properties": {
+        "id": "node/6126581810",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6126581810",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7393334,
+          35.7034252
+        ]
+      },
+      "properties": {
+        "id": "node/6175798088",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6175798088",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7429113,
+          35.7053854
+        ]
+      },
+      "properties": {
+        "id": "node/6383447779",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6383447779",
+          "access": "yes",
+          "defibrillator:location": "Inside supermarket",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "opening_hours": "Mo-Su 09:30-22:00",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695502,
+          35.6897399
+        ]
+      },
+      "properties": {
+        "id": "node/10239604972",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/10239604972",
+          "access": "yes",
+          "defibrillator:location:en": "At lobby of Shinkuku First West",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7038512,
+          35.6979839
+        ]
+      },
+      "properties": {
+        "id": "node/11065086205",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11065086205",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.704255,
+          35.7133208
+        ]
+      },
+      "properties": {
+        "id": "node/12118185226",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12118185226",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7044068,
+          35.6914496
+        ]
+      },
+      "properties": {
+        "id": "node/12462440801",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12462440801",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7204443,
+          35.686561
+        ]
+      },
+      "properties": {
+        "id": "node/12950572301",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "四谷警察署",
+        "tags": {
+          "@id": "node/12950572301",
+          "amenity": "police",
+          "name": "四谷警察署",
+          "name:en": "Yotsuya Police Station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6873452,
+          35.6911842
+        ]
+      },
+      "properties": {
+        "id": "node/13157329901",
+        "ward": "shinjuku",
+        "category": "police",
+        "name": "新宿警察署　熊野神社前交番",
+        "tags": {
+          "@id": "node/13157329901",
+          "amenity": "police",
+          "name": "新宿警察署　熊野神社前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7051107,
+          35.6908842
+        ]
+      },
+      "properties": {
+        "id": "node/13159280110",
+        "ward": "shinjuku",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13159280110",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

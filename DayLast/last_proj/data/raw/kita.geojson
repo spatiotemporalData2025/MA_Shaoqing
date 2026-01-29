@@ -1,0 +1,1239 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T07:44:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/221597660",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "赤羽警察署赤羽駅前交番",
+        "name:en": "Akabane-ekimae Police Station",
+        "name:ja": "赤羽警察署赤羽駅前交番",
+        "operator": "赤羽警察署",
+        "source": "GSI/KIBAN 2500;NARO",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7210765,
+          35.7784205
+        ]
+      },
+      "id": "way/221597660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313887168",
+        "addr:postcode": "114-0002",
+        "amenity": "fire_station",
+        "fax": "+81-3-39271526",
+        "name": "王子消防署",
+        "name:en": "Oji Fire Station",
+        "name:ja": "王子消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第五消防方面本部",
+        "phone": "+81-3-39270119",
+        "source": "KSJ2;(URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-ouji/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7368556,
+          35.7631189
+        ]
+      },
+      "id": "node/313887168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648633305",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7134731,
+          35.7776523
+        ]
+      },
+      "id": "way/648633305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648727267",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "4",
+        "construction": "service",
+        "name": "赤羽消防署",
+        "operator": "東京消防庁",
+        "source": "TOKYO FDA OFFICIAL;local knowledge;'20/03/10 Starting Opreration",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7231709,
+          35.7777367
+        ]
+      },
+      "id": "way/648727267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1347231142",
+        "addr:postcode": "114-0024",
+        "amenity": "fire_station",
+        "name": "滝野川消防署",
+        "name:en": "Takinogawa Fire Station",
+        "name:ja": "滝野川消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "operator": "東京消防庁第五消防方面本部",
+        "phone": "+81-3-39160119",
+        "source": "KSJ2;(URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-takinogawa/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7449625,
+          35.7448101
+        ]
+      },
+      "id": "way/1347231142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1347235123",
+        "amenity": "police",
+        "name": "滝野川警察署",
+        "name:en": "Takinogawa Police Station",
+        "name:it": "Stazione di Policia di Takinogawa",
+        "name:ja": "滝野川警察署",
+        "name:ja-Hira": "たきのがわけいさつしょ",
+        "wikidata": "Q11565318",
+        "wikipedia": "ja:滝野川警察署",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7416037,
+          35.7472241
+        ]
+      },
+      "id": "way/1347235123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1348019634",
+        "amenity": "police",
+        "name": "赤羽警察署",
+        "name:en": "Akabane Police Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11635953",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7338966,
+          35.7743369
+        ]
+      },
+      "id": "way/1348019634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1395145481",
+        "amenity": "police",
+        "name": "滝野川警察署 谷戸駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7388598,
+          35.7439358
+        ]
+      },
+      "id": "way/1395145481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1418888657",
+        "amenity": "fire_station",
+        "name": "滝野川消防団第二分団本部",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7356729,
+          35.7469203
+        ]
+      },
+      "id": "way/1418888657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789308",
+        "amenity": "fire_station",
+        "name": "滝野川消防署三軒家出張所",
+        "name:en": "Takinogawa Fire Station Sangenya Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723812,
+          35.7476783
+        ]
+      },
+      "id": "node/1420789308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789309",
+        "amenity": "fire_station",
+        "name": "滝野川消防署田端出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768437,
+          35.7385438
+        ]
+      },
+      "id": "node/1420789309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789316",
+        "amenity": "police",
+        "name": "滝野川警察署 中里交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7517376,
+          35.7364826
+        ]
+      },
+      "id": "node/1420789316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789317",
+        "amenity": "police",
+        "name": "滝野川警察署 尾久駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7549562,
+          35.7468369
+        ]
+      },
+      "id": "node/1420789317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789318",
+        "amenity": "police",
+        "name": "滝野川警察署 御代乃台地域安全センター",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7270084,
+          35.7472196
+        ]
+      },
+      "id": "node/1420789318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789319",
+        "amenity": "police",
+        "name": "滝野川警察署 東田端交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7621704,
+          35.7390463
+        ]
+      },
+      "id": "node/1420789319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789320",
+        "amenity": "police",
+        "name": "滝野川警察署 板橋駅東口交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720103,
+          35.7456114
+        ]
+      },
+      "id": "node/1420789320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789321",
+        "amenity": "police",
+        "name": "滝野川警察署 滝野川一丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7327616,
+          35.7454285
+        ]
+      },
+      "id": "node/1420789321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789322",
+        "amenity": "police",
+        "name": "滝野川警察署 田端高台交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7584896,
+          35.7383538
+        ]
+      },
+      "id": "node/1420789322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789323",
+        "amenity": "police",
+        "name": "滝野川警察署 西ヶ原交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7473633,
+          35.7427931
+        ]
+      },
+      "id": "node/1420789323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789325",
+        "amenity": "police",
+        "name": "滝野川警察署飛鳥山交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737719,
+          35.7507684
+        ]
+      },
+      "id": "node/1420789325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789891",
+        "amenity": "fire_station",
+        "name": "王子消防署十条出張所",
+        "name:en": "Jujo Branch, Oji Fire Station, Tokyo Fire Department",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7294566,
+          35.7582044
+        ]
+      },
+      "id": "node/1420789891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789892",
+        "amenity": "fire_station",
+        "name": "王子消防署東十条出張所",
+        "name:en": "Higashijujo Fire Substation",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7303743,
+          35.7663671
+        ]
+      },
+      "id": "node/1420789892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789895",
+        "addr:postcode": "114-0002",
+        "amenity": "police",
+        "name": "王子警察署",
+        "name:en": "Oji Police Station",
+        "name:zh": "王子警署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "警視庁",
+        "operator:en": "Tokyo Metropolitan Police Department",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11573011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7383053,
+          35.7593475
+        ]
+      },
+      "id": "node/1420789895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789896",
+        "amenity": "police",
+        "check_date": "2024-12-21",
+        "name": "王子警察署中十条交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7273448,
+          35.7626376
+        ]
+      },
+      "id": "node/1420789896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789897",
+        "amenity": "police",
+        "name": "王子警察署 十条仲原交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.719275,
+          35.765446
+        ]
+      },
+      "id": "node/1420789897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789898",
+        "amenity": "police",
+        "name": "王子警察署十条駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2;survey",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7220141,
+          35.760447
+        ]
+      },
+      "id": "node/1420789898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789899",
+        "amenity": "police",
+        "name": "王子警察署 東十条交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7286049,
+          35.7660048
+        ]
+      },
+      "id": "node/1420789899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789900",
+        "amenity": "police",
+        "name": "王子警察署王子五丁目交番",
+        "name:en": "Oji Gochome Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.735238,
+          35.766171
+        ]
+      },
+      "id": "node/1420789900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789901",
+        "amenity": "police",
+        "name": "王子警察署 王子本町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7337082,
+          35.7538011
+        ]
+      },
+      "id": "node/1420789901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789902",
+        "amenity": "police",
+        "name": "王子警察署 王子駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73809,
+          35.753206
+        ]
+      },
+      "id": "node/1420789902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789903",
+        "amenity": "police",
+        "name": "王子警察署 豊島五丁目駐在所",
+        "name:en": "Police Box",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749669,
+          35.764379
+        ]
+      },
+      "id": "node/1420789903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420795778",
+        "amenity": "police",
+        "name": "第十方面本部",
+        "name:en": "The 10th District Headquarters",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711815,
+          35.765056
+        ]
+      },
+      "id": "node/1420795778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798279",
+        "amenity": "fire_station",
+        "name": "赤羽消防署志茂出張所",
+        "name:en": "Akabane Fire Station Shimo Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.729516,
+          35.78078
+        ]
+      },
+      "id": "node/1420798279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798280",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "13",
+        "addr:city": "北区",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "浮間三丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "赤羽消防署浮間出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700323,
+          35.787029
+        ]
+      },
+      "id": "node/1420798280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798281",
+        "amenity": "fire_station",
+        "name": "赤羽消防署西が丘出張所",
+        "name:en": "Akabane Fire Station Nishigaoka Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7113056,
+          35.7680532
+        ]
+      },
+      "id": "node/1420798281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798282",
+        "amenity": "fire_station",
+        "name": "赤羽消防署赤羽台出張所",
+        "name:en": "Akabanedai Fire Substation",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7134889,
+          35.7776664
+        ]
+      },
+      "id": "node/1420798282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798291",
+        "amenity": "police",
+        "name": "赤羽警察署宮堀交番",
+        "name:en": "Miyabori Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7344397,
+          35.7698269
+        ]
+      },
+      "id": "node/1420798291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798292",
+        "amenity": "police",
+        "name": "赤羽警察署 岩淵交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7223784,
+          35.7867454
+        ]
+      },
+      "id": "node/1420798292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798293",
+        "amenity": "police",
+        "name": "赤羽警察署志茂交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726016,
+          35.776587
+        ]
+      },
+      "id": "node/1420798293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798294",
+        "amenity": "police",
+        "name": "赤羽警察署 志茂四丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7304924,
+          35.7804928
+        ]
+      },
+      "id": "node/1420798294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798295",
+        "amenity": "police",
+        "name": "赤羽警察署 法善寺交番",
+        "name:en": "Hozenji Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7133961,
+          35.778695
+        ]
+      },
+      "id": "node/1420798295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798296",
+        "amenity": "police",
+        "name": "赤羽警察署 浮間交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6972592,
+          35.7898038
+        ]
+      },
+      "id": "node/1420798296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798297",
+        "amenity": "police",
+        "name": "赤羽警察署 西が丘交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7107481,
+          35.7707128
+        ]
+      },
+      "id": "node/1420798297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798298",
+        "amenity": "police",
+        "name": "赤羽警察署 赤羽北交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7080241,
+          35.7856645
+        ]
+      },
+      "id": "node/1420798298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420798299",
+        "amenity": "police",
+        "name": "赤羽警察署 赤羽西交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7210674,
+          35.7728377
+        ]
+      },
+      "id": "node/1420798299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558175156",
+        "amenity": "fire_station",
+        "branch": "第４分団本部",
+        "name": "赤羽消防団",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7205922,
+          35.7805088
+        ]
+      },
+      "id": "node/2558175156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839226677",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "note": "駅改札内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7212486,
+          35.7774994
+        ]
+      },
+      "id": "node/5839226677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6122801168",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734248,
+          35.7557052
+        ]
+      },
+      "id": "node/6122801168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6122801169",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7348456,
+          35.7550714
+        ]
+      },
+      "id": "node/6122801169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10018437626",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7264831,
+          35.7581954
+        ]
+      },
+      "id": "node/10018437626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10073076169",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7318994,
+          35.765807
+        ]
+      },
+      "id": "node/10073076169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10092488366",
+        "defibrillator:location": "AEDはbeansのショッピングエリア内の右側にあります",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7204939,
+          35.7784641
+        ]
+      },
+      "id": "node/10092488366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10126188038",
+        "amenity": "fire_station",
+        "name": "赤羽消防団第二分団",
+        "name:ja": "赤羽消防団第二分団"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7286254,
+          35.7700612
+        ]
+      },
+      "id": "node/10126188038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132778619",
+        "amenity": "police",
+        "name": "王子本町交番",
+        "name:ja": "王子本町交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7341804,
+          35.7532278
+        ]
+      },
+      "id": "node/10132778619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10142739792",
+        "amenity": "fire_station",
+        "name": "王子消防団第三分団本部",
+        "name:ja": "王子消防団第三分団本部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7359032,
+          35.7630279
+        ]
+      },
+      "id": "node/10142739792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10142739801",
+        "amenity": "fire_station",
+        "name": "王子消防",
+        "name:ja": "王子消防"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7426629,
+          35.7639173
+        ]
+      },
+      "id": "node/10142739801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10729503256",
+        "amenity": "fire_station",
+        "name": "赤羽志茂出張所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7329208,
+          35.7752329
+        ]
+      },
+      "id": "node/10729503256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11099472905",
+        "amenity": "fire_station",
+        "name": "王子消防団第六分団"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7184562,
+          35.7657822
+        ]
+      },
+      "id": "node/11099472905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11160835566",
+        "amenity": "fire_station",
+        "name": "王子消防団第八分団"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7407214,
+          35.7591787
+        ]
+      },
+      "id": "node/11160835566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13039060044",
+        "amenity": "fire_station",
+        "name": "滝野川消防団第三分団本部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7372135,
+          35.7411724
+        ]
+      },
+      "id": "node/13039060044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13086382977",
+        "defibrillator:location": "どらっぐぱぱす レジカウンター内",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7485088,
+          35.7389116
+        ]
+      },
+      "id": "node/13086382977"
+    }
+  ]
+}

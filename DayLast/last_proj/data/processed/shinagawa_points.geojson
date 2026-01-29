@@ -1,0 +1,1784 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7031734,
+          35.6254208
+        ]
+      },
+      "properties": {
+        "id": "way/170295471",
+        "ward": "shinagawa",
+        "category": "assembly_point",
+        "name": "林試の森公園",
+        "tags": {
+          "@id": "way/170295471",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "林試の森公園",
+          "name:en": "Rinshi No Mori Park",
+          "name:es": "Parque Rinshi No Mori",
+          "name:ja_rm": "Rinshi-no-mori Kōen",
+          "wikidata": "Q11533314",
+          "wikimedia_commons": "Category:Rinshinomori Park",
+          "wikipedia": "ja:林試の森公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720453,
+          35.6110688
+        ]
+      },
+      "properties": {
+        "id": "way/218028251",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署宮前交番",
+        "tags": {
+          "@id": "way/218028251",
+          "KSJ2:ADS": "豊町2-1-15",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "building": "yes",
+          "name": "荏原警察署宮前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7375751,
+          35.596916
+        ]
+      },
+      "properties": {
+        "id": "way/218426261",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署立会川交番",
+        "tags": {
+          "@id": "way/218426261",
+          "KSJ2:ADS": "南大井1-12-10",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大井警察署立会川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7508411,
+          35.5988224
+        ]
+      },
+      "properties": {
+        "id": "way/221013283",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大森警察署八潮団地交番",
+        "tags": {
+          "@id": "way/221013283",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大森警察署八潮団地交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2,bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7243904,
+          35.606624
+        ]
+      },
+      "properties": {
+        "id": "way/224722551",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署二葉町交番",
+        "tags": {
+          "@id": "way/224722551",
+          "KSJ2:ADS": "二葉2-1-12",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "building": "yes",
+          "name": "荏原警察署二葉町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155641,
+          35.611731
+        ]
+      },
+      "properties": {
+        "id": "way/224722552",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署戸越交番",
+        "tags": {
+          "@id": "way/224722552",
+          "KSJ2:ADS": "戸越3-9-17",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "荏原警察署戸越交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7351885,
+          35.6231907
+        ]
+      },
+      "properties": {
+        "id": "way/227699760",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/227699760",
+          "amenity": "police",
+          "building": "yes",
+          "source": "image,2013-06;Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7515816,
+          35.5970515
+        ]
+      },
+      "properties": {
+        "id": "way/232012888",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "大井消防署八潮出張所",
+        "tags": {
+          "@id": "way/232012888",
+          "KSJ2:ADS": "八潮5-8-3",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "大井消防署八潮出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724017,
+          35.6217609
+        ]
+      },
+      "properties": {
+        "id": "way/566243485",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署",
+        "tags": {
+          "@id": "way/566243485",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大崎警察署",
+          "name:ja_rm": "Ōsaki Keisatsusho",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "wikidata": "Q11435073",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.726203,
+          35.6139031
+        ]
+      },
+      "properties": {
+        "id": "way/589634095",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/589634095",
+          "amenity": "police",
+          "building": "yes",
+          "wheelchair": "no",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7199246,
+          35.6220991
+        ]
+      },
+      "properties": {
+        "id": "way/726844541",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署中原口交番",
+        "tags": {
+          "@id": "way/726844541",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大崎警察署中原口交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7236645,
+          35.6264524
+        ]
+      },
+      "properties": {
+        "id": "way/998241823",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署",
+        "tags": {
+          "@id": "way/998241823",
+          "amenity": "police",
+          "branch": "五反田交番",
+          "building": "yes",
+          "name": "大崎警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7184667,
+          35.6200407
+        ]
+      },
+      "properties": {
+        "id": "node/1229340396",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防署 五反田出張所",
+        "tags": {
+          "@id": "node/1229340396",
+          "amenity": "fire_station",
+          "name": "品川消防署 五反田出張所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710878,
+          35.612156
+        ]
+      },
+      "properties": {
+        "id": "node/1420771340",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "品川区立荏原図書館",
+        "tags": {
+          "@id": "node/1420771340",
+          "amenity": "library",
+          "emergency": "defibrillator",
+          "fax": "+81 3-3784-8951",
+          "internet_access": "terminal",
+          "internet_access:fee": "no",
+          "level": "3",
+          "name": "品川区立荏原図書館",
+          "name:ja_rm": "Ebara Toshokan",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81 3-3784-2557",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://lib.city.shinagawa.tokyo.jp/lib03.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7397611,
+          35.6170957
+        ]
+      },
+      "properties": {
+        "id": "node/1420771363",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防署",
+        "tags": {
+          "@id": "node/1420771363",
+          "addr:postcode": "140-0001",
+          "amenity": "fire_station",
+          "fax": "+81-3-34581250",
+          "name": "品川消防署",
+          "name:en": "Shinagawa Fire Station",
+          "name:ja": "品川消防署",
+          "name:ja-Hira": "しながわしょうぼうしょ",
+          "name:ja_rm": "Shinagawa Shobosho",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-34740119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.731639,
+          35.613545
+        ]
+      },
+      "properties": {
+        "id": "node/1420771365",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防署大崎出張所",
+        "tags": {
+          "@id": "node/1420771365",
+          "addr:block_number": "7",
+          "addr:city": "品川区",
+          "addr:housenumber": "9",
+          "addr:neighbourhood": "西品川一丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "品川消防署大崎出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都品川区",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7472666,
+          35.6128701
+        ]
+      },
+      "properties": {
+        "id": "node/1420771366",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防署東品川出張所",
+        "tags": {
+          "@id": "node/1420771366",
+          "amenity": "fire_station",
+          "name": "品川消防署東品川出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74516,
+          35.613883
+        ]
+      },
+      "properties": {
+        "id": "node/1420771371",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署",
+        "tags": {
+          "@id": "node/1420771371",
+          "addr:block_number": "14",
+          "addr:city": "品川区",
+          "addr:housenumber": "32",
+          "addr:neighbourhood": "東品川三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "品川警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11418425"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7261811,
+          35.6139004
+        ]
+      },
+      "properties": {
+        "id": "node/1420771372",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署三ツ木交番",
+        "tags": {
+          "@id": "node/1420771372",
+          "amenity": "police",
+          "name": "品川警察署三ツ木交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.739965,
+          35.611911
+        ]
+      },
+      "properties": {
+        "id": "node/1420771373",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署二日市交番",
+        "tags": {
+          "@id": "node/1420771373",
+          "KSJ2:ADS": "南品川6-6-7",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "品川警察署二日市交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7421468,
+          35.6208548
+        ]
+      },
+      "properties": {
+        "id": "node/1420771374",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署台場交番",
+        "tags": {
+          "@id": "node/1420771374",
+          "addr:block_number": "29",
+          "addr:city": "品川区",
+          "addr:housenumber": "8",
+          "addr:neighbourhood": "北品川一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "品川警察署台場交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.750548,
+          35.622105
+        ]
+      },
+      "properties": {
+        "id": "node/1420771375",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署天王洲交番",
+        "tags": {
+          "@id": "node/1420771375",
+          "addr:block_number": "2",
+          "addr:city": "品川区",
+          "addr:housenumber": "17",
+          "addr:neighbourhood": "東品川二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "品川警察署天王洲交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7351861,
+          35.6231877
+        ]
+      },
+      "properties": {
+        "id": "node/1420771376",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署御殿山交番",
+        "tags": {
+          "@id": "node/1420771376",
+          "amenity": "police",
+          "name": "品川警察署御殿山交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7428273,
+          35.6101024
+        ]
+      },
+      "properties": {
+        "id": "node/1420771377",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "品川警察署青物横町駅前交番",
+        "tags": {
+          "@id": "node/1420771377",
+          "amenity": "police",
+          "name": "品川警察署青物横町駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7402197,
+          35.6034625
+        ]
+      },
+      "properties": {
+        "id": "node/1420772877",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "大井消防署",
+        "tags": {
+          "@id": "node/1420772877",
+          "KSJ2:ADS": "東大井3-6-12",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:postcode": "140-0011",
+          "amenity": "fire_station",
+          "fax": "+81-3-37680119",
+          "name": "大井消防署",
+          "name:en": "Oi Fire Station",
+          "name:ja": "大井消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-37650119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7281151,
+          35.5982703
+        ]
+      },
+      "properties": {
+        "id": "node/1420772887",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "大井消防署滝王子出張所",
+        "tags": {
+          "@id": "node/1420772887",
+          "amenity": "fire_station",
+          "name": "大井消防署滝王子出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7298423,
+          35.5989655
+        ]
+      },
+      "properties": {
+        "id": "node/1420772888",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署",
+        "tags": {
+          "@id": "node/1420772888",
+          "addr:block_number": "10",
+          "addr:city": "品川区",
+          "addr:housenumber": "2",
+          "addr:neighbourhood": "大井五丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "大井警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11432230"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733432,
+          35.5903612
+        ]
+      },
+      "properties": {
+        "id": "node/1420772892",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署南大井交番",
+        "tags": {
+          "@id": "node/1420772892",
+          "KSJ2:ADS": "南大井3-17-1",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大井警察署南大井交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734639,
+          35.606158
+        ]
+      },
+      "properties": {
+        "id": "node/1420772900",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署 大井町駅前交番",
+        "tags": {
+          "@id": "node/1420772900",
+          "amenity": "police",
+          "name": "大井警察署 大井町駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7219472,
+          35.5961689
+        ]
+      },
+      "properties": {
+        "id": "node/1420772905",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署西大井地域安全センター",
+        "tags": {
+          "@id": "node/1420772905",
+          "amenity": "police",
+          "name": "大井警察署西大井地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html http://www.keishicho.metro.tokyo.jp/2/oi/koban/koban.htm"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7219318,
+          35.6020618
+        ]
+      },
+      "properties": {
+        "id": "node/1420772909",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署西大井駅前交番",
+        "tags": {
+          "@id": "node/1420772909",
+          "amenity": "police",
+          "name": "大井警察署西大井駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7296458,
+          35.5966472
+        ]
+      },
+      "properties": {
+        "id": "node/1420772918",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大井警察署鹿島神社前交番",
+        "tags": {
+          "@id": "node/1420772918",
+          "KSJ2:ADS": "大井7-4-16",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "大井警察署鹿島神社前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7294355,
+          35.6193896
+        ]
+      },
+      "properties": {
+        "id": "node/1420773447",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署大崎駅前交番",
+        "tags": {
+          "@id": "node/1420773447",
+          "amenity": "police",
+          "name": "大崎警察署大崎駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7160222,
+          35.6339446
+        ]
+      },
+      "properties": {
+        "id": "node/1420773451",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署目黒駅前交番",
+        "tags": {
+          "@id": "node/1420773451",
+          "amenity": "police",
+          "name": "大崎警察署目黒駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7139904,
+          35.6276288
+        ]
+      },
+      "properties": {
+        "id": "node/1420773459",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署西五反田交番",
+        "tags": {
+          "@id": "node/1420773459",
+          "amenity": "police",
+          "name": "大崎警察署西五反田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7161374,
+          35.639662
+        ]
+      },
+      "properties": {
+        "id": "node/1420773460",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "大崎警察署長者丸駐在所",
+        "tags": {
+          "@id": "node/1420773460",
+          "amenity": "police",
+          "name": "大崎警察署長者丸駐在所",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70969,
+          35.613882
+        ]
+      },
+      "properties": {
+        "id": "node/1420783136",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "東京国税局荏原税務署",
+        "tags": {
+          "@id": "node/1420783136",
+          "emergency": "defibrillator",
+          "government": "tax",
+          "name": "東京国税局荏原税務署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "office": "government",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7641838,
+          35.5950868
+        ]
+      },
+      "properties": {
+        "id": "node/1420784182",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "東京湾岸警察署大井ふ頭地域安全センター",
+        "tags": {
+          "@id": "node/1420784182",
+          "amenity": "police",
+          "name": "東京湾岸警察署大井ふ頭地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.744946,
+          35.598628
+        ]
+      },
+      "properties": {
+        "id": "node/1420795757",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "第二方面本部",
+        "tags": {
+          "@id": "node/1420795757",
+          "addr:block_number": "3",
+          "addr:city": "品川区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "勝島一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "第二方面本部",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7105509,
+          35.6145765
+        ]
+      },
+      "properties": {
+        "id": "node/1420796590",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "荏原消防署",
+        "tags": {
+          "@id": "node/1420796590",
+          "amenity": "fire_station",
+          "emergency": "defibrillator",
+          "fax": "+81-3-37878583",
+          "name": "荏原消防署",
+          "name:en": "Ebara Fire Station",
+          "name:ja": "荏原消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "東京消防庁第二消防方面本部",
+          "phone": "+81-3-37860119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702219,
+          35.616021
+        ]
+      },
+      "properties": {
+        "id": "node/1420796591",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "荏原消防署小山出張所",
+        "tags": {
+          "@id": "node/1420796591",
+          "amenity": "fire_station",
+          "name": "荏原消防署小山出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718801,
+          35.608272
+        ]
+      },
+      "properties": {
+        "id": "node/1420796592",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "荏原消防署戸越出張所",
+        "tags": {
+          "@id": "node/1420796592",
+          "KSJ2:ADS": "戸越5-20-15",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "荏原消防署戸越出張所",
+          "name:ja_rm": "Ebara Shōbōsho Togoshi Shucchōjo",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7000295,
+          35.6057694
+        ]
+      },
+      "properties": {
+        "id": "node/1420796593",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "荏原消防署旗の台出張所",
+        "tags": {
+          "@id": "node/1420796593",
+          "amenity": "fire_station",
+          "name": "荏原消防署旗の台出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7062293,
+          35.6120519
+        ]
+      },
+      "properties": {
+        "id": "node/1420796595",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署",
+        "tags": {
+          "@id": "node/1420796595",
+          "KSJ2:ADS": "荏原6-19-10",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "荏原警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11618311"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7090036,
+          35.6152025
+        ]
+      },
+      "properties": {
+        "id": "node/1420796598",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署平塚橋交番",
+        "tags": {
+          "@id": "node/1420796598",
+          "amenity": "police",
+          "name": "荏原警察署平塚橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7000221,
+          35.6053369
+        ]
+      },
+      "properties": {
+        "id": "node/1420796600",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署旗の台交番",
+        "tags": {
+          "@id": "node/1420796600",
+          "amenity": "police",
+          "name": "荏原警察署旗の台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7029386,
+          35.6196516
+        ]
+      },
+      "properties": {
+        "id": "node/1420796601",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署武蔵小山交番",
+        "tags": {
+          "@id": "node/1420796601",
+          "addr:block_number": "2",
+          "addr:city": "品川区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "4",
+          "addr:postcode": "142-0062",
+          "addr:province": "東京都",
+          "addr:suburb": "小山",
+          "amenity": "police",
+          "name": "荏原警察署武蔵小山交番",
+          "note": "交番付近は、国道26号線に面してよりパルム商店街と住宅街が住宅が混在しています。近くに武蔵小山駅があり、乗降客も多く、活気があります。また800メートルのアーケードがあり、グルメ番組等の撮影で芸能人が来ることもあります。",
+          "operator": "荏原警察署",
+          "phone": "03-3781-0110",
+          "source": "KSJ2",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.700573,
+          35.6122273
+        ]
+      },
+      "properties": {
+        "id": "node/1420796602",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署 江戸見坂交番",
+        "tags": {
+          "@id": "node/1420796602",
+          "amenity": "police",
+          "name": "荏原警察署 江戸見坂交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.696858,
+          35.608244
+        ]
+      },
+      "properties": {
+        "id": "node/1420796603",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署洗足駐在所",
+        "tags": {
+          "@id": "node/1420796603",
+          "KSJ2:ADS": "旗の台6-5-56",
+          "KSJ2:AdminArea": "東京都品川区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "荏原警察署洗足駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7127704,
+          35.6019323
+        ]
+      },
+      "properties": {
+        "id": "node/1420796604",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署源氏前交番",
+        "tags": {
+          "@id": "node/1420796604",
+          "amenity": "police",
+          "name": "荏原警察署源氏前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7180903,
+          35.6065606
+        ]
+      },
+      "properties": {
+        "id": "node/1420796607",
+        "ward": "shinagawa",
+        "category": "police",
+        "name": "荏原警察署豊町交番",
+        "tags": {
+          "@id": "node/1420796607",
+          "amenity": "police",
+          "name": "荏原警察署豊町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7088175,
+          35.6157981
+        ]
+      },
+      "properties": {
+        "id": "node/1881865358",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "みずほ銀行",
+        "tags": {
+          "@id": "node/1881865358",
+          "addr:block_number": "4",
+          "addr:city": "品川区",
+          "addr:housenumber": "7",
+          "addr:neighbourhood": "荏原四丁目",
+          "addr:postcode": "142-0063",
+          "addr:province": "東京都",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "荏原支店",
+          "brand": "みずほ銀行",
+          "brand:en": "Mizuho Bank",
+          "brand:ja": "みずほ銀行",
+          "brand:wikidata": "Q2882956",
+          "brand:wikipedia": "en:Mizuho Bank",
+          "emergency": "defibrillator",
+          "name": "みずほ銀行",
+          "name:en": "Mizuho Bank",
+          "name:ja": "みずほ銀行",
+          "name:ja_rm": "Mizuho Ginkou",
+          "opening_hours": "Mo-Fr 09:00-15:00",
+          "operator": "みずほ銀行",
+          "phone": "+81-3-37836111",
+          "ref": "216",
+          "source": "Bing 2010",
+          "website": "https://www.mizuhobank.co.jp/",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7390486,
+          35.6174527
+        ]
+      },
+      "properties": {
+        "id": "node/3233974842",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "Metropolitan Volunteer Fire Corps",
+        "tags": {
+          "@id": "node/3233974842",
+          "amenity": "fire_station",
+          "name": "Metropolitan Volunteer Fire Corps",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7141142,
+          35.6058114
+        ]
+      },
+      "properties": {
+        "id": "node/3347221950",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "三井住友銀行",
+        "tags": {
+          "@id": "node/3347221950",
+          "amenity": "bank",
+          "atm": "yes",
+          "branch": "荏原支店",
+          "brand": "三井住友銀行",
+          "brand:en": "Sumitomo Mitsui Banking Corporation",
+          "brand:ja": "三井住友銀行",
+          "brand:wikidata": "Q2660418",
+          "brand:wikipedia": "en:Sumitomo Mitsui Banking Corporation",
+          "drive_through": "no",
+          "emergency": "defibrillator",
+          "name": "三井住友銀行",
+          "name:en": "Sumitomo Mitsui Banking Corporation",
+          "name:ja": "三井住友銀行",
+          "opening_hours": "Mo-Fr 09:00-15:00",
+          "operator": "三井住友銀行",
+          "short_name:en": "SMBC",
+          "source": "survey,2015-02"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7119141,
+          35.6098236
+        ]
+      },
+      "properties": {
+        "id": "node/3706574377",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "東急ストア",
+        "tags": {
+          "@id": "node/3706574377",
+          "brand": "東急ストア",
+          "brand:en": "Tokyu Store",
+          "brand:ja": "東急ストア",
+          "brand:wikidata": "Q11526963",
+          "brand:wikipedia": "ja:東急ストア",
+          "emergency": "defibrillator",
+          "name": "東急ストア",
+          "name:en": "Tokyu Store",
+          "name:ja": "東急ストア",
+          "shop": "supermarket"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7117903,
+          35.6098639
+        ]
+      },
+      "properties": {
+        "id": "node/3706577348",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "荏原警察署荏原中延駅前交番",
+        "tags": {
+          "@id": "node/3706577348",
+          "amenity": "police",
+          "emergency": "defibrillator",
+          "name": "荏原警察署荏原中延駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7417224,
+          35.6205255
+        ]
+      },
+      "properties": {
+        "id": "node/5472120695",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防団第一分団",
+        "tags": {
+          "@id": "node/5472120695",
+          "amenity": "fire_station",
+          "name": "品川消防団第一分団",
+          "operator": "品川消防団",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7099655,
+          35.6143352
+        ]
+      },
+      "properties": {
+        "id": "node/5824558638",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "平塚橋特別養護老人ホーム",
+        "tags": {
+          "@id": "node/5824558638",
+          "amenity": "social_facility",
+          "emergency": "defibrillator",
+          "name": "平塚橋特別養護老人ホーム"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7123696,
+          35.6076504
+        ]
+      },
+      "properties": {
+        "id": "node/5840957300",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "中延会館",
+        "tags": {
+          "@id": "node/5840957300",
+          "building": "yes",
+          "emergency": "defibrillator",
+          "name": "中延会館"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7118544,
+          35.6099484
+        ]
+      },
+      "properties": {
+        "id": "node/6291479410",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "荏原中延",
+        "tags": {
+          "@id": "node/6291479410",
+          "emergency": "defibrillator",
+          "name": "荏原中延",
+          "name:en": "Ebara-nakanobu",
+          "name:ja": "荏原中延",
+          "name:ja-Hira": "えばらなかのぶ",
+          "name:ja_rm": "Ebara-nakanobu",
+          "name:ko": "에바라나카노부",
+          "operator": "東京急行電鉄"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7304317,
+          35.5884158
+        ]
+      },
+      "properties": {
+        "id": "node/9366572660",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9366572660",
+          "access": "yes",
+          "defibrillator:location": "Left of the up escalator",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "5",
+          "operator": "Secom"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7294335,
+          35.6193783
+        ]
+      },
+      "properties": {
+        "id": "node/10711404352",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/10711404352",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.734592,
+          35.6140992
+        ]
+      },
+      "properties": {
+        "id": "node/10711466751",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/10711466751",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7176601,
+          35.6226851
+        ]
+      },
+      "properties": {
+        "id": "node/11888866114",
+        "ward": "shinagawa",
+        "category": "fire_station",
+        "name": "品川消防団第五分団本部",
+        "tags": {
+          "@id": "node/11888866114",
+          "amenity": "fire_station",
+          "check_date": "2024-05-08",
+          "name": "品川消防団第五分団本部"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7199322,
+          35.62208
+        ]
+      },
+      "properties": {
+        "id": "node/13159240405",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13159240405",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7211913,
+          35.6248403
+        ]
+      },
+      "properties": {
+        "id": "node/13159250903",
+        "ward": "shinagawa",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13159250903",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

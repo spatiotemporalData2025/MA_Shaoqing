@@ -1,0 +1,2560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7711719,
+          35.7028064
+        ]
+      },
+      "properties": {
+        "id": "way/88984274",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "万世橋警察署 末広町地域安全センター",
+        "tags": {
+          "@id": "way/88984274",
+          "addr:block_number": "16",
+          "addr:neighbourhood": "3丁目",
+          "addr:quarter": "外神田",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2024-04-03",
+          "name": "万世橋警察署 末広町地域安全センター",
+          "source": "Bing, 2007-04",
+          "wheelchair": "no",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7459568,
+          35.6788868
+        ]
+      },
+      "properties": {
+        "id": "way/140096054",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "麹町消防署永田町出張所",
+        "tags": {
+          "@id": "way/140096054",
+          "amenity": "fire_station",
+          "building": "government",
+          "name": "麹町消防署永田町出張所",
+          "name:en": "Kojimachi Fire Station Nagatacho Branch",
+          "name:ja": "麹町消防署永田町出張所",
+          "name:ko": "고지마치소방서 나가타초출장소",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "Bing,2007-04;KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7591142,
+          35.6749164
+        ]
+      },
+      "properties": {
+        "id": "way/145409081",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署日比谷公園前交番",
+        "tags": {
+          "@id": "way/145409081",
+          "amenity": "police",
+          "building": "yes",
+          "name": "丸の内警察署日比谷公園前交番",
+          "source": "GSImaps/std; Bing",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751661,
+          35.7024166
+        ]
+      },
+      "properties": {
+        "id": "way/152621673",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田警察署水道橋駅前交番",
+        "tags": {
+          "@id": "way/152621673",
+          "amenity": "police",
+          "building": "yes",
+          "name": "神田警察署水道橋駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "Bing, 2007-04;KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7361274,
+          35.691324
+        ]
+      },
+      "properties": {
+        "id": "way/176046363",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "市ヶ谷 見竹 交番",
+        "tags": {
+          "@id": "way/176046363",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "市ヶ谷 見竹 交番",
+          "name:en": "Kazutake Ichigaya Police Station",
+          "name:es": "Estación de policía Kazutake Ichigaya",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7745751,
+          35.6954131
+        ]
+      },
+      "properties": {
+        "id": "way/191237047",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "万世橋警察署岩本町交番",
+        "tags": {
+          "@id": "way/191237047",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "万世橋警察署岩本町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7632253,
+          35.6999297
+        ]
+      },
+      "properties": {
+        "id": "way/236952892",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田警察署お茶の水交番",
+        "tags": {
+          "@id": "way/236952892",
+          "amenity": "police",
+          "building": "public",
+          "building:levels": "2",
+          "name": "神田警察署お茶の水交番",
+          "name:en": "Ochanomizu Police Box",
+          "name:ja": "神田警察署お茶の水交番",
+          "name:ko": "간다경찰서 오차노미즈 파출소",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7560095,
+          35.6710568
+        ]
+      },
+      "properties": {
+        "id": "way/412935684",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署内幸町交番",
+        "tags": {
+          "@id": "way/412935684",
+          "amenity": "police",
+          "building": "yes",
+          "name": "丸の内警察署内幸町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2; GSImaps/std; Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7536333,
+          35.6778846
+        ]
+      },
+      "properties": {
+        "id": "way/412940966",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署桜田門警備派出所",
+        "tags": {
+          "@id": "way/412940966",
+          "amenity": "police",
+          "building": "yes",
+          "name": "丸の内警察署桜田門警備派出所",
+          "source": "GSImaps/std; Bing; survey",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7718235,
+          35.697296
+        ]
+      },
+      "properties": {
+        "id": "node/467041442",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "万世橋警察署",
+        "tags": {
+          "@id": "node/467041442",
+          "addr:block_number": "16",
+          "addr:city": "千代田区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "外神田一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "万世橋警察署",
+          "name:en": "Manseibashi Police Station",
+          "name:ko": "만세이바시 경찰서",
+          "website": "https://www.keishicho.metro.tokyo.jp/1/manseibashi/index.htm",
+          "wheelchair": "yes",
+          "wikidata": "Q11353749"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762287,
+          35.6739564
+        ]
+      },
+      "properties": {
+        "id": "node/469188577",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/469188577",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7676255,
+          35.6929952
+        ]
+      },
+      "properties": {
+        "id": "way/547011711",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田警察署司町交番",
+        "tags": {
+          "@id": "way/547011711",
+          "amenity": "police",
+          "building": "police",
+          "building:levels": "3",
+          "name": "神田警察署司町交番",
+          "name:en": "Tsukasamachi Police Box",
+          "name:ja": "神田警察署司町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762432,
+          35.6835772
+        ]
+      },
+      "properties": {
+        "id": "way/576323822",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署和田倉門外交番",
+        "tags": {
+          "@id": "way/576323822",
+          "amenity": "police",
+          "building": "yes",
+          "name": "丸の内警察署和田倉門外交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7782303,
+          35.6966298
+        ]
+      },
+      "properties": {
+        "id": "way/684504216",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "神田消防団 第三分団本部",
+        "tags": {
+          "@id": "way/684504216",
+          "addr:block_number": "11",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "3",
+          "amenity": "fire_station",
+          "building": "fire_station",
+          "name": "神田消防団 第三分団本部",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7639001,
+          35.6751048
+        ]
+      },
+      "properties": {
+        "id": "way/1322004367",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署　有楽町駅前交番",
+        "tags": {
+          "@id": "way/1322004367",
+          "amenity": "police",
+          "building": "public",
+          "building:levels": "2",
+          "name": "丸の内警察署　有楽町駅前交番",
+          "name:en": "Yurakucho Station Koban",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7802289,
+          35.6970293
+        ]
+      },
+      "properties": {
+        "id": "node/1420765459",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "万世橋警察署美倉橋交番",
+        "tags": {
+          "@id": "node/1420765459",
+          "amenity": "police",
+          "name": "万世橋警察署美倉橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.770488,
+          35.692847
+        ]
+      },
+      "properties": {
+        "id": "node/1420765460",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "万世橋警察署鍛冶町交番",
+        "tags": {
+          "@id": "node/1420765460",
+          "addr:block_number": "21",
+          "addr:city": "千代田区",
+          "addr:housenumber": "6",
+          "addr:neighbourhood": "内神田三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "万世橋警察署鍛冶町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7617064,
+          35.6885297
+        ]
+      },
+      "properties": {
+        "id": "node/1420766505",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "丸の内消防署",
+        "tags": {
+          "@id": "node/1420766505",
+          "addr:postcode": "100-0004",
+          "amenity": "fire_station",
+          "fax": "+81-3-32132589",
+          "name": "丸の内消防署",
+          "name:en": "Marunouchi Fire Station",
+          "name:ja": "丸の内消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第一消防方面本部",
+          "phone": "+81-3-32150119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/",
+          "wikidata": "Q11367949",
+          "wikipedia": "ja:丸の内消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.760388,
+          35.675397
+        ]
+      },
+      "properties": {
+        "id": "node/1420766506",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "丸の内消防署有楽町出張所",
+        "tags": {
+          "@id": "node/1420766506",
+          "amenity": "fire_station",
+          "name": "丸の内消防署有楽町出張所",
+          "name:en": "Yurakucho Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7601807,
+          35.6753665
+        ]
+      },
+      "properties": {
+        "id": "node/1420766507",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署",
+        "tags": {
+          "@id": "node/1420766507",
+          "amenity": "police",
+          "name": "丸の内警察署",
+          "name:en": "Marunouchi Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "wikidata": "Q11367952"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7682578,
+          35.680187
+        ]
+      },
+      "properties": {
+        "id": "node/1420766508",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署八重洲口交番",
+        "tags": {
+          "@id": "node/1420766508",
+          "amenity": "police",
+          "name": "丸の内警察署八重洲口交番",
+          "name:en": "Marunouchi Police Station Yaesu Entrace",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.759267,
+          35.675154
+        ]
+      },
+      "properties": {
+        "id": "node/1420766511",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署日比谷公園前交番",
+        "tags": {
+          "@id": "node/1420766511",
+          "addr:block_number": "1",
+          "addr:city": "千代田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "日比谷公園",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "丸の内警察署日比谷公園前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762572,
+          35.673905
+        ]
+      },
+      "properties": {
+        "id": "node/1420766512",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署有楽町駅前交番",
+        "tags": {
+          "@id": "node/1420766512",
+          "addr:block_number": "5",
+          "addr:city": "千代田区",
+          "addr:housenumber": "2",
+          "addr:neighbourhood": "有楽町二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "丸の内警察署有楽町駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7597404,
+          35.6832292
+        ]
+      },
+      "properties": {
+        "id": "node/1420766514",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署桔梗門警備派出所",
+        "tags": {
+          "@id": "node/1420766514",
+          "addr:block_number": "3",
+          "addr:city": "千代田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "皇居外苑",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "丸の内警察署桔梗門警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7594994,
+          35.6792946
+        ]
+      },
+      "properties": {
+        "id": "node/1420766516",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "丸の内警察署皇居前警備派出所",
+        "tags": {
+          "@id": "node/1420766516",
+          "addr:block_number": "2",
+          "addr:city": "千代田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "皇居外苑",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "丸の内警察署皇居前警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7720848,
+          35.691378
+        ]
+      },
+      "properties": {
+        "id": "node/1420792402",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "神田消防署鍛治町出張所",
+        "tags": {
+          "@id": "node/1420792402",
+          "amenity": "fire_station",
+          "name": "神田消防署鍛治町出張所",
+          "name:en": "Kanda Fire Station Kajicho Branch",
+          "name:ja": "神田消防署鍛治町出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7620553,
+          35.6929971
+        ]
+      },
+      "properties": {
+        "id": "node/1420792406",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田警察署",
+        "tags": {
+          "@id": "node/1420792406",
+          "amenity": "police",
+          "name": "神田警察署",
+          "name:en": "Kanda Police Station",
+          "name:ja": "神田警察署",
+          "note": "仮移転",
+          "wikidata": "Q11590665"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7581026,
+          35.6948345
+        ]
+      },
+      "properties": {
+        "id": "node/1420792410",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田警察署神保町交番",
+        "tags": {
+          "@id": "node/1420792410",
+          "amenity": "police",
+          "name": "神田警察署神保町交番",
+          "name:en": "Jimbocho police box",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7520117,
+          35.6764547
+        ]
+      },
+      "properties": {
+        "id": "node/1420795713",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "第一方面本部",
+        "tags": {
+          "@id": "node/1420795713",
+          "amenity": "police",
+          "name": "第一方面本部",
+          "name:en": "1st District Headquarters",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7520625,
+          35.6767881
+        ]
+      },
+      "properties": {
+        "id": "node/1420798052",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "警視庁",
+        "tags": {
+          "@id": "node/1420798052",
+          "addr:block_number": "1",
+          "addr:city": "千代田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "霞が関二丁目",
+          "addr:postcode": "100-8929",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "警視庁",
+          "name:en": "Metropolitan Police Department",
+          "name:es": "Departamento de policía metropolitano",
+          "name:ja": "警視庁",
+          "name:ja-Hira": "けいしちょう",
+          "name:ja_rm": "Keishichō",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81 3 3581 4321",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/",
+          "wikidata": "Q1312559",
+          "wikipedia": "ja:警視庁"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7432421,
+          35.6851006
+        ]
+      },
+      "properties": {
+        "id": "node/1420800547",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "麹町消防署",
+        "tags": {
+          "@id": "node/1420800547",
+          "addr:block_number": "12",
+          "addr:city": "千代田区",
+          "addr:neighbourhood": "1丁目",
+          "addr:postcode": "102-0083",
+          "addr:province": "東京都",
+          "addr:quarter": "麹町",
+          "amenity": "fire_station",
+          "fax": "+81-3-32641991",
+          "name": "麹町消防署",
+          "name:en": "Kojimachi Fire Station",
+          "name:es": "Estación de bomberos Kojimachi",
+          "name:ja": "麹町消防署",
+          "operator": "東京消防庁第一消防方面本部",
+          "phone": "+81 3 32640119",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7429927,
+          35.6843163
+        ]
+      },
+      "properties": {
+        "id": "node/1420800551",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署",
+        "tags": {
+          "@id": "node/1420800551",
+          "addr:block_number": "4",
+          "addr:city": "千代田区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "麹町一丁目",
+          "addr:postcode": "102-0083",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "麹町警察署",
+          "name:en": "Kojimachi Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "麹町警察署ホームページ",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11677418"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7512424,
+          35.69501
+        ]
+      },
+      "properties": {
+        "id": "node/1420800552",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署 九段下交番",
+        "tags": {
+          "@id": "node/1420800552",
+          "amenity": "police",
+          "name": "麹町警察署 九段下交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7526389,
+          35.6889256
+        ]
+      },
+      "properties": {
+        "id": "node/1420800553",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署乾門警備派出所",
+        "tags": {
+          "@id": "node/1420800553",
+          "addr:block_number": "1",
+          "addr:city": "千代田区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "北の丸公園",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "麹町警察署乾門警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742518,
+          35.688514
+        ]
+      },
+      "properties": {
+        "id": "node/1420800554",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署五味坂交番",
+        "tags": {
+          "@id": "node/1420800554",
+          "amenity": "police",
+          "check_date": "2023-01-31",
+          "name": "麹町警察署五味坂交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745473,
+          35.688342
+        ]
+      },
+      "properties": {
+        "id": "node/1420800555",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署千鳥ヶ淵警備派出所",
+        "tags": {
+          "@id": "node/1420800555",
+          "amenity": "police",
+          "name": "麹町警察署千鳥ヶ淵警備派出所",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7445237,
+          35.6840484
+        ]
+      },
+      "properties": {
+        "id": "node/1420800556",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署半蔵門警備派出所",
+        "tags": {
+          "@id": "node/1420800556",
+          "amenity": "police",
+          "name": "麹町警察署半蔵門警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391584,
+          35.6779589
+        ]
+      },
+      "properties": {
+        "id": "node/1420800557",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署参議院議長公邸警備派出所",
+        "tags": {
+          "@id": "node/1420800557",
+          "amenity": "police",
+          "name": "麹町警察署参議院議長公邸警備派出所",
+          "name:en": "Police",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7364224,
+          35.6914785
+        ]
+      },
+      "properties": {
+        "id": "node/1420800558",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署市ヶ谷見付交番",
+        "tags": {
+          "@id": "node/1420800558",
+          "amenity": "police",
+          "fixme": "y",
+          "name": "麹町警察署市ヶ谷見付交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741239,
+          35.674881
+        ]
+      },
+      "properties": {
+        "id": "node/1420800559",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署永田町交番",
+        "tags": {
+          "@id": "node/1420800559",
+          "amenity": "police",
+          "name": "麹町警察署永田町交番",
+          "name:en": "Koban Police",
+          "name:es": "Policía de Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7563731,
+          35.6911933
+        ]
+      },
+      "properties": {
+        "id": "node/1420800560",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署竹橋交番",
+        "tags": {
+          "@id": "node/1420800560",
+          "amenity": "police",
+          "name": "麹町警察署竹橋交番",
+          "name:en": "Takebashi Police Box",
+          "name:ja": "麹町警察署竹橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7379514,
+          35.6777879
+        ]
+      },
+      "properties": {
+        "id": "node/1420800561",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署衆議院議長公邸警備派出所",
+        "tags": {
+          "@id": "node/1420800561",
+          "amenity": "police",
+          "name": "麹町警察署衆議院議長公邸警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7440158,
+          35.6999558
+        ]
+      },
+      "properties": {
+        "id": "node/1420800562",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署飯田橋駅前交番",
+        "tags": {
+          "@id": "node/1420800562",
+          "addr:block_number": "9",
+          "addr:city": "千代田区",
+          "addr:housenumber": "4",
+          "addr:neighbourhood": "富士見二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "麹町警察署飯田橋駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7380421,
+          35.6835474
+        ]
+      },
+      "properties": {
+        "id": "node/1420800563",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "麹町警察署 麹町四丁目交番",
+        "tags": {
+          "@id": "node/1420800563",
+          "amenity": "police",
+          "name": "麹町警察署 麹町四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7375703,
+          35.6864688
+        ]
+      },
+      "properties": {
+        "id": "way/1423590737",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/1423590737",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7555911,
+          35.6798737
+        ]
+      },
+      "properties": {
+        "id": "node/1588220821",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/1588220821",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7651253,
+          35.6975125
+        ]
+      },
+      "properties": {
+        "id": "node/1720138420",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/1720138420",
+          "amenity": "police",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772967,
+          35.701335
+        ]
+      },
+      "properties": {
+        "id": "node/1936275248",
+        "ward": "chiyoda",
+        "category": "fire_station",
+        "name": "神田消防署",
+        "tags": {
+          "@id": "node/1936275248",
+          "addr:block_number": "14",
+          "addr:city": "千代田区",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "外神田四丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "fax": "+81-3-3253-7397",
+          "name": "神田消防署",
+          "name:en": "Kanda Fire Station",
+          "name:ja": "神田消防署",
+          "name:ko": "간다소방서",
+          "operator": "東京消防庁第一消防方面本部",
+          "phone": "+81-3-3257-0119",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-kanda/",
+          "wikidata": "Q11590634",
+          "wikimedia_commons": "Category:Kanda Fire Station",
+          "wikipedia": "ja:神田消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769458,
+          35.681354
+        ]
+      },
+      "properties": {
+        "id": "node/2130348073",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "Koban",
+        "tags": {
+          "@id": "node/2130348073",
+          "amenity": "police",
+          "name": "Koban",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7724559,
+          35.699788
+        ]
+      },
+      "properties": {
+        "id": "node/2262657672",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/2262657672",
+          "amenity": "police",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7713836,
+          35.6919359
+        ]
+      },
+      "properties": {
+        "id": "node/4465721923",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "神田駅交番",
+        "tags": {
+          "@id": "node/4465721923",
+          "amenity": "police",
+          "check_date": "2025-08-01",
+          "name": "神田駅交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745114,
+          35.7020997
+        ]
+      },
+      "properties": {
+        "id": "node/4961357821",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "大江戸線AED",
+        "tags": {
+          "@id": "node/4961357821",
+          "bicycle": "no",
+          "contact:phone": "+81 3-5689-4264",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "大江戸線AED",
+          "opening_hours": "Mo-Su 05:07-00:45"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647033,
+          35.6995735
+        ]
+      },
+      "properties": {
+        "id": "node/4970236109",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "御茶ノ水駅構内AED",
+        "tags": {
+          "@id": "node/4970236109",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "name": "御茶ノ水駅構内AED"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7711657,
+          35.7028141
+        ]
+      },
+      "properties": {
+        "id": "node/5019141741",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5019141741",
+          "access": "customers",
+          "check_date": "2023-12-08",
+          "defibrillator:location": "交番建物内",
+          "defibrillator:location:en": "In the police station",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714587,
+          35.7026872
+        ]
+      },
+      "properties": {
+        "id": "node/5019141742",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5019141742",
+          "defibrillator:location": "三菱UFJ銀行1F",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7724431,
+          35.6997876
+        ]
+      },
+      "properties": {
+        "id": "node/5061501405",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5061501405",
+          "defibrillator:location": "交番入って左",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7517063,
+          35.7024123
+        ]
+      },
+      "properties": {
+        "id": "node/5146218844",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5146218844",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7508436,
+          35.6975348
+        ]
+      },
+      "properties": {
+        "id": "node/5183929301",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5183929301",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "level": "0",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7700982,
+          35.7013675
+        ]
+      },
+      "properties": {
+        "id": "node/5204330222",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5204330222",
+          "defibrillator:location": "まちかど図書室に入って左の壁",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7444176,
+          35.6924881
+        ]
+      },
+      "properties": {
+        "id": "node/5257429924",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5257429924",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7615084,
+          35.6885147
+        ]
+      },
+      "properties": {
+        "id": "node/5500173164",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5500173164",
+          "access": "permissive",
+          "defibrillator:location": "丸の内消防署内部",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7692225,
+          35.7027557
+        ]
+      },
+      "properties": {
+        "id": "node/5634094664",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5634094664",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7724973,
+          35.7006278
+        ]
+      },
+      "properties": {
+        "id": "node/5671194714",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5671194714",
+          "defibrillator:location": "2Fエスカレーター前",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7638723,
+          35.6810038
+        ]
+      },
+      "properties": {
+        "id": "node/5694761898",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5694761898",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7650697,
+          35.6990764
+        ]
+      },
+      "properties": {
+        "id": "node/5694762353",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5694762353",
+          "amenity": "vending_machine",
+          "check_date": "2022-11-18",
+          "defibrillator:location": "新御茶ノ水から入ってすぐの場所のAED搭載自販機",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "source": "survey",
+          "vending": "drinks"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7651348,
+          35.6757398
+        ]
+      },
+      "properties": {
+        "id": "node/5694797682",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5694797682",
+          "defibrillator:location": "MUJI2階のエレベーター脇",
+          "emergency": "defibrillator",
+          "level": "1",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7692515,
+          35.7024899
+        ]
+      },
+      "properties": {
+        "id": "node/5701427682",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5701427682",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7546862,
+          35.6719823
+        ]
+      },
+      "properties": {
+        "id": "node/5824815021",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5824815021",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7591113,
+          35.6749188
+        ]
+      },
+      "properties": {
+        "id": "node/5825114264",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5825114264",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7712436,
+          35.7028255
+        ]
+      },
+      "properties": {
+        "id": "node/6059035469",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6059035469",
+          "defibrillator:location": "オフィスエントランスの壁",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7637179,
+          35.699849
+        ]
+      },
+      "properties": {
+        "id": "node/6160452578",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6160452578",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7508655,
+          35.6737358
+        ]
+      },
+      "properties": {
+        "id": "node/6196826380",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6196826380",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753726,
+          35.6893647
+        ]
+      },
+      "properties": {
+        "id": "node/6199854567",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6199854567",
+          "access": "yes",
+          "defibrillator:location": "in lobby",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7682219,
+          35.7030373
+        ]
+      },
+      "properties": {
+        "id": "node/6315166468",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6315166468",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7582695,
+          35.6917328
+        ]
+      },
+      "properties": {
+        "id": "node/6487245412",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6487245412",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "opening_hours": "07:00-23:30",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7564886,
+          35.6912839
+        ]
+      },
+      "properties": {
+        "id": "node/6832644975",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6832644975",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7718502,
+          35.698319
+        ]
+      },
+      "properties": {
+        "id": "node/7202136544",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7202136544",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7597726,
+          35.6832256
+        ]
+      },
+      "properties": {
+        "id": "node/7230407720",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7230407720",
+          "access": "private",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7676082,
+          35.692988
+        ]
+      },
+      "properties": {
+        "id": "node/8807006775",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/8807006775",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7632265,
+          35.6999267
+        ]
+      },
+      "properties": {
+        "id": "node/8928801311",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/8928801311",
+          "emergency": "defibrillator",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7453387,
+          35.6944627
+        ]
+      },
+      "properties": {
+        "id": "node/10312782896",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "外苑警備派出所",
+        "tags": {
+          "@id": "node/10312782896",
+          "amenity": "police",
+          "name": "外苑警備派出所",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7725747,
+          35.7008121
+        ]
+      },
+      "properties": {
+        "id": "node/11276600265",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11276600265",
+          "emergency": "defibrillator",
+          "level": "1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714101,
+          35.6921247
+        ]
+      },
+      "properties": {
+        "id": "node/11303547851",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11303547851",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "operator": "Police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7714128,
+          35.6921309
+        ]
+      },
+      "properties": {
+        "id": "node/11303547852",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/11303547852",
+          "addr:block_number": "13",
+          "addr:housenumber": "22",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7740089,
+          35.6982233
+        ]
+      },
+      "properties": {
+        "id": "node/11690440252",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11690440252",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7594413,
+          35.670773
+        ]
+      },
+      "properties": {
+        "id": "node/12160066247",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12160066247",
+          "defibrillator:location": "Underneath the viaduct near the stairs",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7716262,
+          35.7028705
+        ]
+      },
+      "properties": {
+        "id": "node/12161293693",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12161293693",
+          "defibrillator:location": "銀座線浅草方面ホーム",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7732832,
+          35.7003301
+        ]
+      },
+      "properties": {
+        "id": "node/12459847432",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12459847432",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7581546,
+          35.6955573
+        ]
+      },
+      "properties": {
+        "id": "node/13000949501",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13000949501",
+          "defibrillator:location": "神保町交差点(南側)方面改札の内側、のりこし精算機の横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "manufacturer": "日本光電",
+          "operator": "東京都交通局"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.768861,
+          35.6902611
+        ]
+      },
+      "properties": {
+        "id": "node/13049812613",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13049812613",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7654992,
+          35.6806298
+        ]
+      },
+      "properties": {
+        "id": "node/13051823776",
+        "ward": "chiyoda",
+        "category": "police",
+        "name": "警視庁丸の内警察署 東京駅前交番",
+        "tags": {
+          "@id": "node/13051823776",
+          "amenity": "police",
+          "defibrillator": "yes",
+          "name": "警視庁丸の内警察署 東京駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7635327,
+          35.6855001
+        ]
+      },
+      "properties": {
+        "id": "node/13236019922",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236019922",
+          "check_date": "2025-10-16",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7494498,
+          35.6924198
+        ]
+      },
+      "properties": {
+        "id": "node/13236020298",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236020298",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7630555,
+          35.6773833
+        ]
+      },
+      "properties": {
+        "id": "node/13236022351",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236022351",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7624482,
+          35.683593
+        ]
+      },
+      "properties": {
+        "id": "node/13236032436",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236032436",
+          "defibrillator:location": "交番内",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7636535,
+          35.6764559
+        ]
+      },
+      "properties": {
+        "id": "node/13236032664",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "AED",
+        "tags": {
+          "@id": "node/13236032664",
+          "emergency": "defibrillator",
+          "name": "AED"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7593295,
+          35.6774589
+        ]
+      },
+      "properties": {
+        "id": "node/13236037509",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236037509",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7624397,
+          35.6836055
+        ]
+      },
+      "properties": {
+        "id": "node/13236046898",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236046898",
+          "defibrillator:location": "交番内",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7592268,
+          35.6773427
+        ]
+      },
+      "properties": {
+        "id": "node/13236046899",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236046899",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516159,
+          35.6904878
+        ]
+      },
+      "properties": {
+        "id": "node/13236046900",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236046900",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7612289,
+          35.683079
+        ]
+      },
+      "properties": {
+        "id": "node/13236053037",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236053037",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7677525,
+          35.6846612
+        ]
+      },
+      "properties": {
+        "id": "node/13236054107",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236054107",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7662066,
+          35.6849425
+        ]
+      },
+      "properties": {
+        "id": "node/13236065318",
+        "ward": "chiyoda",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13236065318",
+          "defibrillator:location": "〒100-0004 東京都千代田区大手町２丁目１−１ 大成大手町ビル",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    }
+  ]
+}

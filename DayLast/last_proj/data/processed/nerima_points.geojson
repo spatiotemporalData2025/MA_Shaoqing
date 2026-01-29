@@ -1,0 +1,1414 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6311778,
+          35.7593882
+        ]
+      },
+      "properties": {
+        "id": "way/66462106",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署",
+        "tags": {
+          "@id": "way/66462106",
+          "addr:block_number": "9",
+          "addr:city": "練馬区",
+          "addr:housenumber": "8",
+          "addr:neighbourhood": "2",
+          "addr:postcode": "179-0072",
+          "addr:province": "東京都",
+          "addr:quarter": "光が丘",
+          "amenity": "police",
+          "name": "光が丘警察署",
+          "phone": "+81 3 5998 0110",
+          "start_date": "1990-04-01",
+          "website": "https://www.keishicho.metro.tokyo.jp/about_mpd/shokai/ichiran/kankatsu/hikarigaoka/",
+          "wikidata": "Q11388205",
+          "wikipedia": "ja:光が丘警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6574528,
+          35.7563809
+        ]
+      },
+      "properties": {
+        "id": "way/105856722",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "練馬消防署 平和台出張所",
+        "tags": {
+          "@id": "way/105856722",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "練馬消防署 平和台出張所",
+          "source": "Bing, 2007-03",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6558948,
+          35.7368921
+        ]
+      },
+      "properties": {
+        "id": "node/299240645",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署",
+        "tags": {
+          "@id": "node/299240645",
+          "amenity": "police",
+          "name": "練馬警察署",
+          "wheelchair": "yes",
+          "wikidata": "Q11608088"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6311778,
+          35.7590069
+        ]
+      },
+      "properties": {
+        "id": "way/637584684",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "光が丘消防署",
+        "tags": {
+          "@id": "way/637584684",
+          "addr:block_number": "9",
+          "addr:city": "練馬区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "2",
+          "addr:postcode": "179-0072",
+          "addr:province": "東京都",
+          "addr:quarter": "光が丘",
+          "amenity": "fire_station",
+          "fax": "+81 3 5998 2404",
+          "name": "光が丘消防署",
+          "name:en": "Hikarigaoka Fire Station",
+          "phone": "+81 3 5997 0119",
+          "start_date": "1989",
+          "website": "https://www.tfd.metro.tokyo.lg.jp/hp-hikarigaoka/",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6160538,
+          35.7624088
+        ]
+      },
+      "properties": {
+        "id": "way/642764855",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "光が丘消防団 第三分団本部",
+        "tags": {
+          "@id": "way/642764855",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "光が丘消防団 第三分団本部",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5990844,
+          35.7423304
+        ]
+      },
+      "properties": {
+        "id": "way/687883584",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署",
+        "tags": {
+          "@id": "way/687883584",
+          "addr:block_number": "17",
+          "addr:housenumber": "26",
+          "addr:neighbourhood": "6",
+          "addr:postcode": "1770041",
+          "addr:province": "東京都",
+          "addr:quarter": "石神井町",
+          "addr:suburb": "練馬区",
+          "amenity": "police",
+          "building": "yes",
+          "name": "石神井警察署",
+          "name:en": "Shakujii Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "opening_hours": "24/7",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11587123",
+          "wikipedia": "ja:石神井警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6536484,
+          35.7684371
+        ]
+      },
+      "properties": {
+        "id": "way/941440543",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "東京消防庁 光が丘消防署 北町出張所",
+        "tags": {
+          "@id": "way/941440543",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "東京消防庁 光が丘消防署 北町出張所",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5812184,
+          35.7230945
+        ]
+      },
+      "properties": {
+        "id": "node/1161704108",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署関町交番",
+        "tags": {
+          "@id": "node/1161704108",
+          "amenity": "police",
+          "name": "石神井警察署関町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6078273,
+          35.7546072
+        ]
+      },
+      "properties": {
+        "id": "node/1420767204",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 三原台交番",
+        "tags": {
+          "@id": "node/1420767204",
+          "amenity": "police",
+          "name": "光が丘警察署 三原台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6268331,
+          35.7539245
+        ]
+      },
+      "properties": {
+        "id": "node/1420767209",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署光が丘三丁目交番",
+        "tags": {
+          "@id": "node/1420767209",
+          "amenity": "police",
+          "name": "光が丘警察署光が丘三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6296531,
+          35.7698853
+        ]
+      },
+      "properties": {
+        "id": "node/1420767210",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘公園地域安全センター",
+        "tags": {
+          "@id": "node/1420767210",
+          "amenity": "police",
+          "name": "光が丘公園地域安全センター",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6636171,
+          35.7643683
+        ]
+      },
+      "properties": {
+        "id": "node/1420767220",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 北町交番",
+        "tags": {
+          "@id": "node/1420767220",
+          "amenity": "police",
+          "name": "光が丘警察署 北町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6199133,
+          35.7666137
+        ]
+      },
+      "properties": {
+        "id": "node/1420767224",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 土支田交番",
+        "tags": {
+          "@id": "node/1420767224",
+          "amenity": "police",
+          "check_date": "2023-09-24",
+          "name": "光が丘警察署 土支田交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.623748,
+          35.736783
+        ]
+      },
+      "properties": {
+        "id": "node/1420767226",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署富士見台交番",
+        "tags": {
+          "@id": "node/1420767226",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "18",
+          "addr:city": "練馬区",
+          "addr:housenumber": "24",
+          "addr:neighbourhood": "富士見台二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "光が丘警察署富士見台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6269916,
+          35.7755954
+        ]
+      },
+      "properties": {
+        "id": "node/1420767227",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 旭町駐在所",
+        "tags": {
+          "@id": "node/1420767227",
+          "amenity": "police",
+          "name": "光が丘警察署 旭町駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6414547,
+          35.7663116
+        ]
+      },
+      "properties": {
+        "id": "node/1420767228",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 田柄交番",
+        "tags": {
+          "@id": "node/1420767228",
+          "amenity": "police",
+          "name": "光が丘警察署 田柄交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6165891,
+          35.7408794
+        ]
+      },
+      "properties": {
+        "id": "node/1420767229",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署練馬高野台駅前交番",
+        "tags": {
+          "@id": "node/1420767229",
+          "amenity": "police",
+          "name": "光が丘警察署練馬高野台駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6205452,
+          35.7487702
+        ]
+      },
+      "properties": {
+        "id": "node/1420767230",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署谷原交番",
+        "tags": {
+          "@id": "node/1420767230",
+          "amenity": "police",
+          "name": "光が丘警察署谷原交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6308906,
+          35.7510153
+        ]
+      },
+      "properties": {
+        "id": "node/1420767231",
+        "ward": "nerima",
+        "category": "police",
+        "name": "光が丘警察署 高松駐在所",
+        "tags": {
+          "@id": "node/1420767231",
+          "amenity": "police",
+          "name": "光が丘警察署 高松駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599862,
+          35.7296238
+        ]
+      },
+      "properties": {
+        "id": "node/1420790896",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "石神井消防署",
+        "tags": {
+          "@id": "node/1420790896",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "16",
+          "addr:city": "練馬区",
+          "addr:housenumber": "8",
+          "addr:neighbourhood": "下石神井町五丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "石神井消防署",
+          "name:en": "Shakujii Fire Station",
+          "name:ja": "石神井消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-syakujii/index.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5859181,
+          35.7483338
+        ]
+      },
+      "properties": {
+        "id": "node/1420790901",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "石神井消防署大泉出張所",
+        "tags": {
+          "@id": "node/1420790901",
+          "amenity": "fire_station",
+          "name": "石神井消防署大泉出張所",
+          "name:en": "Shakujii Fire Station Oizumi Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.588945,
+          35.759141
+        ]
+      },
+      "properties": {
+        "id": "node/1420790907",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "石神井消防署大泉学園出張所",
+        "tags": {
+          "@id": "node/1420790907",
+          "amenity": "fire_station",
+          "name": "石神井消防署大泉学園出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6077645,
+          35.7454886
+        ]
+      },
+      "properties": {
+        "id": "node/1420790912",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "石神井消防署石神井公園出張所",
+        "tags": {
+          "@id": "node/1420790912",
+          "amenity": "fire_station",
+          "name": "石神井消防署石神井公園出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.578197,
+          35.72345
+        ]
+      },
+      "properties": {
+        "id": "node/1420790916",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "石神井消防署関町出張所",
+        "tags": {
+          "@id": "node/1420790916",
+          "amenity": "fire_station",
+          "name": "石神井消防署関町出張所",
+          "name:ja": "石神井消防署関町出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5913452,
+          35.7264574
+        ]
+      },
+      "properties": {
+        "id": "node/1420790943",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 上石神井駅前交番",
+        "tags": {
+          "@id": "node/1420790943",
+          "amenity": "police",
+          "name": "石神井警察署 上石神井駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5997741,
+          35.7629012
+        ]
+      },
+      "properties": {
+        "id": "node/1420790945",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 北大泉交番",
+        "tags": {
+          "@id": "node/1420790945",
+          "amenity": "police",
+          "name": "石神井警察署 北大泉交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5725476,
+          35.7441646
+        ]
+      },
+      "properties": {
+        "id": "node/1420790946",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 南大泉交番",
+        "tags": {
+          "@id": "node/1420790946",
+          "amenity": "police",
+          "name": "石神井警察署 南大泉交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.587336,
+          35.7679361
+        ]
+      },
+      "properties": {
+        "id": "node/1420790947",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 大泉学園交番",
+        "tags": {
+          "@id": "node/1420790947",
+          "amenity": "police",
+          "name": "石神井警察署 大泉学園交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5862998,
+          35.7490256
+        ]
+      },
+      "properties": {
+        "id": "node/1420790948",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 大泉学園駅前交番",
+        "tags": {
+          "@id": "node/1420790948",
+          "amenity": "police",
+          "name": "石神井警察署 大泉学園駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5827691,
+          35.7377999
+        ]
+      },
+      "properties": {
+        "id": "node/1420790949",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 富士街道交番",
+        "tags": {
+          "@id": "node/1420790949",
+          "amenity": "police",
+          "name": "石神井警察署 富士街道交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5767125,
+          35.7272969
+        ]
+      },
+      "properties": {
+        "id": "node/1420790951",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署武蔵関駅前交番",
+        "tags": {
+          "@id": "node/1420790951",
+          "amenity": "police",
+          "check_date": "2026-01-01",
+          "name": "石神井警察署武蔵関駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5678254,
+          35.7235276
+        ]
+      },
+      "properties": {
+        "id": "node/1420790952",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 武蔵関駐在所",
+        "tags": {
+          "@id": "node/1420790952",
+          "amenity": "police",
+          "name": "石神井警察署 武蔵関駐在所",
+          "name:ja": "石神井警察署武蔵関駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6056179,
+          35.7288887
+        ]
+      },
+      "properties": {
+        "id": "node/1420790953",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署石神井南駐在所",
+        "tags": {
+          "@id": "node/1420790953",
+          "amenity": "police",
+          "name": "石神井警察署石神井南駐在所",
+          "name:en": "Police Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607068,
+          35.7433868
+        ]
+      },
+      "properties": {
+        "id": "node/1420790954",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署石神井駅前交番",
+        "tags": {
+          "@id": "node/1420790954",
+          "amenity": "police",
+          "name": "石神井警察署石神井駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5761269,
+          35.7598786
+        ]
+      },
+      "properties": {
+        "id": "node/1420790955",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 西大泉交番",
+        "tags": {
+          "@id": "node/1420790955",
+          "amenity": "police",
+          "name": "石神井警察署 西大泉交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6558699,
+          35.7373362
+        ]
+      },
+      "properties": {
+        "id": "node/1420796168",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "練馬消防署",
+        "tags": {
+          "@id": "node/1420796168",
+          "addr:block_number": "1",
+          "addr:city": "練馬区",
+          "addr:housenumber": "8",
+          "addr:neighbourhood": "5",
+          "addr:province": "東京都",
+          "addr:quarter": "豊玉北",
+          "amenity": "fire_station",
+          "name": "練馬消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6330889,
+          35.7427677
+        ]
+      },
+      "properties": {
+        "id": "node/1420796174",
+        "ward": "nerima",
+        "category": "fire_station",
+        "name": "練馬消防署貫井出張所",
+        "tags": {
+          "@id": "node/1420796174",
+          "amenity": "fire_station",
+          "name": "練馬消防署貫井出張所",
+          "name:en": "Nerima Fire Station Nukui Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6381456,
+          35.7362155
+        ]
+      },
+      "properties": {
+        "id": "node/1420796185",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署中村橋交番",
+        "tags": {
+          "@id": "node/1420796185",
+          "amenity": "police",
+          "name": "練馬警察署中村橋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6301928,
+          35.7360425
+        ]
+      },
+      "properties": {
+        "id": "node/1420796186",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署富士見台駅前交番",
+        "tags": {
+          "@id": "node/1420796186",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "9",
+          "addr:city": "練馬区",
+          "addr:housenumber": "10",
+          "addr:neighbourhood": "貫井三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "練馬警察署富士見台駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6752248,
+          35.7416984
+        ]
+      },
+      "properties": {
+        "id": "node/1420796187",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 小竹町交番",
+        "tags": {
+          "@id": "node/1420796187",
+          "amenity": "police",
+          "name": "練馬警察署 小竹町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6587257,
+          35.7546102
+        ]
+      },
+      "properties": {
+        "id": "node/1420796188",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 早宮交番",
+        "tags": {
+          "@id": "node/1420796188",
+          "amenity": "police",
+          "name": "練馬警察署 早宮交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6398269,
+          35.7514052
+        ]
+      },
+      "properties": {
+        "id": "node/1420796189",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署春日町交番",
+        "tags": {
+          "@id": "node/1420796189",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "31",
+          "addr:city": "練馬区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "春日町五丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "練馬警察署春日町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6613503,
+          35.7387603
+        ]
+      },
+      "properties": {
+        "id": "node/1420796190",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署桜台交番",
+        "tags": {
+          "@id": "node/1420796190",
+          "amenity": "police",
+          "name": "練馬警察署桜台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.669022,
+          35.754143
+        ]
+      },
+      "properties": {
+        "id": "node/1420796191",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署氷川台駐在所",
+        "tags": {
+          "@id": "node/1420796191",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "12",
+          "addr:city": "練馬区",
+          "addr:housenumber": "9",
+          "addr:neighbourhood": "氷川台一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "練馬警察署氷川台駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6564385,
+          35.7292648
+        ]
+      },
+      "properties": {
+        "id": "node/1420796192",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 氷川神社前交番",
+        "tags": {
+          "@id": "node/1420796192",
+          "amenity": "police",
+          "name": "練馬警察署 氷川神社前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6727628,
+          35.7374424
+        ]
+      },
+      "properties": {
+        "id": "node/1420796193",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 江古田駅前交番",
+        "tags": {
+          "@id": "node/1420796193",
+          "amenity": "police",
+          "name": "練馬警察署 江古田駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6545739,
+          35.7376852
+        ]
+      },
+      "properties": {
+        "id": "node/1420796194",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 練馬駅前交番",
+        "tags": {
+          "@id": "node/1420796194",
+          "amenity": "police",
+          "name": "練馬警察署 練馬駅前交番",
+          "name:ja": "練馬警察署 練馬駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6694681,
+          35.741872
+        ]
+      },
+      "properties": {
+        "id": "node/1420796195",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署羽沢交番",
+        "tags": {
+          "@id": "node/1420796195",
+          "amenity": "police",
+          "name": "練馬警察署羽沢交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6492097,
+          35.7412657
+        ]
+      },
+      "properties": {
+        "id": "node/1420796196",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署豊島園前交番",
+        "tags": {
+          "@id": "node/1420796196",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "addr:block_number": "26",
+          "addr:city": "練馬区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "練馬四丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "練馬警察署豊島園前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6624622,
+          35.73506
+        ]
+      },
+      "properties": {
+        "id": "node/1420796197",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 豊玉交番",
+        "tags": {
+          "@id": "node/1420796197",
+          "amenity": "police",
+          "name": "練馬警察署 豊玉交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6339144,
+          35.74196
+        ]
+      },
+      "properties": {
+        "id": "node/1420796198",
+        "ward": "nerima",
+        "category": "police",
+        "name": "練馬警察署 貫井交番",
+        "tags": {
+          "@id": "node/1420796198",
+          "amenity": "police",
+          "name": "練馬警察署 貫井交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.588117,
+          35.7406692
+        ]
+      },
+      "properties": {
+        "id": "node/5445783588",
+        "ward": "nerima",
+        "category": "police",
+        "name": "警視庁石神井合同庁舎",
+        "tags": {
+          "@id": "node/5445783588",
+          "amenity": "police",
+          "name": "警視庁石神井合同庁舎"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5934076,
+          35.7508042
+        ]
+      },
+      "properties": {
+        "id": "node/5632653582",
+        "ward": "nerima",
+        "category": "police",
+        "name": "石神井警察署 東大泉駐在所",
+        "tags": {
+          "@id": "node/5632653582",
+          "amenity": "police",
+          "name": "石神井警察署 東大泉駐在所"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.763401,
+          35.7077353
+        ]
+      },
+      "properties": {
+        "id": "way/161968080",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署",
+        "tags": {
+          "@id": "way/161968080",
+          "amenity": "police",
+          "building": "yes",
+          "name": "本富士警察署",
+          "name:en": "Hon Fuji Police Station",
+          "name:es": "Estación de policía Hon Fuji",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11520153",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7629586,
+          35.7078547
+        ]
+      },
+      "properties": {
+        "id": "way/161968228",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "本郷消防署",
+        "tags": {
+          "@id": "way/161968228",
+          "addr:postcode": "113-0033",
+          "amenity": "fire_station",
+          "building": "yes",
+          "building:levels": "3",
+          "fax": "+81-3-38134617",
+          "name": "本郷消防署",
+          "name:en": "Hongo Fire Station",
+          "name:es": "Estación de bomberos Hongo",
+          "name:ja": "本郷消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第五消防方面本部",
+          "phone": "+81-3-38150119",
+          "roof:shape": "flat",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-hongou/",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7604116,
+          35.7076351
+        ]
+      },
+      "properties": {
+        "id": "way/170603376",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署本郷交番",
+        "tags": {
+          "@id": "way/170603376",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "本富士警察署本郷交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "roof:shape": "flat",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7637491,
+          35.719161
+        ]
+      },
+      "properties": {
+        "id": "way/196086275",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署根津交番",
+        "tags": {
+          "@id": "way/196086275",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2025-06-22",
+          "name": "本富士警察署根津交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7270097,
+          35.7202098
+        ]
+      },
+      "properties": {
+        "id": "way/268532863",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署護国寺前交番",
+        "tags": {
+          "@id": "way/268532863",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大塚警察署護国寺前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7605631,
+          35.7107433
+        ]
+      },
+      "properties": {
+        "id": "way/468349905",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "守衛詰所",
+        "tags": {
+          "@id": "way/468349905",
+          "amenity": "police",
+          "building": "university",
+          "building:levels": "1",
+          "name": "守衛詰所",
+          "name:en": "Gatehouse",
+          "operator": "東京大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7698007,
+          35.7072201
+        ]
+      },
+      "properties": {
+        "id": "way/501179306",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署天神町交番",
+        "tags": {
+          "@id": "way/501179306",
+          "addr:block_number": "26",
+          "addr:city": "文京区",
+          "addr:neighbourhood": "3丁目",
+          "addr:province": "東京都",
+          "addr:quarter": "湯島",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "本富士警察署天神町交番",
+          "name:en": "Koban Police",
+          "name:es": "Policía de Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "roof:shape": "gabled",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7366459,
+          35.7180706
+        ]
+      },
+      "properties": {
+        "id": "way/620180917",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署 茗荷谷駅前交番",
+        "tags": {
+          "@id": "way/620180917",
+          "addr:block_number": "5",
+          "addr:city": "文京区",
+          "addr:housenumber": "7",
+          "addr:neighbourhood": "小石川五丁目",
+          "addr:postcode": "112-0002",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "大塚警察署 茗荷谷駅前交番",
+          "name:en": "Myogadani Police Substation (Koban)",
+          "name:ja": "大塚警察署 茗荷谷駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "大塚警察署",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7280114,
+          35.7171072
+        ]
+      },
+      "properties": {
+        "id": "way/874543026",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/874543026",
+          "amenity": "police",
+          "building": "yes",
+          "layer": "1",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748416,
+          35.7310578
+        ]
+      },
+      "properties": {
+        "id": "way/1347122871",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "駒込警察署",
+        "tags": {
+          "@id": "way/1347122871",
+          "amenity": "police",
+          "name": "駒込警察署",
+          "name:en": "Komagome Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11668445",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7496388,
+          35.7322785
+        ]
+      },
+      "properties": {
+        "id": "way/1359319418",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "駒込警察署 上富士前交番",
+        "tags": {
+          "@id": "way/1359319418",
+          "amenity": "police",
+          "defibrillator": "separate",
+          "name": "駒込警察署 上富士前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728101,
+          35.717177
+        ]
+      },
+      "properties": {
+        "id": "node/1420773103",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署",
+        "tags": {
+          "@id": "node/1420773103",
+          "amenity": "police",
+          "name": "大塚警察署",
+          "name:en": "Otsuka Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11434101"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7284973,
+          35.7252359
+        ]
+      },
+      "properties": {
+        "id": "node/1420773107",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署大塚六丁目交番",
+        "tags": {
+          "@id": "node/1420773107",
+          "amenity": "police",
+          "name": "大塚警察署大塚六丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7404629,
+          35.7109335
+        ]
+      },
+      "properties": {
+        "id": "node/1420773111",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "小日向地域安全センター",
+        "tags": {
+          "@id": "node/1420773111",
+          "amenity": "police",
+          "name": "小日向地域安全センター",
+          "name:en": "Kohinata Regional Safety Center",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "大塚警察署",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7311612,
+          35.7103423
+        ]
+      },
+      "properties": {
+        "id": "node/1420773115",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署江戸川交番",
+        "tags": {
+          "@id": "node/1420773115",
+          "amenity": "police",
+          "name": "大塚警察署江戸川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7195723,
+          35.7161063
+        ]
+      },
+      "properties": {
+        "id": "node/1420773119",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "大塚警察署 目白台交番",
+        "tags": {
+          "@id": "node/1420773119",
+          "amenity": "police",
+          "name": "大塚警察署 目白台交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747044,
+          35.710539
+        ]
+      },
+      "properties": {
+        "id": "node/1420775102",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署",
+        "tags": {
+          "@id": "node/1420775102",
+          "addr:block_number": "14",
+          "addr:city": "文京区",
+          "addr:housenumber": "2",
+          "addr:neighbourhood": "小石川二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "富坂警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no",
+          "wikidata": "Q11455833"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7451042,
+          35.7274945
+        ]
+      },
+      "properties": {
+        "id": "node/1420775109",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署千石一丁目交番",
+        "tags": {
+          "@id": "node/1420775109",
+          "amenity": "police",
+          "name": "富坂警察署千石一丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7453146,
+          35.7031619
+        ]
+      },
+      "properties": {
+        "id": "node/1420775110",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署後楽交番",
+        "tags": {
+          "@id": "node/1420775110",
+          "amenity": "police",
+          "name": "富坂警察署後楽交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7533473,
+          35.7082168
+        ]
+      },
+      "properties": {
+        "id": "node/1420775120",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "富坂警察署春日交番;AED",
+        "tags": {
+          "@id": "node/1420775120",
+          "amenity": "police",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "name": "富坂警察署春日交番;AED",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7534943,
+          35.7056311
+        ]
+      },
+      "properties": {
+        "id": "node/1420775124",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署東京ドーム警備派出所",
+        "tags": {
+          "@id": "node/1420775124",
+          "amenity": "police",
+          "name": "富坂警察署東京ドーム警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7514219,
+          35.7194327
+        ]
+      },
+      "properties": {
+        "id": "node/1420775134",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署白山交番",
+        "tags": {
+          "@id": "node/1420775134",
+          "amenity": "police",
+          "name": "富坂警察署白山交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7406881,
+          35.7139619
+        ]
+      },
+      "properties": {
+        "id": "node/1420775138",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "富坂警察署 竹早交番",
+        "tags": {
+          "@id": "node/1420775138",
+          "amenity": "police",
+          "name": "富坂警察署 竹早交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7428135,
+          35.7190961
+        ]
+      },
+      "properties": {
+        "id": "node/1420776274",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "小石川消防署",
+        "tags": {
+          "@id": "node/1420776274",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "3",
+          "addr:city": "文京区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "白山三丁目",
+          "addr:postcode": "112-0001",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "小石川消防署",
+          "name:en": "Koisikawa Fire Station",
+          "name:ja": "小石川消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第五消防方面本部",
+          "phone": "+81-3-38120119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-koisikawa/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7318355,
+          35.7219047
+        ]
+      },
+      "properties": {
+        "id": "node/1420776278",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "小石川消防署大塚出張所",
+        "tags": {
+          "@id": "node/1420776278",
+          "amenity": "fire_station",
+          "name": "小石川消防署大塚出張所",
+          "name:en": "Koishikawa Fire Station Otsuka Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723352,
+          35.715177
+        ]
+      },
+      "properties": {
+        "id": "node/1420776284",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "小石川消防署老松出張所",
+        "tags": {
+          "@id": "node/1420776284",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "addr:block_number": "20",
+          "addr:city": "文京区",
+          "addr:housenumber": "14",
+          "addr:neighbourhood": "目白台一丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "小石川消防署老松出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.756468,
+          35.7046397
+        ]
+      },
+      "properties": {
+        "id": "node/1420781737",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署壱岐坂交番",
+        "tags": {
+          "@id": "node/1420781737",
+          "amenity": "police",
+          "name": "本富士警察署壱岐坂交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758988,
+          35.715539
+        ]
+      },
+      "properties": {
+        "id": "node/1420781739",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署弥生町交番",
+        "tags": {
+          "@id": "node/1420781739",
+          "addr:block_number": "1",
+          "addr:city": "文京区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "弥生一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "本富士警察署弥生町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765988,
+          35.701818
+        ]
+      },
+      "properties": {
+        "id": "node/1420781742",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "本富士警察署湯島交番",
+        "tags": {
+          "@id": "node/1420781742",
+          "addr:block_number": "9",
+          "addr:city": "文京区",
+          "addr:housenumber": "16",
+          "addr:neighbourhood": "湯島一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "本富士警察署湯島交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7598891,
+          35.7205371
+        ]
+      },
+      "properties": {
+        "id": "node/1420781894",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "本郷消防署根津出張所",
+        "tags": {
+          "@id": "node/1420781894",
+          "amenity": "fire_station",
+          "name": "本郷消防署根津出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753794,
+          35.725677
+        ]
+      },
+      "properties": {
+        "id": "node/1420781899",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "本郷消防署駒込出張所",
+        "tags": {
+          "@id": "node/1420781899",
+          "amenity": "fire_station",
+          "name": "本郷消防署駒込出張所",
+          "name:en": "Hongo Fire Station Komagome Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747832,
+          35.708215
+        ]
+      },
+      "properties": {
+        "id": "node/1420795770",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "第五方面本部",
+        "tags": {
+          "@id": "node/1420795770",
+          "addr:block_number": "5",
+          "addr:city": "文京区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "春日一丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "第五方面本部",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7575344,
+          35.7307084
+        ]
+      },
+      "properties": {
+        "id": "node/1420800130",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "駒込警察署 動坂交番",
+        "tags": {
+          "@id": "node/1420800130",
+          "amenity": "police",
+          "name": "駒込警察署 動坂交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7635955,
+          35.7271271
+        ]
+      },
+      "properties": {
+        "id": "node/1420800131",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "駒込警察署 団子坂交番",
+        "tags": {
+          "@id": "node/1420800131",
+          "amenity": "police",
+          "name": "駒込警察署 団子坂交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7536409,
+          35.7243358
+        ]
+      },
+      "properties": {
+        "id": "node/1420800132",
+        "ward": "bunkyo",
+        "category": "police",
+        "name": "駒込警察署 浅嘉交番",
+        "tags": {
+          "@id": "node/1420800132",
+          "amenity": "police",
+          "name": "駒込警察署 浅嘉交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7509861,
+          35.7100846
+        ]
+      },
+      "properties": {
+        "id": "node/3464879766",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/3464879766",
+          "access": "no",
+          "description": "源覚寺 小石川墓陵",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Su 10:00-20:00",
+          "phone": "6670-1176"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7481631,
+          35.7324417
+        ]
+      },
+      "properties": {
+        "id": "node/4691789768",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4691789768",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7481877,
+          35.7049165
+        ]
+      },
+      "properties": {
+        "id": "node/4794769556",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4794769556",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7532496,
+          35.708741
+        ]
+      },
+      "properties": {
+        "id": "node/4952076769",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952076769",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Su 09:00-24:00",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7528684,
+          35.7070608
+        ]
+      },
+      "properties": {
+        "id": "node/4952078291",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952078291",
+          "defibrillator:location": "2F",
+          "description": "２F 　インフォメーションセンター",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "level": "1",
+          "opening_hours": "Mo-Sa 11:00-21:00",
+          "phone": "03 3817 4163",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7530019,
+          35.7091986
+        ]
+      },
+      "properties": {
+        "id": "node/4952079781",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952079781",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7530548,
+          35.7071193
+        ]
+      },
+      "properties": {
+        "id": "node/4952080296",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952080296",
+          "description": "１F 　マツモトキヨシの中",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7527987,
+          35.70921
+        ]
+      },
+      "properties": {
+        "id": "node/4952081011",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952081011",
+          "access": "private",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531377,
+          35.7072149
+        ]
+      },
+      "properties": {
+        "id": "node/4952082887",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952082887",
+          "access": "private",
+          "description": "７F　プール監視室",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "level": "6"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7533332,
+          35.7081529
+        ]
+      },
+      "properties": {
+        "id": "node/4952082962",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952082962",
+          "description": "富坂警察署春日交番内",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531884,
+          35.7089179
+        ]
+      },
+      "properties": {
+        "id": "node/4952084093",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952084093",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Fr 08:45-19:00; Sa 09:00-17:00",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751547,
+          35.7071435
+        ]
+      },
+      "properties": {
+        "id": "node/4952085996",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952085996",
+          "description": "3F マツモトキヨシ",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531949,
+          35.7071212
+        ]
+      },
+      "properties": {
+        "id": "node/4952086492",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952086492",
+          "access": "private",
+          "description": "６F スパラクーア",
+          "emergency": "defibrillator",
+          "level": "5"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7534554,
+          35.7079744
+        ]
+      },
+      "properties": {
+        "id": "node/4952090311",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952090311",
+          "description": "１F　入口",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7514122,
+          35.7072838
+        ]
+      },
+      "properties": {
+        "id": "node/4952091882",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952091882",
+          "description": "丸ノ内線　後楽園駅　改札内",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7453302,
+          35.7111369
+        ]
+      },
+      "properties": {
+        "id": "node/4952092128",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952092128",
+          "access": "permissive",
+          "description": "キッセイ小石川ビル",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7475704,
+          35.711952
+        ]
+      },
+      "properties": {
+        "id": "node/4952092137",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952092137",
+          "access": "private",
+          "description": "淑徳SC中等部・高等部",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3811-0237",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7534785,
+          35.7079316
+        ]
+      },
+      "properties": {
+        "id": "node/4952093947",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952093947",
+          "access": "private",
+          "description": "７F　歯科口腔外科",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7521981,
+          35.7123411
+        ]
+      },
+      "properties": {
+        "id": "node/4952094988",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952094988",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Fr 08:00-18:00",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516538,
+          35.7074448
+        ]
+      },
+      "properties": {
+        "id": "node/4952099203",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952099203",
+          "description": "南北線　後楽園駅",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7520941,
+          35.7131155
+        ]
+      },
+      "properties": {
+        "id": "node/4952104217",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952104217",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Sa 07:00-24:00; Su 07:00-21:00",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749973,
+          35.7140256
+        ]
+      },
+      "properties": {
+        "id": "node/4952107838",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952107838",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3811-0016",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7504583,
+          35.7136822
+        ]
+      },
+      "properties": {
+        "id": "node/4952110522",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952110522",
+          "access": "private",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7508692,
+          35.7129273
+        ]
+      },
+      "properties": {
+        "id": "node/4952112356",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952112356",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7497874,
+          35.7127982
+        ]
+      },
+      "properties": {
+        "id": "node/4952112357",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952112357",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7473655,
+          35.7108583
+        ]
+      },
+      "properties": {
+        "id": "node/4952114747",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952114747",
+          "access": "yes",
+          "description": "礫川小学校",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3811-7276"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7526625,
+          35.7086574
+        ]
+      },
+      "properties": {
+        "id": "node/4952116416",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952116416",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey",
+          "source_1": "bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7469648,
+          35.7112943
+        ]
+      },
+      "properties": {
+        "id": "node/4952116884",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952116884",
+          "access": "yes",
+          "description": "日本指圧専門学校",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Fr 08:00-21:30",
+          "phone": "03-3813-7354"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7529011,
+          35.7052297
+        ]
+      },
+      "properties": {
+        "id": "node/4952119842",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "東京ドーム",
+        "tags": {
+          "@id": "node/4952119842",
+          "access": "private",
+          "description": "男女トイレ間",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "name": "東京ドーム",
+          "opening_hours": "Mo-Su 10:00-17:00",
+          "phone": "0338113600",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531791,
+          35.7033529
+        ]
+      },
+      "properties": {
+        "id": "node/4952119843",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "東京ドームホテルAED",
+        "tags": {
+          "@id": "node/4952119843",
+          "access": "yes",
+          "description": "フロント",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "name": "東京ドームホテルAED",
+          "opening_hours": "24/7",
+          "phone": "03 5805 2111",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7522351,
+          35.7041753
+        ]
+      },
+      "properties": {
+        "id": "node/4952119844",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "後楽園ホール",
+        "tags": {
+          "@id": "node/4952119844",
+          "access": "no",
+          "description": "受付",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "name": "後楽園ホール",
+          "opening_hours": "Mo-Su 10:00-19:00",
+          "phone": "03 5800 9999",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7521099,
+          35.7033694
+        ]
+      },
+      "properties": {
+        "id": "node/4952119845",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "東京ドーム黄色いビルAED",
+        "tags": {
+          "@id": "node/4952119845",
+          "access": "no",
+          "description": "4F　ローラースケート受付",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "indoor": "yes",
+          "name": "東京ドーム黄色いビルAED",
+          "opening_hours": "Mo-Fr 11:00-22:00,Sa 10:00-22:00,Su 10:00-21:00",
+          "phone": "03 3817 6196",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7533886,
+          35.7046769
+        ]
+      },
+      "properties": {
+        "id": "node/4952119846",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "プリズムホール事務所",
+        "tags": {
+          "@id": "node/4952119846",
+          "access": "private",
+          "description": "事務所内",
+          "emergency": "defibrillator",
+          "foot": "private",
+          "indoor": "yes",
+          "name": "プリズムホール事務所",
+          "phone": "03 3817 6222",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7466108,
+          35.7101454
+        ]
+      },
+      "properties": {
+        "id": "node/4952122179",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952122179",
+          "access": "private",
+          "description": "健康流水館",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7463654,
+          35.709953
+        ]
+      },
+      "properties": {
+        "id": "node/4952122180",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952122180",
+          "access": "private",
+          "description": "朝日信用金庫",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7461026,
+          35.7080974
+        ]
+      },
+      "properties": {
+        "id": "node/4952122182",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952122182",
+          "access": "private",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7475134,
+          35.707749
+        ]
+      },
+      "properties": {
+        "id": "node/4952122183",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4952122183",
+          "access": "private",
+          "description": "筑波大学",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7543245,
+          35.7039467
+        ]
+      },
+      "properties": {
+        "id": "node/4958325354",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "ジオポリス",
+        "tags": {
+          "@id": "node/4958325354",
+          "bicycle": "no",
+          "description": "1F入口（シアターGロッソの階）",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "private",
+          "name": "ジオポリス",
+          "opening_hours": "Mo-Su 10:00-21:00",
+          "phone": "03-3817-6001",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7547625,
+          35.7030699
+        ]
+      },
+      "properties": {
+        "id": "node/4958325355",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "ミーツポート事務所_AED",
+        "tags": {
+          "@id": "node/4958325355",
+          "access": "private",
+          "bicycle": "private",
+          "description": "ミーツポート事務所内",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "motor_vehicle": "private",
+          "name": "ミーツポート事務所_AED",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7546006,
+          35.7032604
+        ]
+      },
+      "properties": {
+        "id": "node/4958325356",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "TOKYO DOME CITY HALL_AED",
+        "tags": {
+          "@id": "node/4958325356",
+          "access": "permissive",
+          "description": "受付内",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "name": "TOKYO DOME CITY HALL_AED",
+          "opening_hours": "unknown",
+          "phone": "03-3817-6150",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7532622,
+          35.7047859
+        ]
+      },
+      "properties": {
+        "id": "node/4958325357",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "東京ドーム総合案内所",
+        "tags": {
+          "@id": "node/4958325357",
+          "bicycle": "no",
+          "description": "受付内向かって右",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "horse": "no",
+          "indoor": "yes",
+          "name": "東京ドーム総合案内所",
+          "opening_hours": "Mo-Su 10:00-21:00",
+          "phone": "03-3817-6086",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7517303,
+          35.7035847
+        ]
+      },
+      "properties": {
+        "id": "node/4958325358",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "ウィンズ後楽園",
+        "tags": {
+          "@id": "node/4958325358",
+          "bicycle": "no",
+          "description": "2階",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "ウィンズ後楽園",
+          "opening_hours": "unknown",
+          "phone": "03-3815-2725",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7553653,
+          35.702996
+        ]
+      },
+      "properties": {
+        "id": "node/4958325359",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "都営三田線水道橋駅_AED",
+        "tags": {
+          "@id": "node/4958325359",
+          "bicycle": "no",
+          "description": "「JR水道橋駅方面改札」改札外\n切符売り場向かって右",
+          "emergency": "defibrillator",
+          "foot": "yes",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "都営三田線水道橋駅_AED",
+          "opening_hours": "Mo-Su 07:00-23:00",
+          "phone": "03-3815-7068",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749479,
+          35.7104618
+        ]
+      },
+      "properties": {
+        "id": "node/4961219826",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4961219826",
+          "access": "private",
+          "description": "メゾンシェルマ",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3811-3221"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7470046,
+          35.7104986
+        ]
+      },
+      "properties": {
+        "id": "node/4961270070",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4961270070",
+          "access": "yes",
+          "description": "富阪警察署",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7",
+          "phone": "03-3814-0110"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7465697,
+          35.7057855
+        ]
+      },
+      "properties": {
+        "id": "node/4961356418",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "都立文京盲学校AED",
+        "tags": {
+          "@id": "node/4961356418",
+          "access": "private",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "都立文京盲学校AED",
+          "opening_hours": "Mo-Su 09:00-17:00",
+          "phone": "03-3811-5714"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7464938,
+          35.7048346
+        ]
+      },
+      "properties": {
+        "id": "node/4961356419",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "小石川運動所AED",
+        "tags": {
+          "@id": "node/4961356419",
+          "access": "destination",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "小石川運動所AED",
+          "opening_hours": "Mo-Su 06:30-21:00",
+          "phone": "03-3811-4507"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746323,
+          35.7037249
+        ]
+      },
+      "properties": {
+        "id": "node/4961356420",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "警視庁遺失物センターAED",
+        "tags": {
+          "@id": "node/4961356420",
+          "access": "permissive",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "警視庁遺失物センターAED",
+          "opening_hours": "Mo-Su 08:30-17:15"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7506742,
+          35.7033717
+        ]
+      },
+      "properties": {
+        "id": "node/4961357822",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "住宅金融公庫",
+        "tags": {
+          "@id": "node/4961357822",
+          "access": "private",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "住宅金融公庫"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7487913,
+          35.7037507
+        ]
+      },
+      "properties": {
+        "id": "node/4961357823",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "東京トヨタ本社ビルAED",
+        "tags": {
+          "@id": "node/4961357823",
+          "access": "permissive",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "東京トヨタ本社ビルAED"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7472276,
+          35.7035002
+        ]
+      },
+      "properties": {
+        "id": "node/4961357824",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "飯田橋公共職業安定所AED",
+        "tags": {
+          "@id": "node/4961357824",
+          "access": "destination",
+          "bicycle": "no",
+          "emergency": "defibrillator",
+          "horse": "no",
+          "indoor": "yes",
+          "motor_vehicle": "no",
+          "name": "飯田橋公共職業安定所AED",
+          "opening_hours": "Mo-Su 09:00-21:00",
+          "phone": "03-5800-3420"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7458391,
+          35.7108837
+        ]
+      },
+      "properties": {
+        "id": "node/4963204523",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963204523",
+          "access": "permissive",
+          "description": "小石川歯科クリニック",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Su 10:00-20:00",
+          "phone": "0338160004"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7503592,
+          35.7119436
+        ]
+      },
+      "properties": {
+        "id": "node/4963212251",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963212251",
+          "access": "no",
+          "description": "礫川地域活動センター",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Fr 08:30-20:15; Sa 09:00-21:00",
+          "phone": "03-3818-1045"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7481685,
+          35.7088402
+        ]
+      },
+      "properties": {
+        "id": "node/4963219808",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219808",
+          "access": "no",
+          "description": "中央大学後楽園キャンパス5号館",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "8:00-22:00",
+          "phone": "0338171715",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7465814,
+          35.7092352
+        ]
+      },
+      "properties": {
+        "id": "node/4963219811",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219811",
+          "access": "private",
+          "description": "文京区立第三中学校",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "0338142544",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7461085,
+          35.7081258
+        ]
+      },
+      "properties": {
+        "id": "node/4963219812",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219812",
+          "access": "private",
+          "description": "洛和ヴィラ文京春日",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "9:00-19:00",
+          "phone": "0358046511",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7475641,
+          35.7078317
+        ]
+      },
+      "properties": {
+        "id": "node/4963219813",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219813",
+          "access": "private",
+          "description": "筑波大学附属大塚特別支援学校",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "0338135569",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748622,
+          35.7081781
+        ]
+      },
+      "properties": {
+        "id": "node/4963219814",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219814",
+          "access": "no",
+          "description": "中央大学後楽園キャンパス１号館",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "8:00-22:00",
+          "phone": "0338171715",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7464481,
+          35.7068437
+        ]
+      },
+      "properties": {
+        "id": "node/4963219815",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219815",
+          "access": "no",
+          "description": "後楽園デンタルオフィス",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "10:00-13:00,15:00-22:00",
+          "phone": "0358409679",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7473316,
+          35.7070542
+        ]
+      },
+      "properties": {
+        "id": "node/4963219816",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963219816",
+          "access": "no",
+          "description": "小石川税務署",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "8:30-17:00",
+          "phone": "0338111141",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7515675,
+          35.7102164
+        ]
+      },
+      "properties": {
+        "id": "node/4963220105",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963220105",
+          "access": "no",
+          "contact:phone": "+81 80-9496-2169",
+          "description": "和順ビル",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Su 09:00-18:00"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7515403,
+          35.7097361
+        ]
+      },
+      "properties": {
+        "id": "node/4963233894",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963233894",
+          "access": "no",
+          "contact:phone": "+81 3-3818-1045",
+          "description": "東横イン　後楽園文京区役所前",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7442254,
+          35.7070251
+        ]
+      },
+      "properties": {
+        "id": "node/4963565445",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963565445",
+          "access": "yes",
+          "description": "Honda Cars 東京　飯田橋店　受付前",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "We-Mo 10:00-19:00; Tu off",
+          "phone": "03-5840-6600",
+          "source": "surbey, bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7454649,
+          35.705222
+        ]
+      },
+      "properties": {
+        "id": "node/4963567963",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963567963",
+          "access": "yes",
+          "description": "住友不動産飯田橋ファーストタワー, B1F",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-5805-3102",
+          "source": "survey,bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7453028,
+          35.7031645
+        ]
+      },
+      "properties": {
+        "id": "node/4963569568",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963569568",
+          "access": "yes",
+          "contact:phone": "+81 3-3817-0110",
+          "description": "後楽交番，入口付近",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7",
+          "source": "survey,bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.743932,
+          35.7078131
+        ]
+      },
+      "properties": {
+        "id": "node/4963575317",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963575317",
+          "access": "yes",
+          "description": "ARCビル内　入口に表示あり",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey, bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745929,
+          35.7033264
+        ]
+      },
+      "properties": {
+        "id": "node/4963578149",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963578149",
+          "access": "yes",
+          "contact:phone": "+81 3-3868-5766",
+          "description": "リンテック株式会社,ロビー",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey,bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7457696,
+          35.7052993
+        ]
+      },
+      "properties": {
+        "id": "node/4963580138",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963580138",
+          "access": "yes",
+          "description": "住友不動産飯田橋ファーストビル,　入り口に表示あり",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-5689-8651",
+          "source": "survey, bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7448085,
+          35.7043119
+        ]
+      },
+      "properties": {
+        "id": "node/4963586219",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963586219",
+          "access": "yes",
+          "description": "白王ビル内　入口に表示あり",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7461738,
+          35.7044075
+        ]
+      },
+      "properties": {
+        "id": "node/4963586259",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963586259",
+          "access": "yes",
+          "description": "テラル（株） 営業部東京支店,入口",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3818-7700",
+          "source": "survey,bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7455802,
+          35.7041033
+        ]
+      },
+      "properties": {
+        "id": "node/4963589847",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963589847",
+          "access": "yes",
+          "description": "日本ビジネスドック株式会社, 入り口に表示あり",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "phone": "03-3812-9111",
+          "source": "survey, bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7442882,
+          35.7076857
+        ]
+      },
+      "properties": {
+        "id": "node/4963595747",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4963595747",
+          "access": "yes",
+          "description": "須田整形外科クリニック内　入口に表示あり",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "Mo-Sa 09:00-18:30; Su off",
+          "phone": "03-3811-0881",
+          "source": "survey, bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7501051,
+          35.7135105
+        ]
+      },
+      "properties": {
+        "id": "node/4965075446",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075446",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.748649,
+          35.7141073
+        ]
+      },
+      "properties": {
+        "id": "node/4965075447",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075447",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7476002,
+          35.7142053
+        ]
+      },
+      "properties": {
+        "id": "node/4965075448",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075448",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7466588,
+          35.714507
+        ]
+      },
+      "properties": {
+        "id": "node/4965075449",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075449",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7475772,
+          35.7153073
+        ]
+      },
+      "properties": {
+        "id": "node/4965075450",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075450",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7474144,
+          35.7153346
+        ]
+      },
+      "properties": {
+        "id": "node/4965075451",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965075451",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7520735,
+          35.708251
+        ]
+      },
+      "properties": {
+        "id": "node/4965477402",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4965477402",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7699477,
+          35.7083207
+        ]
+      },
+      "properties": {
+        "id": "node/5076979266",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5076979266",
+          "defibrillator:location": "湯島駅改札外・忘れ物窓口の脇",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7698695,
+          35.7072252
+        ]
+      },
+      "properties": {
+        "id": "node/5076979267",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5076979267",
+          "defibrillator:location": "交番1Fの壁に設置",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7600054,
+          35.7066075
+        ]
+      },
+      "properties": {
+        "id": "node/5551859144",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5551859144",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7683457,
+          35.7047084
+        ]
+      },
+      "properties": {
+        "id": "node/5638757037",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5638757037",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7604023,
+          35.7076308
+        ]
+      },
+      "properties": {
+        "id": "node/5953005999",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5953005999",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.765965,
+          35.7050568
+        ]
+      },
+      "properties": {
+        "id": "node/5956002416",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5956002416",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7646147,
+          35.7053458
+        ]
+      },
+      "properties": {
+        "id": "node/5956002417",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5956002417",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7642077,
+          35.701532
+        ]
+      },
+      "properties": {
+        "id": "node/6150850768",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6150850768",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7315619,
+          35.7183012
+        ]
+      },
+      "properties": {
+        "id": "node/6277671421",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6277671421",
+          "emergency": "defibrillator",
+          "indoor": "no",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7366497,
+          35.7180716
+        ]
+      },
+      "properties": {
+        "id": "node/9296352390",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9296352390",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7516596,
+          35.7307381
+        ]
+      },
+      "properties": {
+        "id": "node/12520142845",
+        "ward": "bunkyo",
+        "category": "fire_station",
+        "name": "本郷消防団第六分団本部",
+        "tags": {
+          "@id": "node/12520142845",
+          "amenity": "fire_station",
+          "name": "本郷消防団第六分団本部"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749441,
+          35.7325652
+        ]
+      },
+      "properties": {
+        "id": "node/13036989581",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13036989581",
+          "access": "yes",
+          "defibrillator:location": "朝日信用金庫 ATMコーナー内 入口右側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "operator": "朝日信用金庫",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7496186,
+          35.7322879
+        ]
+      },
+      "properties": {
+        "id": "node/13037049821",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13037049821",
+          "access": "yes",
+          "defibrillator:location": "交番内 入口正面",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7439521,
+          35.728978
+        ]
+      },
+      "properties": {
+        "id": "node/13037049912",
+        "ward": "bunkyo",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13037049912",
+          "access": "yes",
+          "defibrillator:location": "みずほ銀行ATMコーナー内 入口右側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "operator": "みずほ銀行"
+        }
+      }
+    }
+  ]
+}

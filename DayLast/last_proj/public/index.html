@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>bousai-map-app</title>
+
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="panel">
+      <div class="panel__header">
+        <div class="brand">
+          <div class="brand__dot"></div>
+          <div class="brand__text">
+            <div class="brand__title">Bousai Map</div>
+            <div class="brand__sub">Disaster & Public Safety Facilities</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel__content">
+        <section class="card">
+          <div class="card__title">Area</div>
+
+          <div class="field">
+            <label class="field__label" for="areaSelect">対象エリア</label>
+            <select id="areaSelect" class="field__control"></select>
+          </div>
+
+          <div class="row">
+            <button id="reloadBtn" class="btn btn--primary">Reload</button>
+            <button id="fitBtn" class="btn">Fit</button>
+          </div>
+
+          <div class="meta">
+            <div class="meta__item">
+              <div class="meta__label">Status</div>
+              <div class="meta__value" id="statusText">idle</div>
+            </div>
+            <div class="meta__item">
+              <div class="meta__label">Points</div>
+              <div class="meta__value" id="countText">-</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="card">
+          <div class="card__title">Layers</div>
+
+          <div class="checks" id="categoryChecks">
+            <label class="check">
+              <input type="checkbox" value="aed" checked />
+              <span class="check__swatch swatch--aed"></span>
+              <span class="check__text">AED</span>
+            </label>
+
+            <label class="check">
+              <input type="checkbox" value="shelter" checked />
+              <span class="check__swatch swatch--shelter"></span>
+              <span class="check__text">Shelter</span>
+            </label>
+
+            <label class="check">
+              <input type="checkbox" value="assembly_point" checked />
+              <span class="check__swatch swatch--assembly"></span>
+              <span class="check__text">Assembly</span>
+            </label>
+
+            <label class="check">
+              <input type="checkbox" value="fire_station" checked />
+              <span class="check__swatch swatch--fire"></span>
+              <span class="check__text">Fire</span>
+            </label>
+
+            <label class="check">
+              <input type="checkbox" value="police" checked />
+              <span class="check__swatch swatch--police"></span>
+              <span class="check__text">Police</span>
+            </label>
+
+            <label class="check">
+              <input type="checkbox" value="hospital" checked />
+              <span class="check__swatch swatch--hospital"></span>
+              <span class="check__text">Hospital</span>
+            </label>
+          </div>
+
+          <div class="field" style="margin-top:12px">
+            <label class="field__label" for="nearestK">Nearest K (click map)</label>
+            <input id="nearestK" class="field__control" type="number" min="1" max="50" value="10" />
+          </div>
+
+          <div class="hint">地図をクリック → チェック中カテゴリから最近 K 件を表示。</div>
+        </section>
+
+        <section class="card">
+          <div class="card__title">Nearest Results</div>
+          <div id="nearestList" class="list"></div>
+        </section>
+
+        <!-- ✅ Misra-Gries -->
+        <section class="card">
+          <div class="card__title">Misra-Gries (Top-K)</div>
+
+          <div class="field">
+            <label class="field__label" for="misraK">Top K (category)</label>
+            <input id="misraK" class="field__control" type="number" min="1" max="50" value="5" />
+          </div>
+
+          <div class="row">
+            <button id="misraRunBtn" class="btn btn--primary">Run Misra</button>
+            <button id="misraClearBtn" class="btn">Clear</button>
+          </div>
+
+          <div class="hint">対象エリア内で出現数が多い設備カテゴリ Top-K を表示。</div>
+          <div id="misraList" class="list" style="margin-top:10px"></div>
+        </section>
+
+        <!-- ✅ DBSCAN -->
+        <section class="card">
+          <div class="card__title">DBSCAN (Hotspots)</div>
+
+          <div class="field">
+            <label class="field__label" for="dbEps">eps (meters)</label>
+            <input id="dbEps" class="field__control" type="number" min="10" max="3000" value="1000" />
+          </div>
+
+          <div class="field">
+            <label class="field__label" for="dbMinPts">minPts</label>
+            <input id="dbMinPts" class="field__control" type="number" min="2" max="100" value="3" />
+          </div>
+
+          <div class="row">
+            <button id="dbRunBtn" class="btn btn--primary">Run DBSCAN</button>
+            <button id="dbClearBtn" class="btn">Clear</button>
+          </div>
+
+          <div class="hint">チェック中カテゴリを対象に、密集エリア（クラスタ中心）を地図に表示。</div>
+          <div id="dbList" class="list" style="margin-top:10px"></div>
+        </section>
+      </div>
+
+      <div class="panel__footer">
+        <div class="footer__text">Leaflet + Express</div>
+      </div>
+    </aside>
+
+    <main class="mapwrap">
+      <div id="map"></div>
+
+      <div class="toast" id="toast" aria-live="polite" aria-atomic="true">
+        <div class="toast__title" id="toastTitle">Error</div>
+        <div class="toast__msg" id="toastMsg"></div>
+        <button class="toast__close" id="toastClose" title="close">×</button>
+      </div>
+
+      <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <div class="loading__text">Loading…</div>
+      </div>
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./main.js"></script>
+</body>
+</html>

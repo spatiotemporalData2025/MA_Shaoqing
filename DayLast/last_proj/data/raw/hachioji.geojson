@@ -1,0 +1,2449 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T05:20:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293957439",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "八王子クリニックビレッジ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3336355,
+          35.6511626
+        ]
+      },
+      "id": "node/293957439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313758968",
+        "amenity": "police",
+        "name": "警視庁第九方面合同庁舎"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3289602,
+          35.6618197
+        ]
+      },
+      "id": "node/313758968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420765467",
+        "KSJ2:ADS": "戸吹町1950",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "三井病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.297444,
+          35.705334
+        ]
+      },
+      "id": "node/1420765467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766299",
+        "KSJ2:ADS": "万町177-3",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "中山会八王子消化器病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.333047,
+          35.65081
+        ]
+      },
+      "id": "node/1420766299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766833",
+        "KSJ2:ADS": "南新町23",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "仁光会眞宮病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.330721,
+          35.65859
+        ]
+      },
+      "id": "node/1420766833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767255",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "光生会平川病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2506865,
+          35.6833376
+        ]
+      },
+      "id": "node/1420767255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767531",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "八王子保健生活協同組合城山病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.266476,
+          35.653783
+        ]
+      },
+      "id": "node/1420767531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767731",
+        "KSJ2:ADS": "館町2232-8",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "八王子恵愛病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.305918,
+          35.631759
+        ]
+      },
+      "id": "node/1420767731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767740",
+        "KSJ2:ADS": "大楽寺町366-1",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "八王子消防署元八王子出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.294251,
+          35.673921
+        ]
+      },
+      "id": "node/1420767740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767741",
+        "amenity": "fire_station",
+        "name": "八王子消防署北野出張所",
+        "name:ja": "八王子消防署北野出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.352056,
+          35.6503686
+        ]
+      },
+      "id": "node/1420767741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767743",
+        "KSJ2:ADS": "石川町2099-2",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "八王子消防署小宮出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.357774,
+          35.668562
+        ]
+      },
+      "id": "node/1420767743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767760",
+        "amenity": "police",
+        "name": "八王子警察署上柚木駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3650548,
+          35.6209347
+        ]
+      },
+      "id": "node/1420767760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767762",
+        "KSJ2:ADS": "越野600-2",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署下柚木交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.385597,
+          35.6285311
+        ]
+      },
+      "id": "node/1420767762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767763",
+        "amenity": "police",
+        "name": "八王子警察署中野交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3204862,
+          35.6692991
+        ]
+      },
+      "id": "node/1420767763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767764",
+        "KSJ2:ADS": "滝山町2-594-4",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署丹木駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.333247,
+          35.692531
+        ]
+      },
+      "id": "node/1420767764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767765",
+        "KSJ2:ADS": "久保山町2-43-1",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署久保山駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3577962,
+          35.6889651
+        ]
+      },
+      "id": "node/1420767765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767768",
+        "amenity": "police",
+        "name": "八王子警察署八王子駅北口交番",
+        "name:ja": "八王子警察署八王子駅北口交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3387803,
+          35.6563194
+        ]
+      },
+      "id": "node/1420767768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767772",
+        "amenity": "police",
+        "name": "八王子警察署南大沢駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3804821,
+          35.6132769
+        ]
+      },
+      "id": "node/1420767772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767773",
+        "amenity": "police",
+        "name": "八王子警察署南大沢駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.378941,
+          35.6070063
+        ]
+      },
+      "id": "node/1420767773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767774",
+        "KSJ2:ADS": "南陽台2-1-2",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署南陽台駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.37194,
+          35.631733
+        ]
+      },
+      "id": "node/1420767774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767775",
+        "amenity": "police",
+        "name": "八王子警察署堀之内駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.400744,
+          35.6248744
+        ]
+      },
+      "id": "node/1420767775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767777",
+        "amenity": "police",
+        "name": "八王子警察署堀之内駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4047154,
+          35.6322691
+        ]
+      },
+      "id": "node/1420767777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767793",
+        "amenity": "police",
+        "name": "八王子警察署宮下駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3090148,
+          35.704461
+        ]
+      },
+      "id": "node/1420767793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767803",
+        "KSJ2:ADS": "小宮町893-4",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署小宮町駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3708,
+          35.68531
+        ]
+      },
+      "id": "node/1420767803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767809",
+        "amenity": "police",
+        "name": "八王子警察署小比企駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3188978,
+          35.6386953
+        ]
+      },
+      "id": "node/1420767809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767811",
+        "KSJ2:ADS": "松が谷1540-2",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "八王子警察署松が谷交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.414659,
+          35.630873
+        ]
+      },
+      "id": "node/1420767811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767815",
+        "amenity": "police",
+        "name": "八王子警察署石川駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.363505,
+          35.6813314
+        ]
+      },
+      "id": "node/1420767815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767816",
+        "amenity": "police",
+        "name": "八王子警察署稲荷坂交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.331339,
+          35.6710902
+        ]
+      },
+      "id": "node/1420767816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420767985",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "北原脳神経外科病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3609757,
+          35.6622562
+        ]
+      },
+      "id": "node/1420767985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780201",
+        "KSJ2:ADS": "中野山王2-15-16",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "徳成会八王子山王病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3282994,
+          35.6739469
+        ]
+      },
+      "id": "node/1420780201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780337",
+        "KSJ2:ADS": "戸吹町1495",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "愛有会三愛病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.293722,
+          35.706195
+        ]
+      },
+      "id": "node/1420780337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780633",
+        "KSJ2:ADS": "戸吹町323-1",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "敬寿会相武病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.294555,
+          35.709611
+        ]
+      },
+      "id": "node/1420780633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420781326",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "明和会西八王子病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2670955,
+          35.7042788
+        ]
+      },
+      "id": "node/1420781326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782848",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "東京医科大学八王子医療センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q11524579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2891581,
+          35.6320583
+        ]
+      },
+      "id": "node/1420782848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420784030",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "東京愛成会高月病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.317069,
+          35.7077364
+        ]
+      },
+      "id": "node/1420784030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420785327",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "南多摩病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京都国民健康保険団体連合会",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3130403,
+          35.6555609
+        ]
+      },
+      "id": "node/1420785327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786603",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "桧垣会多摩肛門科病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.406501,
+          35.628833
+        ]
+      },
+      "id": "node/1420786603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420787196",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "永寿会恩方病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2649727,
+          35.6717664
+        ]
+      },
+      "id": "node/1420787196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420787201",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "永寿会陵北病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2659864,
+          35.6725742
+        ]
+      },
+      "id": "node/1420787201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420787246",
+        "addr:block_number": "583-15",
+        "addr:city": "八王子市",
+        "addr:postcode": "193-0942",
+        "addr:quarter": "椚田町",
+        "amenity": "hospital",
+        "name": "永生会永生病院",
+        "name:en": "Eisei Hospital",
+        "name:ja": "永生病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "phone": "042-661-4108",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "toilets:wheelchair": "yes",
+        "website": "http://hospital.eisei.or.jp",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.304918,
+          35.639619
+        ]
+      },
+      "id": "node/1420787246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420788696",
+        "amenity": "hospital",
+        "name": "清伸会高尾厚生病院",
+        "name:ja": "清伸会高尾厚生病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.24737,
+          35.616985
+        ]
+      },
+      "id": "node/1420788696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789297",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "希望の丘八王子病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.307666,
+          35.692669
+        ]
+      },
+      "id": "node/1420789297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420789858",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "玉栄会東京天使病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2808532,
+          35.6844451
+        ]
+      },
+      "id": "node/1420789858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420795739",
+        "KSJ2:ADS": "大横町14-20",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "第九方面本部",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.328372,
+          35.661845
+        ]
+      },
+      "id": "node/1420795739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420795875",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "米山産婦人科病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.341248,
+          35.661007
+        ]
+      },
+      "id": "node/1420795875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420795977",
+        "KSJ2:ADS": "中野町2082",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "緑雲会多摩病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.324998,
+          35.680227
+        ]
+      },
+      "id": "node/1420795977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797909",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "親和会野猿峠脳神経外科病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.365746,
+          35.632205
+        ]
+      },
+      "id": "node/1420797909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800034",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "青渓会駒木野病院",
+        "name:en": "Seikeikai Komagino Hospital",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q30280481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2690017,
+          35.6405374
+        ]
+      },
+      "id": "node/1420800034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800045",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "青雲会北野台病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.356775,
+          35.638593
+        ]
+      },
+      "id": "node/1420800045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800276",
+        "amenity": "police",
+        "name": "高尾警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11669259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2952799,
+          35.6488976
+        ]
+      },
+      "id": "node/1420800276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800281",
+        "KSJ2:ADS": "長房町1340",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高尾警察署多摩御陵警備派出所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2854887,
+          35.6488661
+        ]
+      },
+      "id": "node/1420800281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800282",
+        "amenity": "police",
+        "name": "高尾警察署寺田団地駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3070942,
+          35.6231918
+        ]
+      },
+      "id": "node/1420800282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800283",
+        "KSJ2:ADS": "並木町12-7",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高尾警察署散田交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3014157,
+          35.6519283
+        ]
+      },
+      "id": "node/1420800283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800328",
+        "KSJ2:ADS": "館町1097",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高尾警察署館ヶ丘駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.287198,
+          35.628121
+        ]
+      },
+      "id": "node/1420800328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800333",
+        "KSJ2:ADS": "館町314",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高尾警察署館駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.299558,
+          35.636009
+        ]
+      },
+      "id": "node/1420800333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800351",
+        "KSJ2:ADS": "高尾町1588-3",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高尾警察署高尾駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.282152,
+          35.6431939
+        ]
+      },
+      "id": "node/1420800351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800506",
+        "KSJ2:ADS": "川口町2758",
+        "KSJ2:AdminArea": "東京都八王子市",
+        "KSJ2:PubFacAdmin": "民間",
+        "amenity": "hospital",
+        "name": "鵬友会協和病院",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.28014,
+          35.697862
+        ]
+      },
+      "id": "node/1420800506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655913172",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "東京医科大学八王子医療センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "social_facility": "assisted_living",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2891631,
+          35.6320556
+        ]
+      },
+      "id": "node/1655913172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832349565",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.32846,
+          35.6317566
+        ]
+      },
+      "id": "node/1832349565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847512312",
+        "amenity": "fire_station",
+        "name": "八王子消防署みなみ野出張所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3157857,
+          35.6172859
+        ]
+      },
+      "id": "node/1847512312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912916769",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2588798,
+          35.6288973
+        ]
+      },
+      "id": "node/1912916769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052220157",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "高月整形外科病院",
+        "website": "http://www.hakutokai.jp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.321167,
+          35.7114197
+        ]
+      },
+      "id": "node/2052220157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139624906",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3693466,
+          35.6356116
+        ]
+      },
+      "id": "node/2139624906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139624929",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3693232,
+          35.6356146
+        ]
+      },
+      "id": "node/2139624929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139624955",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3693241,
+          35.6356307
+        ]
+      },
+      "id": "node/2139624955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2139628710",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.372689,
+          35.636193
+        ]
+      },
+      "id": "node/2139628710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2346549944",
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2886837,
+          35.6497951
+        ]
+      },
+      "id": "node/2346549944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2350193076",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2906232,
+          35.7008105
+        ]
+      },
+      "id": "node/2350193076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2361406228",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3382693,
+          35.6739206
+        ]
+      },
+      "id": "node/2361406228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441599850",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2960111,
+          35.6285282
+        ]
+      },
+      "id": "node/2441599850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2574005184",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2171116,
+          35.6697849
+        ]
+      },
+      "id": "node/2574005184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2893805172",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.175897,
+          35.6716947
+        ]
+      },
+      "id": "node/2893805172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2977498055",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2644898,
+          35.6078577
+        ]
+      },
+      "id": "node/2977498055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3010239895",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2762392,
+          35.6335193
+        ]
+      },
+      "id": "node/3010239895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3052804388",
+        "emergency": "defibrillator",
+        "name": "AED",
+        "source": "survey,2014-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.269979,
+          35.6326237
+        ]
+      },
+      "id": "node/3052804388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3060630334",
+        "amenity": "shelter",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2009105,
+          35.6903086
+        ]
+      },
+      "id": "node/3060630334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3095930034",
+        "amenity": "shelter",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2530023,
+          35.6586238
+        ]
+      },
+      "id": "node/3095930034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126331641",
+        "amenity": "shelter",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2373396,
+          35.6459735
+        ]
+      },
+      "id": "node/3126331641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3160352288",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.241363,
+          35.6344999
+        ]
+      },
+      "id": "node/3160352288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3160352293",
+        "amenity": "shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2413389,
+          35.6346264
+        ]
+      },
+      "id": "node/3160352293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184683902",
+        "amenity": "shelter",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.216702,
+          35.6358965
+        ]
+      },
+      "id": "node/3184683902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3268777273",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2560003,
+          35.631018
+        ]
+      },
+      "id": "node/3268777273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3323460145",
+        "amenity": "shelter",
+        "shelter_type": "picnic_shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3881988,
+          35.6253037
+        ]
+      },
+      "id": "node/3323460145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3514113393",
+        "amenity": "fire_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.375554,
+          35.688312
+        ]
+      },
+      "id": "node/3514113393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3751941178",
+        "emergency": "defibrillator",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3744494,
+          35.680118
+        ]
+      },
+      "id": "node/3751941178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3870433450",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3436063,
+          35.65744
+        ]
+      },
+      "id": "node/3870433450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3919144895",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3434846,
+          35.6576887
+        ]
+      },
+      "id": "node/3919144895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4098753976",
+        "amenity": "fire_station",
+        "name": "東京消防庁第九方面消防救助機動部隊",
+        "name:en": "Fire rescue task forces, the 9th fire district HQ, Tokyo fire department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3548558,
+          35.6114259
+        ]
+      },
+      "id": "node/4098753976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4181556227",
+        "amenity": "shelter",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2985662,
+          35.6670402
+        ]
+      },
+      "id": "node/4181556227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4741009630",
+        "amenity": "fire_station",
+        "name": "八王子消防署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.326532,
+          35.655742
+        ]
+      },
+      "id": "node/4741009630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638757036",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3349233,
+          35.6151333
+        ]
+      },
+      "id": "node/5638757036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638762064",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3341044,
+          35.6175948
+        ]
+      },
+      "id": "node/5638762064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638927524",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.338168,
+          35.6576129
+        ]
+      },
+      "id": "node/5638927524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5639074472",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3389093,
+          35.6571145
+        ]
+      },
+      "id": "node/5639074472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5639074704",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3382157,
+          35.6573783
+        ]
+      },
+      "id": "node/5639074704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671144445",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3415501,
+          35.6577918
+        ]
+      },
+      "id": "node/5671144445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671144447",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3388648,
+          35.655609
+        ]
+      },
+      "id": "node/5671144447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671144448",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0",
+        "opening_hours": "Mo-Fr 09:00-15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3381327,
+          35.6572547
+        ]
+      },
+      "id": "node/5671144448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671146176",
+        "description": "一階ロビー",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.334757,
+          35.6557519
+        ]
+      },
+      "id": "node/5671146176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671150457",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3402595,
+          35.6563696
+        ]
+      },
+      "id": "node/5671150457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671161487",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3424077,
+          35.6583553
+        ]
+      },
+      "id": "node/5671161487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671165283",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3413995,
+          35.6574939
+        ]
+      },
+      "id": "node/5671165283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671169885",
+        "description": "ソエダビル3階 新極真空手 八王子塚本道場 入り口前",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3342809,
+          35.659433
+        ]
+      },
+      "id": "node/5671169885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671170679",
+        "emergency": "defibrillator",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3433619,
+          35.6578137
+        ]
+      },
+      "id": "node/5671170679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671170681",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3404741,
+          35.6571095
+        ]
+      },
+      "id": "node/5671170681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671190186",
+        "emergency": "defibrillator",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3382396,
+          35.6590594
+        ]
+      },
+      "id": "node/5671190186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671198872",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "1;3;4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3375192,
+          35.654235
+        ]
+      },
+      "id": "node/5671198872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671206216",
+        "description": "みずほ銀行内",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3340173,
+          35.6600593
+        ]
+      },
+      "id": "node/5671206216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671206217",
+        "description": "アーバン・デュオ一階",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3348797,
+          35.6599732
+        ]
+      },
+      "id": "node/5671206217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671206218",
+        "description": "りそな銀行内",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3368699,
+          35.6599885
+        ]
+      },
+      "id": "node/5671206218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671206219",
+        "description": "メディカルタワー八王子４階 中條よろず診療所内",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3379126,
+          35.659897
+        ]
+      },
+      "id": "node/5671206219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671206220",
+        "description": "エフ・ティー・ビル八王子内",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3384007,
+          35.6598665
+        ]
+      },
+      "id": "node/5671206220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671211521",
+        "emergency": "defibrillator",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3400086,
+          35.6598222
+        ]
+      },
+      "id": "node/5671211521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671218879",
+        "description": "マツモトキヨシ一階",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3370851,
+          35.6576599
+        ]
+      },
+      "id": "node/5671218879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671219057",
+        "description": "ドン・キホーテ内一階レジ側奥",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3373185,
+          35.6578876
+        ]
+      },
+      "id": "node/5671219057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5671228224",
+        "emergency": "defibrillator",
+        "level": "8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3399666,
+          35.6585592
+        ]
+      },
+      "id": "node/5671228224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6345516266",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "みなみ野病院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3186323,
+          35.6310609
+        ]
+      },
+      "id": "node/6345516266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6475574264",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "兼子歯科"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3415427,
+          35.6395448
+        ]
+      },
+      "id": "node/6475574264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6475574266",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "まみづか接骨院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3421023,
+          35.6398062
+        ]
+      },
+      "id": "node/6475574266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6475574267",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "サロンディウェルハイム片倉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3421765,
+          35.6398648
+        ]
+      },
+      "id": "node/6475574267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6713731817",
+        "amenity": "shelter",
+        "shelter_type": "lean_to"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2167088,
+          35.6355696
+        ]
+      },
+      "id": "node/6713731817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7684371714",
+        "emergency": "defibrillator",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3539501,
+          35.6446006
+        ]
+      },
+      "id": "node/7684371714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10029775410",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "rehabilitation",
+        "name": "北原リハビリテーション病院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3461677,
+          35.6875737
+        ]
+      },
+      "id": "node/10029775410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10996137199",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "中濵クリニック",
+        "website": "https://www.nakahama-clinic.com/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3455785,
+          35.6127617
+        ]
+      },
+      "id": "node/10996137199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11287510354",
+        "amenity": "police",
+        "name": "警視庁少年育成課 八王子少年センター"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3825739,
+          35.6172665
+        ]
+      },
+      "id": "node/11287510354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11503054882",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2805851,
+          35.6766774
+        ]
+      },
+      "id": "node/11503054882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11552548540",
+        "amenity": "university",
+        "emergency": "assembly_point",
+        "name": "明星大学（人文学部）",
+        "name:en": "Meisei University",
+        "name:ja": "明星大学",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source:ja": "国土画像情報（オルソ化空中写真）国土交通省",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes",
+        "wikidata": "Q3551631",
+        "wikipedia": "ja:明星大学"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4076266,
+          35.6445403
+        ]
+      },
+      "id": "node/11552548540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285887877",
+        "amenity": "fire_station",
+        "name": "東京消防庁第九消防方面訓練場",
+        "name:en": "the 9th fire district training grounds, Tokyo fire department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3561274,
+          35.6124611
+        ]
+      },
+      "id": "node/12285887877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12916761795",
+        "access": "customers",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3292418,
+          35.6864244
+        ]
+      },
+      "id": "node/12916761795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12917482421",
+        "access": "yes",
+        "defibrillator:location": "建物入ってすぐ右の壁際",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3298245,
+          35.6871922
+        ]
+      },
+      "id": "node/12917482421"
+    }
+  ]
+}

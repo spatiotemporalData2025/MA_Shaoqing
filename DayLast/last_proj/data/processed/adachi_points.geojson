@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.802998,
+          35.7909966
+        ]
+      },
+      "properties": {
+        "id": "way/157875996",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署",
+        "tags": {
+          "@id": "way/157875996",
+          "amenity": "police",
+          "building": "yes",
+          "name": "竹の塚警察署",
+          "name:en": "Takenotuka Police Station",
+          "name:ja": "竹の塚警察署",
+          "wikidata": "Q11598632",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7704269,
+          35.8136701
+        ]
+      },
+      "properties": {
+        "id": "node/722249809",
+        "ward": "adachi",
+        "category": "police",
+        "name": "見沼代親水公園駅前交番",
+        "tags": {
+          "@id": "node/722249809",
+          "amenity": "police",
+          "name": "見沼代親水公園駅前交番",
+          "name:en": "Minumadai-shinsuikoenekimae-koban",
+          "name:ja": "見沼代親水公園駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8122093,
+          35.7464835
+        ]
+      },
+      "properties": {
+        "id": "way/1167575194",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "千住消防団地域活動センター",
+        "tags": {
+          "@id": "way/1167575194",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "千住消防団地域活動センター",
+          "operator": "千住消防団",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7985901,
+          35.7488786
+        ]
+      },
+      "properties": {
+        "id": "node/1420770212",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "東京消防庁 千住消防署",
+        "tags": {
+          "@id": "node/1420770212",
+          "addr:postcode": "120-0035",
+          "amenity": "fire_station",
+          "fax": "+81-3-38810385",
+          "name": "東京消防庁 千住消防署",
+          "name:en": "Senju Fire Station",
+          "name:ja": "東京消防庁 千住消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38820119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-senjyu/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7531794,
+          35.7578161
+        ]
+      },
+      "properties": {
+        "id": "node/1420770213",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "千住消防署宮城出張所",
+        "tags": {
+          "@id": "node/1420770213",
+          "amenity": "fire_station",
+          "name": "千住消防署宮城出張所",
+          "name:en": "Senju Fire Station Miyagi Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.809289,
+          35.746676
+        ]
+      },
+      "properties": {
+        "id": "node/1420770214",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "千住消防署旭町出張所",
+        "tags": {
+          "@id": "node/1420770214",
+          "amenity": "fire_station",
+          "name": "千住消防署旭町出張所",
+          "name:en": "Asahicho Branch, Senju Fire Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8034878,
+          35.7469999
+        ]
+      },
+      "properties": {
+        "id": "node/1420770217",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署",
+        "tags": {
+          "@id": "node/1420770217",
+          "amenity": "police",
+          "name": "千住警察署",
+          "name:en": "Senju Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11405355"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.806202,
+          35.7490995
+        ]
+      },
+      "properties": {
+        "id": "node/1420770218",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署北千住駅東口交番",
+        "tags": {
+          "@id": "node/1420770218",
+          "amenity": "police",
+          "name": "千住警察署北千住駅東口交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8040745,
+          35.7502869
+        ]
+      },
+      "properties": {
+        "id": "node/1420770219",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署北千住駅西口交番",
+        "tags": {
+          "@id": "node/1420770219",
+          "amenity": "police",
+          "name": "千住警察署北千住駅西口交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8011798,
+          35.7537348
+        ]
+      },
+      "properties": {
+        "id": "node/1420770220",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署 千住四丁目交番",
+        "tags": {
+          "@id": "node/1420770220",
+          "addr:block_number": "9番地",
+          "addr:county": "足立区",
+          "addr:housenumber": "2号",
+          "addr:neighbourhood": "4丁目",
+          "addr:postcode": "120-0034",
+          "addr:province": "東京都",
+          "addr:quarter": "千住",
+          "amenity": "police",
+          "name": "千住警察署 千住四丁目交番",
+          "name:en": "Senju Police Station Senju 4-Chōme Kōban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "opening_hours": "24/7",
+          "phone": "+81 03 3879 0110",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.jp/smph/about_mpd/shokai/ichiran/kankatsu/senju/koban/03.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7983292,
+          35.7466874
+        ]
+      },
+      "properties": {
+        "id": "node/1420770221",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署 大師道交番",
+        "tags": {
+          "@id": "node/1420770221",
+          "amenity": "police",
+          "name": "千住警察署 大師道交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7975734,
+          35.7401428
+        ]
+      },
+      "properties": {
+        "id": "node/1420770222",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署 大橋交番",
+        "tags": {
+          "@id": "node/1420770222",
+          "amenity": "police",
+          "name": "千住警察署 大橋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.809733,
+          35.746704
+        ]
+      },
+      "properties": {
+        "id": "node/1420770223",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署旭町交番",
+        "tags": {
+          "@id": "node/1420770223",
+          "amenity": "police",
+          "name": "千住警察署旭町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.812011,
+          35.743177
+        ]
+      },
+      "properties": {
+        "id": "node/1420770224",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署曙町交番",
+        "tags": {
+          "@id": "node/1420770224",
+          "KSJ2:ADS": "千住曙町41-4",
+          "KSJ2:AdminArea": "東京都足立区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "千住警察署曙町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7901138,
+          35.7557618
+        ]
+      },
+      "properties": {
+        "id": "node/1420770225",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署 桜木町交番",
+        "tags": {
+          "@id": "node/1420770225",
+          "amenity": "police",
+          "name": "千住警察署 桜木町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7887666,
+          35.795238
+        ]
+      },
+      "properties": {
+        "id": "node/1420795683",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署伊興町交番",
+        "tags": {
+          "@id": "node/1420795683",
+          "amenity": "police",
+          "name": "竹の塚警察署伊興町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8102664,
+          35.7948232
+        ]
+      },
+      "properties": {
+        "id": "node/1420795684",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 保木間交番",
+        "tags": {
+          "@id": "node/1420795684",
+          "amenity": "police",
+          "name": "竹の塚警察署 保木間交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.761817,
+          35.8021727
+        ]
+      },
+      "properties": {
+        "id": "node/1420795685",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 入谷町交番",
+        "tags": {
+          "@id": "node/1420795685",
+          "amenity": "police",
+          "name": "竹の塚警察署 入谷町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7766353,
+          35.7996198
+        ]
+      },
+      "properties": {
+        "id": "node/1420795686",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 古千谷駐在所",
+        "tags": {
+          "@id": "node/1420795686",
+          "amenity": "police",
+          "name": "竹の塚警察署 古千谷駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7922265,
+          35.7937277
+        ]
+      },
+      "properties": {
+        "id": "node/1420795687",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 竹の塚駅前交番",
+        "tags": {
+          "@id": "node/1420795687",
+          "amenity": "police",
+          "name": "竹の塚警察署 竹の塚駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.769233,
+          35.809056
+        ]
+      },
+      "properties": {
+        "id": "node/1420795688",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 舎人交番",
+        "tags": {
+          "@id": "node/1420795688",
+          "amenity": "police",
+          "name": "竹の塚警察署 舎人交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8181088,
+          35.7982154
+        ]
+      },
+      "properties": {
+        "id": "node/1420795689",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 花畑交番",
+        "tags": {
+          "@id": "node/1420795689",
+          "amenity": "police",
+          "name": "竹の塚警察署 花畑交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.821286,
+          35.8109983
+        ]
+      },
+      "properties": {
+        "id": "node/1420795690",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 花畑北駐在所",
+        "tags": {
+          "@id": "node/1420795690",
+          "amenity": "police",
+          "name": "竹の塚警察署 花畑北駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8020189,
+          35.7956601
+        ]
+      },
+      "properties": {
+        "id": "node/1420795691",
+        "ward": "adachi",
+        "category": "police",
+        "name": "竹の塚警察署 西保木間交番",
+        "tags": {
+          "@id": "node/1420795691",
+          "amenity": "police",
+          "name": "竹の塚警察署 西保木間交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.830673,
+          35.777784
+        ]
+      },
+      "properties": {
+        "id": "node/1420795925",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署",
+        "tags": {
+          "@id": "node/1420795925",
+          "KSJ2:ADS": "谷中4-1-24",
+          "KSJ2:AdminArea": "東京都足立区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "綾瀬警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "wikidata": "Q11607349"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8155848,
+          35.7787604
+        ]
+      },
+      "properties": {
+        "id": "node/1420795926",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署一ツ家交番",
+        "tags": {
+          "@id": "node/1420795926",
+          "amenity": "police",
+          "name": "綾瀬警察署一ツ家交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8034744,
+          35.7749739
+        ]
+      },
+      "properties": {
+        "id": "node/1420795927",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 中央本町交番",
+        "tags": {
+          "@id": "node/1420795927",
+          "amenity": "police",
+          "name": "綾瀬警察署 中央本町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8523813,
+          35.7720358
+        ]
+      },
+      "properties": {
+        "id": "node/1420795928",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 中川交番",
+        "tags": {
+          "@id": "node/1420795928",
+          "amenity": "police",
+          "name": "綾瀬警察署 中川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8434775,
+          35.7761331
+        ]
+      },
+      "properties": {
+        "id": "node/1420795929",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 大谷田交番",
+        "tags": {
+          "@id": "node/1420795929",
+          "amenity": "police",
+          "name": "綾瀬警察署 大谷田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.810537,
+          35.770701
+        ]
+      },
+      "properties": {
+        "id": "node/1420795930",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署弘道交番",
+        "tags": {
+          "@id": "node/1420795930",
+          "amenity": "police",
+          "name": "綾瀬警察署弘道交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8415386,
+          35.7689131
+        ]
+      },
+      "properties": {
+        "id": "node/1420795931",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 東和交番",
+        "tags": {
+          "@id": "node/1420795931",
+          "amenity": "police",
+          "name": "綾瀬警察署 東和交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8316794,
+          35.7917124
+        ]
+      },
+      "properties": {
+        "id": "node/1420795932",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 神明交番",
+        "tags": {
+          "@id": "node/1420795932",
+          "amenity": "police",
+          "name": "綾瀬警察署 神明交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8259598,
+          35.7688512
+        ]
+      },
+      "properties": {
+        "id": "node/1420795933",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 綾瀬六丁目交番",
+        "tags": {
+          "@id": "node/1420795933",
+          "amenity": "police",
+          "name": "綾瀬警察署 綾瀬六丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8278633,
+          35.7627604
+        ]
+      },
+      "properties": {
+        "id": "node/1420795934",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 綾瀬駅東口交番",
+        "tags": {
+          "@id": "node/1420795934",
+          "amenity": "police",
+          "check_date": "2023-04-08",
+          "name": "綾瀬警察署 綾瀬駅東口交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8228475,
+          35.7616666
+        ]
+      },
+      "properties": {
+        "id": "node/1420795939",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署 綾瀬駅西口交番",
+        "tags": {
+          "@id": "node/1420795939",
+          "amenity": "police",
+          "name": "綾瀬警察署 綾瀬駅西口交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8117847,
+          35.7643063
+        ]
+      },
+      "properties": {
+        "id": "node/1420795944",
+        "ward": "adachi",
+        "category": "police",
+        "name": "綾瀬警察署足立駐在所",
+        "tags": {
+          "@id": "node/1420795944",
+          "amenity": "police",
+          "name": "綾瀬警察署足立駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779622,
+          35.790975
+        ]
+      },
+      "properties": {
+        "id": "node/1420797745",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "西新井消防署",
+        "tags": {
+          "@id": "node/1420797745",
+          "addr:postcode": "121-0823",
+          "amenity": "fire_station",
+          "fax": "+81-3-38572369",
+          "name": "西新井消防署",
+          "name:en": "Nishiarai Fire Station",
+          "name:ja": "西新井消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38530119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-nisiarai/",
+          "wikidata": "Q11628302",
+          "wikipedia": "ja:西新井消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7609674,
+          35.7758974
+        ]
+      },
+      "properties": {
+        "id": "node/1420797746",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "西新井消防署上沼田出張所",
+        "tags": {
+          "@id": "node/1420797746",
+          "amenity": "fire_station",
+          "name": "西新井消防署上沼田出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7827352,
+          35.7787676
+        ]
+      },
+      "properties": {
+        "id": "node/1420797747",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "西新井消防署大師前出張所",
+        "tags": {
+          "@id": "node/1420797747",
+          "amenity": "fire_station",
+          "name": "西新井消防署大師前出張所",
+          "name:en": "Nishiarai Fire Station Daishimae Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7828,
+          35.7637873
+        ]
+      },
+      "properties": {
+        "id": "node/1420797748",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "西新井消防署本木出張所",
+        "tags": {
+          "@id": "node/1420797748",
+          "amenity": "fire_station",
+          "name": "西新井消防署本木出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810109,
+          35.7782571
+        ]
+      },
+      "properties": {
+        "id": "node/1420797750",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署大師前交番",
+        "tags": {
+          "@id": "node/1420797750",
+          "amenity": "police",
+          "name": "西新井警察署大師前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7557851,
+          35.7622169
+        ]
+      },
+      "properties": {
+        "id": "node/1420797751",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 宮城交番",
+        "tags": {
+          "@id": "node/1420797751",
+          "amenity": "police",
+          "name": "西新井警察署 宮城交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978116,
+          35.7820463
+        ]
+      },
+      "properties": {
+        "id": "node/1420797752",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 島根交番",
+        "tags": {
+          "@id": "node/1420797752",
+          "amenity": "police",
+          "name": "西新井警察署 島根交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7700087,
+          35.7680423
+        ]
+      },
+      "properties": {
+        "id": "node/1420797753",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 扇交番",
+        "tags": {
+          "@id": "node/1420797753",
+          "amenity": "police",
+          "name": "西新井警察署 扇交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.740126,
+          35.77381
+        ]
+      },
+      "properties": {
+        "id": "node/1420797754",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署新田交番",
+        "tags": {
+          "@id": "node/1420797754",
+          "amenity": "police",
+          "name": "西新井警察署新田交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826169,
+          35.7641012
+        ]
+      },
+      "properties": {
+        "id": "node/1420797755",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 本木交番",
+        "tags": {
+          "@id": "node/1420797755",
+          "amenity": "police",
+          "name": "西新井警察署 本木交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7856197,
+          35.7831703
+        ]
+      },
+      "properties": {
+        "id": "node/1420797756",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署栗原四丁目交番",
+        "tags": {
+          "@id": "node/1420797756",
+          "amenity": "police",
+          "name": "西新井警察署栗原四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.80356,
+          35.763422
+        ]
+      },
+      "properties": {
+        "id": "node/1420797758",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 梅田一丁目交番",
+        "tags": {
+          "@id": "node/1420797758",
+          "amenity": "police",
+          "name": "西新井警察署 梅田一丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978219,
+          35.7698499
+        ]
+      },
+      "properties": {
+        "id": "node/1420797759",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 梅田七丁目交番",
+        "tags": {
+          "@id": "node/1420797759",
+          "amenity": "police",
+          "name": "西新井警察署 梅田七丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7619409,
+          35.7688712
+        ]
+      },
+      "properties": {
+        "id": "node/1420797760",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署江北交番",
+        "tags": {
+          "@id": "node/1420797760",
+          "amenity": "police",
+          "name": "西新井警察署江北交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7622666,
+          35.7890614
+        ]
+      },
+      "properties": {
+        "id": "node/1420797761",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 皿沼交番",
+        "tags": {
+          "@id": "node/1420797761",
+          "amenity": "police",
+          "name": "西新井警察署 皿沼交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7791691,
+          35.7860023
+        ]
+      },
+      "properties": {
+        "id": "node/1420797762",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 西新井五丁目交番",
+        "tags": {
+          "@id": "node/1420797762",
+          "amenity": "police",
+          "name": "西新井警察署 西新井五丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7898379,
+          35.7768722
+        ]
+      },
+      "properties": {
+        "id": "node/1420797763",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 西新井駅前交番",
+        "tags": {
+          "@id": "node/1420797763",
+          "amenity": "police",
+          "name": "西新井警察署 西新井駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7887628,
+          35.7696305
+        ]
+      },
+      "properties": {
+        "id": "node/1420797764",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署 関原三丁目交番",
+        "tags": {
+          "@id": "node/1420797764",
+          "amenity": "police",
+          "name": "西新井警察署 関原三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7507655,
+          35.7787755
+        ]
+      },
+      "properties": {
+        "id": "node/1420797765",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署鹿浜交番",
+        "tags": {
+          "@id": "node/1420797765",
+          "amenity": "police",
+          "name": "西新井警察署鹿浜交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8028922,
+          35.7749365
+        ]
+      },
+      "properties": {
+        "id": "node/1420798527",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "足立消防署",
+        "tags": {
+          "@id": "node/1420798527",
+          "addr:postcode": "121-0816",
+          "amenity": "fire_station",
+          "fax": "+81-3-38480119",
+          "name": "足立消防署",
+          "name:en": "Adachi Fire Station",
+          "name:ja": "足立消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38520119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-adati/",
+          "wikidata": "Q11637015",
+          "wikipedia": "ja:足立消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8423263,
+          35.7754868
+        ]
+      },
+      "properties": {
+        "id": "node/1420798528",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "足立消防署大谷田出張所",
+        "tags": {
+          "@id": "node/1420798528",
+          "amenity": "fire_station",
+          "name": "足立消防署大谷田出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7975474,
+          35.7990822
+        ]
+      },
+      "properties": {
+        "id": "node/1420798529",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "足立消防署淵江出張所",
+        "tags": {
+          "@id": "node/1420798529",
+          "amenity": "fire_station",
+          "name": "足立消防署淵江出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8306857,
+          35.7901627
+        ]
+      },
+      "properties": {
+        "id": "node/1420798530",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "足立消防署神明出張所",
+        "tags": {
+          "@id": "node/1420798530",
+          "amenity": "fire_station",
+          "name": "足立消防署神明出張所",
+          "name:en": "Fire Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.817947,
+          35.7636217
+        ]
+      },
+      "properties": {
+        "id": "node/1420798531",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "足立消防署綾瀬出張所",
+        "tags": {
+          "@id": "node/1420798531",
+          "amenity": "fire_station",
+          "name": "足立消防署綾瀬出張所",
+          "name:en": "Fire Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7891494,
+          35.7734739
+        ]
+      },
+      "properties": {
+        "id": "node/2561707439",
+        "ward": "adachi",
+        "category": "police",
+        "name": "西新井警察署",
+        "tags": {
+          "@id": "node/2561707439",
+          "amenity": "police",
+          "name": "西新井警察署",
+          "wikidata": "Q11628306"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7704408,
+          35.8115932
+        ]
+      },
+      "properties": {
+        "id": "node/3406963034",
+        "ward": "adachi",
+        "category": "fire_station",
+        "name": "",
+        "tags": {
+          "@id": "node/3406963034",
+          "amenity": "fire_station"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8248918,
+          35.7767682
+        ]
+      },
+      "properties": {
+        "id": "node/4971770751",
+        "ward": "adachi",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4971770751",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7922766,
+          35.7437324
+        ]
+      },
+      "properties": {
+        "id": "node/6726357388",
+        "ward": "adachi",
+        "category": "police",
+        "name": "千住警察署 緑町交番",
+        "tags": {
+          "@id": "node/6726357388",
+          "amenity": "police",
+          "name": "千住警察署 緑町交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8087243,
+          35.7661671
+        ]
+      },
+      "properties": {
+        "id": "node/9899848214",
+        "ward": "adachi",
+        "category": "police",
+        "name": "五反野駅前交番",
+        "tags": {
+          "@id": "node/9899848214",
+          "amenity": "police",
+          "name": "五反野駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7455787,
+          35.7716156
+        ]
+      },
+      "properties": {
+        "id": "node/11139483993",
+        "ward": "adachi",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/11139483993",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.811297,
+          35.7443641
+        ]
+      },
+      "properties": {
+        "id": "node/11164252926",
+        "ward": "adachi",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11164252926",
+          "emergency": "defibrillator"
+        }
+      }
+    }
+  ]
+}

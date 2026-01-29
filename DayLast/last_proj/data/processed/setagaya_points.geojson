@@ -1,0 +1,2438 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6773572,
+          35.6618644
+        ]
+      },
+      "properties": {
+        "id": "way/27406744",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "東京大学 駒場リサーチキャンパス",
+        "tags": {
+          "@id": "way/27406744",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "東京大学 駒場リサーチキャンパス",
+          "name:en": "The University of Tokyo, Komaba Research Campus",
+          "name:es": "Universidad de Tokio (Campus de investigación Komaba)",
+          "wheelchair": "limited",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6608655,
+          35.6251896
+        ]
+      },
+      "properties": {
+        "id": "way/27620248",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "駒沢オリンピック公園総合運動場",
+        "tags": {
+          "@id": "way/27620248",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "駒沢オリンピック公園総合運動場",
+          "name:en": "Komazawa Olympic Park",
+          "name:es": "Parque Olímpico Komazawa",
+          "name:ja": "駒沢オリンピック公園",
+          "name:zh": "駒澤奧林匹克公園",
+          "source": "Bing",
+          "sport": "multi",
+          "wikidata": "Q2021485",
+          "wikipedia": "ja:駒沢オリンピック公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816177,
+          35.6437861
+        ]
+      },
+      "properties": {
+        "id": "way/107875788",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "世田谷公園",
+        "tags": {
+          "@id": "way/107875788",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "世田谷公園",
+          "name:en": "Setagaya Park",
+          "wikidata": "Q11362060",
+          "wikimedia_commons": "Category:Setagaya Park (Ikejiri, Setagaya-ku)",
+          "wikipedia": "ja:世田谷公園",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6802036,
+          35.6457309
+        ]
+      },
+      "properties": {
+        "id": "way/107875817",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "世田谷区立池尻小学校",
+        "tags": {
+          "@id": "way/107875817",
+          "addr:block_number": "4",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "10",
+          "addr:neighbourhood": "2",
+          "addr:postcode": "154-0001",
+          "addr:province": "東京都",
+          "addr:quarter": "池尻",
+          "amenity": "school",
+          "emergency": "assembly_point",
+          "fax": "+81 3 3424 2152",
+          "name": "世田谷区立池尻小学校",
+          "name:en": "Ikejiri Elementary School",
+          "name:ja": "世田谷区立池尻小学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "世田谷区教育委員会",
+          "operator:en": "Setagaya City Board of Education",
+          "operator:ja": "世田谷区教育委員会",
+          "operator:type": "public",
+          "operator:wikidata": "Q11362065",
+          "phone": "+81 3 3424 2410",
+          "source": "KSJ2;(URL) 2014",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://school.setagaya.ed.jp/iri/",
+          "wheelchair": "yes",
+          "wikidata": "Q81916813",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6848043,
+          35.6473637
+        ]
+      },
+      "properties": {
+        "id": "way/107875924",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "東山公園",
+        "tags": {
+          "@id": "way/107875924",
+          "emergency": "assembly_point",
+          "leisure": "park",
+          "name": "東山公園",
+          "note": "estimated",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5993807,
+          35.6400012
+        ]
+      },
+      "properties": {
+        "id": "way/121527588",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/121527588",
+          "amenity": "police",
+          "building": "yes",
+          "source": "Bing,2007-03",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6695434,
+          35.6628262
+        ]
+      },
+      "properties": {
+        "id": "way/134659972",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署下北沢交番",
+        "tags": {
+          "@id": "way/134659972",
+          "amenity": "police",
+          "building": "public",
+          "building:levels": "2",
+          "check_date": "2024-03-05",
+          "name": "北沢警察署下北沢交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "roof:levels": "0",
+          "roof:shape": "flat",
+          "source": "Bing,2007-04;KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6688974,
+          35.6505172
+        ]
+      },
+      "properties": {
+        "id": "way/168547452",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "世田谷区立太子堂中学校",
+        "tags": {
+          "@id": "way/168547452",
+          "addr:postcode": "154-0004",
+          "amenity": "school",
+          "check_date": "2024-01-04",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "世田谷区立太子堂中学校",
+          "name:en": "Taishidou Junior High School",
+          "name:ja": "世田谷区立太子堂中学校",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2;Bing 2007",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q81964054",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6687368,
+          35.648173
+        ]
+      },
+      "properties": {
+        "id": "way/196496521",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "太子堂地域安全センター",
+        "tags": {
+          "@id": "way/196496521",
+          "amenity": "police",
+          "building": "retail",
+          "name": "太子堂地域安全センター",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6369236,
+          35.6511253
+        ]
+      },
+      "properties": {
+        "id": "way/308543790",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "経堂駅前交番",
+        "tags": {
+          "@id": "way/308543790",
+          "amenity": "police",
+          "building": "yes",
+          "name": "経堂駅前交番",
+          "name:ja": "経堂駅前交番",
+          "name:ja-Latn": "Kyoudou Ekimae Koban",
+          "source": "GSI/KIBAN 2500; NARO",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6670113,
+          35.6403849
+        ]
+      },
+      "properties": {
+        "id": "way/310627516",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署",
+        "tags": {
+          "@id": "way/310627516",
+          "addr:block_number": "4",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "4",
+          "addr:neighbourhood": "2丁目",
+          "addr:postcode": "154-0024",
+          "addr:province": "東京都",
+          "addr:quarter": "三軒茶屋",
+          "amenity": "police",
+          "building": "yes",
+          "name": "世田谷警察署",
+          "operator": "警視庁第三方面本部",
+          "phone": "+81 3 3418 0110",
+          "wikidata": "Q11362105",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6663037,
+          35.6408568
+        ]
+      },
+      "properties": {
+        "id": "way/310627520",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署",
+        "tags": {
+          "@id": "way/310627520",
+          "addr:block_number": "33",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "21",
+          "addr:neighbourhood": "2丁目",
+          "addr:postcode": "154-0024",
+          "addr:province": "東京都",
+          "addr:quarter": "三軒茶屋",
+          "amenity": "fire_station",
+          "building": "yes",
+          "fax": "+81 3 3418 7570",
+          "name": "世田谷消防署",
+          "name:en": "Setagaya Fire Station",
+          "operator": "東京消防庁第三消防方面本部",
+          "phone": "+81 3 3412 0119",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6700734,
+          35.6644035
+        ]
+      },
+      "properties": {
+        "id": "way/342689132",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防団第九分団",
+        "tags": {
+          "@id": "way/342689132",
+          "amenity": "fire_station",
+          "building": "hut",
+          "name": "世田谷消防団第九分団",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6718666,
+          35.6040193
+        ]
+      },
+      "properties": {
+        "id": "way/404480887",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/404480887",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6094604,
+          35.6434992
+        ]
+      },
+      "properties": {
+        "id": "node/416999957",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署 祖師ヶ谷大蔵交番",
+        "tags": {
+          "@id": "node/416999957",
+          "amenity": "police",
+          "name": "成城警察署 祖師ヶ谷大蔵交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638961,
+          35.6655183
+        ]
+      },
+      "properties": {
+        "id": "node/428795253",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/428795253",
+          "amenity": "police",
+          "note": "交番",
+          "police": "box",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6519018,
+          35.6589635
+        ]
+      },
+      "properties": {
+        "id": "node/510336751",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署 松原出張所",
+        "tags": {
+          "@id": "node/510336751",
+          "amenity": "fire_station",
+          "name": "世田谷消防署 松原出張所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.61344,
+          35.6347526
+        ]
+      },
+      "properties": {
+        "id": "way/531915912",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "大蔵二丁目交番",
+        "tags": {
+          "@id": "way/531915912",
+          "amenity": "police",
+          "building": "yes",
+          "name": "大蔵二丁目交番",
+          "operator": "成城警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5993236,
+          35.6400648
+        ]
+      },
+      "properties": {
+        "id": "node/599261772",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/599261772",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6084581,
+          35.6481055
+        ]
+      },
+      "properties": {
+        "id": "node/601754753",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "祖師谷地域安全センター",
+        "tags": {
+          "@id": "node/601754753",
+          "amenity": "police",
+          "name": "祖師谷地域安全センター"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6405997,
+          35.6507969
+        ]
+      },
+      "properties": {
+        "id": "node/671240200",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署 宮の坂出張所",
+        "tags": {
+          "@id": "node/671240200",
+          "amenity": "fire_station",
+          "name": "世田谷消防署 宮の坂出張所",
+          "name:en": "Setagaya Fire Station Miyanosaka Branch"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6475267,
+          35.6135424
+        ]
+      },
+      "properties": {
+        "id": "node/1059689143",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署",
+        "tags": {
+          "@id": "node/1059689143",
+          "amenity": "police",
+          "name": "玉川警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11572597",
+          "wikipedia": "ja:玉川警察署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6500297,
+          35.668926
+        ]
+      },
+      "properties": {
+        "id": "way/1354403306",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "明大前駅前交番",
+        "tags": {
+          "@id": "way/1354403306",
+          "amenity": "police",
+          "building": "yes",
+          "name": "明大前駅前交番",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675878,
+          35.646352
+        ]
+      },
+      "properties": {
+        "id": "node/1420766097",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署三宿出張所",
+        "tags": {
+          "@id": "node/1420766097",
+          "amenity": "fire_station",
+          "name": "世田谷消防署三宿出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.628223,
+          35.662903
+        ]
+      },
+      "properties": {
+        "id": "node/1420766098",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署上北沢出張所",
+        "tags": {
+          "@id": "node/1420766098",
+          "KSJ2:ADS": "上北沢1-14-2",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "世田谷消防署上北沢出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6687067,
+          35.6601358
+        ]
+      },
+      "properties": {
+        "id": "node/1420766099",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署北沢出張所",
+        "tags": {
+          "@id": "node/1420766099",
+          "KSJ2:ADS": "北沢2-3-11",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "世田谷消防署北沢出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6480535,
+          35.6613087
+        ]
+      },
+      "properties": {
+        "id": "node/1420766101",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "世田谷消防署松原出張所",
+        "tags": {
+          "@id": "node/1420766101",
+          "addr:block_number": "26",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "21",
+          "addr:neighbourhood": "松原六丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "世田谷消防署松原出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6792414,
+          35.6451493
+        ]
+      },
+      "properties": {
+        "id": "node/1420766121",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署 三宿交番",
+        "tags": {
+          "@id": "node/1420766121",
+          "amenity": "police",
+          "name": "世田谷警察署 三宿交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6704034,
+          35.6436911
+        ]
+      },
+      "properties": {
+        "id": "node/1420766122",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署三軒茶屋交番",
+        "tags": {
+          "@id": "node/1420766122",
+          "KSJ2:ADS": "太子堂4-22-1",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "世田谷警察署三軒茶屋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6636503,
+          35.6350003
+        ]
+      },
+      "properties": {
+        "id": "node/1420766123",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署上馬交番",
+        "tags": {
+          "@id": "node/1420766123",
+          "addr:block_number": "2",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "4丁目",
+          "addr:postcode": "154-0011",
+          "addr:province": "東京都",
+          "addr:quarter": "上馬",
+          "amenity": "police",
+          "name": "世田谷警察署上馬交番",
+          "name:en": "Kamiuma Police Box",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81 03-3418-0110",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/setagaya/koban/01.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6789311,
+          35.6359561
+        ]
+      },
+      "properties": {
+        "id": "node/1420766124",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署下馬四丁目交番",
+        "tags": {
+          "@id": "node/1420766124",
+          "amenity": "police",
+          "name": "世田谷警察署下馬四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6512007,
+          35.6427105
+        ]
+      },
+      "properties": {
+        "id": "node/1420766125",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署世田谷交番",
+        "tags": {
+          "@id": "node/1420766125",
+          "amenity": "police",
+          "name": "世田谷警察署世田谷交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.640751,
+          35.640072
+        ]
+      },
+      "properties": {
+        "id": "node/1420766127",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署松ヶ丘交番",
+        "tags": {
+          "@id": "node/1420766127",
+          "KSJ2:ADS": "桜3-1-1",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "世田谷警察署松ヶ丘交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6225515,
+          35.6455607
+        ]
+      },
+      "properties": {
+        "id": "node/1420766128",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署 桜丘交番",
+        "tags": {
+          "@id": "node/1420766128",
+          "addr:block_number": "17",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "17",
+          "addr:neighbourhood": "5丁目",
+          "addr:postcode": "156-0054",
+          "addr:province": "東京都",
+          "addr:quarter": "桜岡",
+          "amenity": "police",
+          "name": "世田谷警察署 桜丘交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "世田谷警察署",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/setagaya/koban/07.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6440628,
+          35.6466525
+        ]
+      },
+      "properties": {
+        "id": "node/1420766129",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署 桜木駐在所",
+        "tags": {
+          "@id": "node/1420766129",
+          "amenity": "police",
+          "name": "世田谷警察署 桜木駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660582,
+          35.642295
+        ]
+      },
+      "properties": {
+        "id": "node/1420766130",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署若林交番",
+        "tags": {
+          "@id": "node/1420766130",
+          "amenity": "police",
+          "name": "世田谷警察署若林交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671693,
+          35.630046
+        ]
+      },
+      "properties": {
+        "id": "node/1420766131",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "世田谷警察署野沢地域安全センター",
+        "tags": {
+          "@id": "node/1420766131",
+          "addr:block_number": "1",
+          "addr:city": "世田谷区",
+          "addr:housenumber": "18",
+          "addr:neighbourhood": "4",
+          "addr:postcode": "154-0003",
+          "addr:province": "東京都",
+          "addr:quarter": "野沢",
+          "amenity": "police",
+          "name": "世田谷警察署野沢地域安全センター",
+          "source": "KSJ2;local knowledge",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/setagaya/koban/10.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6525145,
+          35.6579147
+        ]
+      },
+      "properties": {
+        "id": "node/1420768040",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署",
+        "tags": {
+          "@id": "node/1420768040",
+          "KSJ2:ADS": "松原6-4-14",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "北沢警察署",
+          "name:en": "Kitazawa Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "police": "station",
+          "source": "survey; KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11402333"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6597884,
+          35.6558809
+        ]
+      },
+      "properties": {
+        "id": "node/1420768042",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署宮前橋交番",
+        "tags": {
+          "@id": "node/1420768042",
+          "amenity": "police",
+          "name": "北沢警察署宮前橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673859,
+          35.655071
+        ]
+      },
+      "properties": {
+        "id": "node/1420768043",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署淡島交番",
+        "tags": {
+          "@id": "node/1420768043",
+          "amenity": "police",
+          "name": "北沢警察署淡島交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.636954,
+          35.6511338
+        ]
+      },
+      "properties": {
+        "id": "node/1420768045",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署経堂駅前交番",
+        "tags": {
+          "@id": "node/1420768045",
+          "amenity": "police",
+          "name": "北沢警察署経堂駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658911,
+          35.6665758
+        ]
+      },
+      "properties": {
+        "id": "node/1420768046",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署羽根木交番",
+        "tags": {
+          "@id": "node/1420768046",
+          "amenity": "police",
+          "name": "北沢警察署羽根木交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6423805,
+          35.6571544
+        ]
+      },
+      "properties": {
+        "id": "node/1420768047",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "北沢警察署 赤堤交番",
+        "tags": {
+          "@id": "node/1420768047",
+          "amenity": "police",
+          "name": "北沢警察署 赤堤交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6011323,
+          35.6355326
+        ]
+      },
+      "properties": {
+        "id": "node/1420780403",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "成城消防署",
+        "tags": {
+          "@id": "node/1420780403",
+          "addr:postcode": "157-0066",
+          "amenity": "fire_station",
+          "fax": "+81-3-34151190",
+          "name": "成城消防署",
+          "name:en": "Seijyo Fire Station",
+          "name:ja": "成城消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "operator": "東京消防庁第三消防方面本部",
+          "phone": "+81-3-34160119",
+          "source": "KSJ2; (URL)",
+          "website": "http://www.tfd.metro.tokyo.jp/",
+          "wikidata": "Q11495409",
+          "wikipedia": "ja:成城消防署"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612586,
+          35.658986
+        ]
+      },
+      "properties": {
+        "id": "node/1420780404",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "成城消防署千歳出張所",
+        "tags": {
+          "@id": "node/1420780404",
+          "KSJ2:ADS": "千歳台4-29-9",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "成城消防署千歳出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.596448,
+          35.668179
+        ]
+      },
+      "properties": {
+        "id": "node/1420780405",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "成城消防署烏山出張所",
+        "tags": {
+          "@id": "node/1420780405",
+          "KSJ2:ADS": "南烏山6-14-12",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "成城消防署烏山出張所",
+          "name:en": "Karasuyama branch Seijo Fire Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6159218,
+          35.6520515
+        ]
+      },
+      "properties": {
+        "id": "node/1420780406",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署",
+        "tags": {
+          "@id": "node/1420780406",
+          "amenity": "police",
+          "name": "成城警察署",
+          "name:en": "Seijyo Police Station",
+          "name:ja": "成城警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11495412"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6231928,
+          35.6686489
+        ]
+      },
+      "properties": {
+        "id": "node/1420780407",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署上北沢駅前交番",
+        "tags": {
+          "@id": "node/1420780407",
+          "amenity": "police",
+          "name": "成城警察署上北沢駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5962945,
+          35.6572341
+        ]
+      },
+      "properties": {
+        "id": "node/1420780408",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署上祖師谷駐在所",
+        "tags": {
+          "@id": "node/1420780408",
+          "amenity": "police",
+          "name": "成城警察署上祖師谷駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.591105,
+          35.6774003
+        ]
+      },
+      "properties": {
+        "id": "node/1420780412",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署北烏山駐在所",
+        "tags": {
+          "@id": "node/1420780412",
+          "KSJ2:ADS": "北烏山8-21-22",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "成城警察署北烏山駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6092004,
+          35.658237
+        ]
+      },
+      "properties": {
+        "id": "node/1420780417",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署千歳台交番",
+        "tags": {
+          "@id": "node/1420780417",
+          "amenity": "police",
+          "name": "成城警察署千歳台交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6234415,
+          35.6473774
+        ]
+      },
+      "properties": {
+        "id": "node/1420780420",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署千歳船橋駅前交番",
+        "tags": {
+          "@id": "node/1420780420",
+          "amenity": "police",
+          "name": "成城警察署千歳船橋駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5878089,
+          35.6371041
+        ]
+      },
+      "properties": {
+        "id": "node/1420780421",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署 喜多見駅前交番",
+        "tags": {
+          "@id": "node/1420780421",
+          "amenity": "police",
+          "name": "成城警察署 喜多見駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "police": "box",
+          "source": "survey; KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599727,
+          35.62724
+        ]
+      },
+      "properties": {
+        "id": "node/1420780422",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署喜多見駐在所",
+        "tags": {
+          "@id": "node/1420780422",
+          "amenity": "police",
+          "name": "成城警察署喜多見駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.620475,
+          35.627212
+        ]
+      },
+      "properties": {
+        "id": "node/1420780424",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署岡本駐在所",
+        "tags": {
+          "@id": "node/1420780424",
+          "amenity": "police",
+          "name": "成城警察署岡本駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.599171,
+          35.64046
+        ]
+      },
+      "properties": {
+        "id": "node/1420780425",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署成城交番",
+        "tags": {
+          "@id": "node/1420780425",
+          "amenity": "police",
+          "name": "成城警察署成城交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6038246,
+          35.6316948
+        ]
+      },
+      "properties": {
+        "id": "node/1420780426",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署 東宝前交番",
+        "tags": {
+          "@id": "node/1420780426",
+          "amenity": "police",
+          "name": "成城警察署 東宝前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598781,
+          35.679289
+        ]
+      },
+      "properties": {
+        "id": "node/1420780427",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署松葉通駐在所",
+        "tags": {
+          "@id": "node/1420780427",
+          "KSJ2:ADS": "北烏山2-9-10",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "成城警察署松葉通駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6290751,
+          35.663101
+        ]
+      },
+      "properties": {
+        "id": "node/1420780428",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署桜上水交番",
+        "tags": {
+          "@id": "node/1420780428",
+          "amenity": "police",
+          "name": "成城警察署桜上水交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6059938,
+          35.6713725
+        ]
+      },
+      "properties": {
+        "id": "node/1420780429",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署烏山下宿交番",
+        "tags": {
+          "@id": "node/1420780429",
+          "amenity": "police",
+          "name": "成城警察署烏山下宿交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.608948,
+          35.642849
+        ]
+      },
+      "properties": {
+        "id": "node/1420780432",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署祖師谷大蔵交番",
+        "tags": {
+          "@id": "node/1420780432",
+          "KSJ2:ADS": "砧6-39-7",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "成城警察署祖師谷大蔵交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5925523,
+          35.6681445
+        ]
+      },
+      "properties": {
+        "id": "node/1420780433",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署給田交番",
+        "tags": {
+          "@id": "node/1420780433",
+          "amenity": "police",
+          "name": "成城警察署給田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6230995,
+          35.6569345
+        ]
+      },
+      "properties": {
+        "id": "node/1420780434",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署船橋交番",
+        "tags": {
+          "@id": "node/1420780434",
+          "KSJ2:ADS": "船橋6-26-10",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "成城警察署船橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6140077,
+          35.6627186
+        ]
+      },
+      "properties": {
+        "id": "node/1420780435",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署芦花公園前交番",
+        "tags": {
+          "@id": "node/1420780435",
+          "amenity": "police",
+          "name": "成城警察署芦花公園前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.612393,
+          35.62088
+        ]
+      },
+      "properties": {
+        "id": "node/1420780436",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署鎌田駐在所",
+        "tags": {
+          "@id": "node/1420780436",
+          "amenity": "police",
+          "name": "成城警察署鎌田駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6486131,
+          35.6147659
+        ]
+      },
+      "properties": {
+        "id": "node/1420789762",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "玉川消防署",
+        "tags": {
+          "@id": "node/1420789762",
+          "amenity": "fire_station",
+          "fax": "+81-3-37050124",
+          "name": "玉川消防署",
+          "name:en": "Tamagawa Fire Station",
+          "name:ja": "玉川消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第三消防方面本部",
+          "phone": "+81-3-37050119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64925,
+          35.628602
+        ]
+      },
+      "properties": {
+        "id": "node/1420789772",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "玉川消防署新町出張所",
+        "tags": {
+          "@id": "node/1420789772",
+          "KSJ2:ADS": "新町1-22-11",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "玉川消防署新町出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632946,
+          35.624741
+        ]
+      },
+      "properties": {
+        "id": "node/1420789773",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "玉川消防署用賀出張所",
+        "tags": {
+          "@id": "node/1420789773",
+          "KSJ2:ADS": "玉川台1-13-10",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "市区町村",
+          "amenity": "fire_station",
+          "name": "玉川消防署用賀出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6383048,
+          35.6121887
+        ]
+      },
+      "properties": {
+        "id": "node/1420789783",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署上野毛交番",
+        "tags": {
+          "@id": "node/1420789783",
+          "amenity": "police",
+          "name": "玉川警察署上野毛交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.661722,
+          35.605965
+        ]
+      },
+      "properties": {
+        "id": "node/1420789791",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署九品仏交番",
+        "tags": {
+          "@id": "node/1420789791",
+          "KSJ2:ADS": "奥沢7-34-1",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "玉川警察署九品仏交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62767,
+          35.612076
+        ]
+      },
+      "properties": {
+        "id": "node/1420789795",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署二子玉川交番",
+        "tags": {
+          "@id": "node/1420789795",
+          "amenity": "police",
+          "name": "玉川警察署二子玉川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6718851,
+          35.6040197
+        ]
+      },
+      "properties": {
+        "id": "node/1420789800",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署奥沢駅前交番",
+        "tags": {
+          "@id": "node/1420789800",
+          "KSJ2:ADS": "奥沢2-9-20",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "玉川警察署奥沢駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653417,
+          35.607354
+        ]
+      },
+      "properties": {
+        "id": "node/1420789806",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署尾山台駅前交番",
+        "tags": {
+          "@id": "node/1420789806",
+          "KSJ2:ADS": "等々力5-5-7",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "玉川警察署尾山台駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651584,
+          35.602188
+        ]
+      },
+      "properties": {
+        "id": "node/1420789810",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署尾山台駐在所",
+        "tags": {
+          "@id": "node/1420789810",
+          "amenity": "police",
+          "name": "玉川警察署尾山台駐在所",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675789,
+          35.5966354
+        ]
+      },
+      "properties": {
+        "id": "node/1420789817",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署東玉川交番",
+        "tags": {
+          "@id": "node/1420789817",
+          "amenity": "police",
+          "name": "玉川警察署東玉川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643997,
+          35.6285365
+        ]
+      },
+      "properties": {
+        "id": "node/1420789820",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署桜新町交番",
+        "tags": {
+          "@id": "node/1420789820",
+          "amenity": "police",
+          "name": "玉川警察署桜新町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6535362,
+          35.620997
+        ]
+      },
+      "properties": {
+        "id": "node/1420789827",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署深沢交番",
+        "tags": {
+          "@id": "node/1420789827",
+          "amenity": "police",
+          "name": "玉川警察署深沢交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6305444,
+          35.6201597
+        ]
+      },
+      "properties": {
+        "id": "node/1420789829",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署瀬田交番",
+        "tags": {
+          "@id": "node/1420789829",
+          "amenity": "police",
+          "name": "玉川警察署瀬田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.633891,
+          35.626657
+        ]
+      },
+      "properties": {
+        "id": "node/1420789837",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署用賀交番",
+        "tags": {
+          "@id": "node/1420789837",
+          "KSJ2:ADS": "用賀4-10-1",
+          "KSJ2:AdminArea": "東京都世田谷区",
+          "KSJ2:PubFacAdmin": "都道府県",
+          "amenity": "police",
+          "name": "玉川警察署用賀交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6477784,
+          35.60425
+        ]
+      },
+      "properties": {
+        "id": "node/1420789839",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署 等々力不動前駐在所",
+        "tags": {
+          "@id": "node/1420789839",
+          "amenity": "police",
+          "name": "玉川警察署 等々力不動前駐在所",
+          "source": "KSJ2"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632167,
+          35.6343488
+        ]
+      },
+      "properties": {
+        "id": "node/1420789840",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "玉川警察署馬事公苑前駐在所",
+        "tags": {
+          "@id": "node/1420789840",
+          "amenity": "police",
+          "name": "玉川警察署馬事公苑前駐在所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6293967,
+          35.6121308
+        ]
+      },
+      "properties": {
+        "id": "node/1870902191",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "二子玉川交番",
+        "tags": {
+          "@id": "node/1870902191",
+          "amenity": "police",
+          "name": "二子玉川交番",
+          "official_name": "玉川警察署二子玉川交番",
+          "operator": "玉川警察署",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6652349,
+          35.660686
+        ]
+      },
+      "properties": {
+        "id": "node/3248874508",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "坂田社会保険労務士事務所",
+        "tags": {
+          "@id": "node/3248874508",
+          "amenity": "police",
+          "name": "坂田社会保険労務士事務所",
+          "source": "survey",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6633719,
+          35.6616909
+        ]
+      },
+      "properties": {
+        "id": "node/3622933941",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "土のうステーション",
+        "tags": {
+          "@id": "node/3622933941",
+          "emergency": "assembly_point",
+          "name": "土のうステーション",
+          "note": "土のうステーション",
+          "source": "survey",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6632605,
+          35.6618854
+        ]
+      },
+      "properties": {
+        "id": "node/3622933942",
+        "ward": "setagaya",
+        "category": "assembly_point",
+        "name": "土のうステーション",
+        "tags": {
+          "@id": "node/3622933942",
+          "emergency": "assembly_point",
+          "name": "土のうステーション",
+          "note": "ゲリラ豪雨の時に住宅内浸水を軽減するときに活用下さい。",
+          "source": "survey",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6218056,
+          35.6633818
+        ]
+      },
+      "properties": {
+        "id": "node/5409670939",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "八幡山駐在所",
+        "tags": {
+          "@id": "node/5409670939",
+          "amenity": "police",
+          "name": "八幡山駐在所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6726216,
+          35.6015953
+        ]
+      },
+      "properties": {
+        "id": "node/5450668248",
+        "ward": "setagaya",
+        "category": "fire_station",
+        "name": "玉川消防署 奥沢消防出張所",
+        "tags": {
+          "@id": "node/5450668248",
+          "amenity": "fire_station",
+          "name": "玉川消防署 奥沢消防出張所",
+          "name:ja": "玉川消防署 奥沢消防出張所",
+          "operator": "東京消防庁",
+          "website": "https://www.tfd.metro.tokyo.lg.jp/fs/tamagawa/index.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5911405,
+          35.6774145
+        ]
+      },
+      "properties": {
+        "id": "node/6222091819",
+        "ward": "setagaya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6222091819",
+          "defibrillator:location": "交番の中",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "opening_hours": "24/7"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6260619,
+          35.6136528
+        ]
+      },
+      "properties": {
+        "id": "node/11245253441",
+        "ward": "setagaya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11245253441",
+          "defibrillator:location": "明友不動産内",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "operator": "明友不動産"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6672499,
+          35.6615281
+        ]
+      },
+      "properties": {
+        "id": "node/12345928804",
+        "ward": "setagaya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12345928804",
+          "emergency": "defibrillator",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6006969,
+          35.6698256
+        ]
+      },
+      "properties": {
+        "id": "node/12347208870",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "成城警察署烏山交番",
+        "tags": {
+          "@id": "node/12347208870",
+          "amenity": "police",
+          "name": "成城警察署烏山交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6674024,
+          35.6615636
+        ]
+      },
+      "properties": {
+        "id": "node/12347851441",
+        "ward": "setagaya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12347851441",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5991101,
+          35.6401877
+        ]
+      },
+      "properties": {
+        "id": "node/12369110331",
+        "ward": "setagaya",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12369110331",
+          "emergency": "defibrillator",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6471164,
+          35.6540488
+        ]
+      },
+      "properties": {
+        "id": "node/12818712641",
+        "ward": "setagaya",
+        "category": "police",
+        "name": "豪徳寺駅前交番",
+        "tags": {
+          "@id": "node/12818712641",
+          "amenity": "police",
+          "check_date": "2025-03-20",
+          "name": "豪徳寺駅前交番"
+        }
+      }
+    }
+  ]
+}

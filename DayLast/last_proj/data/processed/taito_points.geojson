@@ -1,0 +1,2732 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7959822,
+          35.7243118
+        ]
+      },
+      "properties": {
+        "id": "relation/17689406",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 吉原交番",
+        "tags": {
+          "@id": "relation/17689406",
+          "amenity": "police",
+          "level": "0",
+          "name": "浅草警察署 吉原交番",
+          "name:en": "Yoshiwara Police Station",
+          "name:ja-Hira": "あさくさけいさつしょよしわらこうばん",
+          "operator": "浅草警察署",
+          "phone": "+81-3-3871-0110",
+          "polling_station": "no",
+          "type": "multipolygon",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/asakusa/koban/02.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7710493,
+          35.7068962
+        ]
+      },
+      "properties": {
+        "id": "way/72463705",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "台東区立 黒門小学校",
+        "tags": {
+          "@id": "way/72463705",
+          "addr:block_number": "16",
+          "addr:housenumber": "20",
+          "addr:neighbourhood": "1丁目",
+          "addr:quarter": "上野",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "name": "台東区立 黒門小学校",
+          "name:en": "Kuromon Elementary School",
+          "name:es": "Escuela de primaria de Kuromon",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.taitocity.net/kuromon-es/",
+          "wheelchair": "yes",
+          "wikidata": "Q11411963",
+          "wikimedia_commons": "Category:Taito Municipal Kuromon Elementary School",
+          "wikipedia": "ja:台東区立黒門小学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7980297,
+          35.7107556
+        ]
+      },
+      "properties": {
+        "id": "way/98468920",
+        "ward": "taito",
+        "category": "police",
+        "name": "花川戸交番",
+        "tags": {
+          "@id": "way/98468920",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2025-10-25",
+          "name": "花川戸交番",
+          "name:en": "Koban",
+          "source": "Bing, 2007-04",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826375,
+          35.7115077
+        ]
+      },
+      "properties": {
+        "id": "way/144791580",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署稲荷町交番",
+        "tags": {
+          "@id": "way/144791580",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "上野警察署稲荷町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "storeys": "3",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7898985,
+          35.7012223
+        ]
+      },
+      "properties": {
+        "id": "way/145647124",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署",
+        "tags": {
+          "@id": "way/145647124",
+          "amenity": "police",
+          "building": "yes",
+          "name": "蔵前警察署",
+          "name:en": "Kuramae Police Station",
+          "source": "Bing",
+          "wikidata": "Q11621891",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7978835,
+          35.7245028
+        ]
+      },
+      "properties": {
+        "id": "way/145667033",
+        "ward": "taito",
+        "category": "police",
+        "name": "第六方面本部",
+        "tags": {
+          "@id": "way/145667033",
+          "amenity": "police",
+          "building": "yes",
+          "name": "第六方面本部",
+          "name:en": "The 6th District Headquarters",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "official_name": "警視庁第六方面本部",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810316,
+          35.7121001
+        ]
+      },
+      "properties": {
+        "id": "way/146352410",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "上野消防署",
+        "tags": {
+          "@id": "way/146352410",
+          "addr:block_number": "2",
+          "addr:neighbourhood": "5丁目",
+          "addr:postcode": "110-0015",
+          "addr:quarter": "東上野",
+          "amenity": "fire_station",
+          "building": "yes",
+          "building:levels": "4",
+          "name": "上野消防署",
+          "name:en": "Ueno Fire Station",
+          "name:ja": "上野消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38410119",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-ueno/",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7941836,
+          35.7046239
+        ]
+      },
+      "properties": {
+        "id": "way/158817747",
+        "ward": "taito",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/158817747",
+          "amenity": "police",
+          "building": "yes",
+          "source": "bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7840601,
+          35.7054885
+        ]
+      },
+      "properties": {
+        "id": "way/166180125",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "浅草消防団第二分団本部",
+        "tags": {
+          "@id": "way/166180125",
+          "addr:block_number": "9",
+          "addr:neighbourhood": "2丁目",
+          "addr:quarter": "小島",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "浅草消防団第二分団本部",
+          "source": "survey",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7964387,
+          35.7110225
+        ]
+      },
+      "properties": {
+        "id": "way/173154794",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署雷門交番",
+        "tags": {
+          "@id": "way/173154794",
+          "amenity": "police",
+          "building": "yes",
+          "name": "浅草警察署雷門交番",
+          "name:en": "Koban",
+          "name:ja": "浅草警察署雷門交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7762066,
+          35.7024444
+        ]
+      },
+      "properties": {
+        "id": "way/196306507",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署台東交番",
+        "tags": {
+          "@id": "way/196306507",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "上野警察署台東交番",
+          "roof:shape": "flat",
+          "source": "Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7848753,
+          35.7065997
+        ]
+      },
+      "properties": {
+        "id": "way/198109381",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署小島二丁目交番",
+        "tags": {
+          "@id": "way/198109381",
+          "addr:block_number": "18",
+          "addr:housenumber": "19",
+          "addr:neighbourhood": "2丁目",
+          "addr:quarter": "小島",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "蔵前警察署小島二丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7935645,
+          35.7036218
+        ]
+      },
+      "properties": {
+        "id": "way/200681420",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "東京消防庁第六消防方面本部",
+        "tags": {
+          "@id": "way/200681420",
+          "addr:block_number": "10",
+          "addr:city": "台東区",
+          "addr:housenumber": "9",
+          "addr:neighbourhood": "2丁目",
+          "addr:postcode": "111-0051",
+          "addr:province": "東京都",
+          "addr:quarter": "蔵前",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "東京消防庁第六消防方面本部",
+          "operator": "東京消防庁",
+          "source": "Bing, 2013-01",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7722344,
+          35.7065658
+        ]
+      },
+      "properties": {
+        "id": "way/208679264",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "黒門児童遊園",
+        "tags": {
+          "@id": "way/208679264",
+          "access": "yes",
+          "bicycle": "no",
+          "emergency": "assembly_point",
+          "leisure": "playground",
+          "name": "黒門児童遊園",
+          "name:en": "Kuromon childrens' park",
+          "name:ja-Hira": "くろもんじどうゆうえん",
+          "shelter_type:en": "Temporary natural disaster evacuation area",
+          "shelter_type:ja": "一時避難場所",
+          "smoking": "no",
+          "source": "survey",
+          "surface": "paving_stones",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7687065,
+          35.7124573
+        ]
+      },
+      "properties": {
+        "id": "way/217420934",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署池之端交番",
+        "tags": {
+          "@id": "way/217420934",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "上野警察署池之端交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7842328,
+          35.7009945
+        ]
+      },
+      "properties": {
+        "id": "way/229969774",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "浅草橋消防団第一分団本部",
+        "tags": {
+          "@id": "way/229969774",
+          "addr:block_number": "8",
+          "addr:housenumber": "8",
+          "addr:neighbourhood": "3丁目",
+          "addr:quarter": "浅草橋",
+          "amenity": "fire_station",
+          "building": "yes",
+          "name": "浅草橋消防団第一分団本部",
+          "source": "GSI/KIBAN 25000; NARO",
+          "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7883996,
+          35.7182545
+        ]
+      },
+      "properties": {
+        "id": "way/231169802",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署 入谷東交番",
+        "tags": {
+          "@id": "way/231169802",
+          "addr:block_number": "26",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "4丁目",
+          "addr:quarter": "松が谷",
+          "amenity": "police",
+          "building": "yes",
+          "name": "下谷警察署 入谷東交番",
+          "name:en": "Shitaya Police Station Iriyaazuma Police Box",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7764133,
+          35.7059325
+        ]
+      },
+      "properties": {
+        "id": "way/231439651",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署御徒町交番",
+        "tags": {
+          "@id": "way/231439651",
+          "addr:block_number": "8",
+          "addr:housenumber": "3",
+          "addr:neighbourhood": "4丁目",
+          "addr:quarter": "台東",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "3",
+          "name": "上野警察署御徒町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7737853,
+          35.71087
+        ]
+      },
+      "properties": {
+        "id": "way/332624615",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署公園前交番",
+        "tags": {
+          "@id": "way/332624615",
+          "addr:block_number": "1",
+          "addr:housenumber": "65",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "check_date": "2025-12-12",
+          "name": "上野警察署公園前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7745843,
+          35.7153795
+        ]
+      },
+      "properties": {
+        "id": "way/402875409",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署動物園前交番",
+        "tags": {
+          "@id": "way/402875409",
+          "amenity": "police",
+          "building": "yes",
+          "building:colour": "grey",
+          "building:levels": "2",
+          "building:material": "metal",
+          "building:use": "government",
+          "height": "10m",
+          "layer": "-1",
+          "name": "上野警察署動物園前交番",
+          "name:en": "Ueno police station zoo front police box",
+          "name:ja-Latn": "Ueno Keisatsusho Dōbutsuen mae Kōban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "roof:material": "metal",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706255,
+          35.7251599
+        ]
+      },
+      "properties": {
+        "id": "way/518703123",
+        "ward": "taito",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/518703123",
+          "amenity": "police",
+          "building": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7918201,
+          35.7116111
+        ]
+      },
+      "properties": {
+        "id": "node/1148821018",
+        "ward": "taito",
+        "category": "police",
+        "name": "田原町交番",
+        "tags": {
+          "@id": "node/1148821018",
+          "amenity": "police",
+          "name": "田原町交番",
+          "name:en": "Taharacho Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.783819,
+          35.721845
+        ]
+      },
+      "properties": {
+        "id": "node/1420765907",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "上野消防署下谷出張所",
+        "tags": {
+          "@id": "node/1420765907",
+          "amenity": "fire_station",
+          "name": "上野消防署下谷出張所",
+          "name:en": "Shitaya Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7685906,
+          35.7200032
+        ]
+      },
+      "properties": {
+        "id": "node/1420765908",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "上野消防署谷中出張所",
+        "tags": {
+          "@id": "node/1420765908",
+          "amenity": "fire_station",
+          "name": "上野消防署谷中出張所",
+          "name:en": "Ueno Fire Station Yanaka Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.779459,
+          35.712346
+        ]
+      },
+      "properties": {
+        "id": "node/1420765910",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署",
+        "tags": {
+          "@id": "node/1420765910",
+          "amenity": "police",
+          "name": "上野警察署",
+          "name:en": "Ueno Police Station",
+          "name:es": "Estación de policía Ueno",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11360456"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.776626,
+          35.712318
+        ]
+      },
+      "properties": {
+        "id": "node/1420765911",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署上野駅交番",
+        "tags": {
+          "@id": "node/1420765911",
+          "amenity": "police",
+          "name": "上野警察署上野駅交番",
+          "name:en": "Koban",
+          "name:es": "Policía",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772291,
+          35.7066715
+        ]
+      },
+      "properties": {
+        "id": "node/1420765918",
+        "ward": "taito",
+        "category": "police",
+        "name": "上野警察署黒門交番",
+        "tags": {
+          "@id": "node/1420765918",
+          "addr:housenumber": "13",
+          "amenity": "police",
+          "name": "上野警察署黒門交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7879508,
+          35.7259025
+        ]
+      },
+      "properties": {
+        "id": "node/1420765959",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署",
+        "tags": {
+          "@id": "node/1420765959",
+          "amenity": "police",
+          "name": "下谷警察署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11361340"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7905373,
+          35.7284229
+        ]
+      },
+      "properties": {
+        "id": "node/1420765960",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署三ノ輪交番",
+        "tags": {
+          "@id": "node/1420765960",
+          "amenity": "police",
+          "name": "下谷警察署三ノ輪交番",
+          "name:en": "Koban",
+          "name:ja": "下谷警察署三ノ輪交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7647883,
+          35.7243282
+        ]
+      },
+      "properties": {
+        "id": "node/1420765963",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署 初音交番",
+        "tags": {
+          "@id": "node/1420765963",
+          "amenity": "police",
+          "name": "下谷警察署 初音交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706233,
+          35.7251579
+        ]
+      },
+      "properties": {
+        "id": "node/1420765964",
+        "ward": "taito",
+        "category": "police",
+        "name": "天王寺駐在所",
+        "tags": {
+          "@id": "node/1420765964",
+          "amenity": "police",
+          "name": "天王寺駐在所",
+          "name:en": "Tennoji Chuzaisho (Police Box)",
+          "name:fr": "Bureau de police de Tennō-ji",
+          "name:ja-Hira": "てんのうじ ちゅうざいしょ",
+          "name:ja-Latn": "Tennō-ji chūzaijo",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7698964,
+          35.7171354
+        ]
+      },
+      "properties": {
+        "id": "node/1420765965",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署 清水坂 地域安全センター",
+        "tags": {
+          "@id": "node/1420765965",
+          "amenity": "police",
+          "name": "下谷警察署 清水坂 地域安全センター",
+          "name:ja_rm": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706448,
+          35.7218719
+        ]
+      },
+      "properties": {
+        "id": "node/1420765966",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署 谷中交番",
+        "tags": {
+          "@id": "node/1420765966",
+          "amenity": "police",
+          "name": "下谷警察署 谷中交番",
+          "name:en": "Shitaya Police Station Yanaka Koban",
+          "name:ja-Latn": "Shitaya Police Station Yanaka Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7778544,
+          35.7228986
+        ]
+      },
+      "properties": {
+        "id": "node/1420765967",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署鶯谷駅前交番",
+        "tags": {
+          "@id": "node/1420765967",
+          "amenity": "police",
+          "name": "下谷警察署鶯谷駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7980469,
+          35.7233907
+        ]
+      },
+      "properties": {
+        "id": "node/1420781022",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "日本堤消防署",
+        "tags": {
+          "@id": "node/1420781022",
+          "addr:block_number": "1",
+          "addr:city": "台東区",
+          "addr:neighbourhood": "千束四丁目",
+          "addr:postcode": "111-0031",
+          "addr:province": "東京都",
+          "addr:quarter": "東浅草",
+          "amenity": "fire_station",
+          "fax": "+81-3-38720499",
+          "name": "日本堤消防署",
+          "name:en": "Nihonzutsumi Fire Station",
+          "name:ja": "日本堤消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38750119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-nihondutumi/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797707,
+          35.714262
+        ]
+      },
+      "properties": {
+        "id": "node/1420781028",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "日本堤消防署二天門出張所",
+        "tags": {
+          "@id": "node/1420781028",
+          "amenity": "fire_station",
+          "check_date": "2023-01-08",
+          "name": "日本堤消防署二天門出張所",
+          "name:en": "Nitemmon Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.804707,
+          35.722346
+        ]
+      },
+      "properties": {
+        "id": "node/1420781029",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "日本堤消防署今戸出張所",
+        "tags": {
+          "@id": "node/1420781029",
+          "amenity": "fire_station",
+          "name": "日本堤消防署今戸出張所",
+          "name:en": "Nihonzutsumi Fire Station Imado Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7940495,
+          35.7074022
+        ]
+      },
+      "properties": {
+        "id": "node/1420788005",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "浅草消防署",
+        "tags": {
+          "@id": "node/1420788005",
+          "addr:postcode": "111-0043",
+          "amenity": "fire_station",
+          "fax": "+81-3-38470146",
+          "name": "浅草消防署",
+          "name:en": "Asakusa Fire Station",
+          "name:es": "Estación de bomberos Asakusa",
+          "name:ja": "浅草消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第六消防方面本部",
+          "phone": "+81-3-38470119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-asakusa/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.78407,
+          35.7013922
+        ]
+      },
+      "properties": {
+        "id": "node/1420788014",
+        "ward": "taito",
+        "category": "fire_station",
+        "name": "浅草消防署浅草橋出張所",
+        "tags": {
+          "@id": "node/1420788014",
+          "amenity": "fire_station",
+          "name": "浅草消防署浅草橋出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797846,
+          35.718984
+        ]
+      },
+      "properties": {
+        "id": "node/1420788015",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署",
+        "tags": {
+          "@id": "node/1420788015",
+          "amenity": "police",
+          "name": "浅草警察署",
+          "name:en": "Asakusa Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11557240"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7934642,
+          35.7137827
+        ]
+      },
+      "properties": {
+        "id": "node/1420788020",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署公園六区交番",
+        "tags": {
+          "@id": "node/1420788020",
+          "addr:block_number": "6",
+          "addr:city": "台東区",
+          "addr:housenumber": "6",
+          "addr:neighbourhood": "浅草二丁目",
+          "addr:postcode": "111-0032",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "浅草警察署公園六区交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/asakusa/koban/05.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8013729,
+          35.7229992
+        ]
+      },
+      "properties": {
+        "id": "node/1420788033",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 東浅草交番",
+        "tags": {
+          "@id": "node/1420788033",
+          "amenity": "police",
+          "name": "浅草警察署 東浅草交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8045611,
+          35.7264194
+        ]
+      },
+      "properties": {
+        "id": "node/1420788042",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 橋場交番",
+        "tags": {
+          "@id": "node/1420788042",
+          "amenity": "police",
+          "name": "浅草警察署 橋場交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.802013,
+          35.715596
+        ]
+      },
+      "properties": {
+        "id": "node/1420788047",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 聖天町交番",
+        "tags": {
+          "@id": "node/1420788047",
+          "amenity": "police",
+          "name": "浅草警察署 聖天町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7924136,
+          35.7171625
+        ]
+      },
+      "properties": {
+        "id": "node/1420788057",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 西浅草三丁目交番",
+        "tags": {
+          "@id": "node/1420788057",
+          "amenity": "police",
+          "name": "浅草警察署 西浅草三丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.797313,
+          35.7140387
+        ]
+      },
+      "properties": {
+        "id": "node/1420788062",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署観音前交番",
+        "tags": {
+          "@id": "node/1420788062",
+          "amenity": "police",
+          "name": "浅草警察署観音前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7884119,
+          35.7105111
+        ]
+      },
+      "properties": {
+        "id": "node/1420797314",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署 田原町交番",
+        "tags": {
+          "@id": "node/1420797314",
+          "amenity": "police",
+          "name": "蔵前警察署 田原町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.791736,
+          35.711679
+        ]
+      },
+      "properties": {
+        "id": "node/1420797315",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署菊屋橋交番",
+        "tags": {
+          "@id": "node/1420797315",
+          "amenity": "police",
+          "name": "蔵前警察署菊屋橋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.794184,
+          35.7046217
+        ]
+      },
+      "properties": {
+        "id": "node/1420797326",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署蔵前二丁目交番",
+        "tags": {
+          "@id": "node/1420797326",
+          "amenity": "police",
+          "name": "蔵前警察署蔵前二丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7883814,
+          35.700147
+        ]
+      },
+      "properties": {
+        "id": "node/1420797327",
+        "ward": "taito",
+        "category": "police",
+        "name": "蔵前警察署須賀橋交番",
+        "tags": {
+          "@id": "node/1420797327",
+          "amenity": "police",
+          "name": "蔵前警察署須賀橋交番",
+          "name:en": "Sugabashi Police Box, Kuramae Police",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8045788,
+          35.7264185
+        ]
+      },
+      "properties": {
+        "id": "node/3937845866",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/3937845866",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7712096,
+          35.7190121
+        ]
+      },
+      "properties": {
+        "id": "node/4218454492",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4218454492",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7777295,
+          35.7016651
+        ]
+      },
+      "properties": {
+        "id": "node/4978408687",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4978408687",
+          "emergency": "defibrillator",
+          "indoor": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772158,
+          35.7126699
+        ]
+      },
+      "properties": {
+        "id": "node/4987634539",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4987634539",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7741627,
+          35.7035081
+        ]
+      },
+      "properties": {
+        "id": "node/4988082708",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/4988082708",
+          "emergency": "defibrillator",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772738,
+          35.7156957
+        ]
+      },
+      "properties": {
+        "id": "node/5002440882",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5002440882",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7682442,
+          35.7140017
+        ]
+      },
+      "properties": {
+        "id": "node/5003040584",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5003040584",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7689883,
+          35.7145936
+        ]
+      },
+      "properties": {
+        "id": "node/5003047240",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5003047240",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7723013,
+          35.7066592
+        ]
+      },
+      "properties": {
+        "id": "node/5006985219",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5006985219",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7815532,
+          35.7095676
+        ]
+      },
+      "properties": {
+        "id": "node/5008659526",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5008659526",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7816565,
+          35.7095289
+        ]
+      },
+      "properties": {
+        "id": "node/5008659527",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5008659527",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7686887,
+          35.7124527
+        ]
+      },
+      "properties": {
+        "id": "node/5025610500",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5025610500",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826482,
+          35.7112843
+        ]
+      },
+      "properties": {
+        "id": "node/5036630953",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5036630953",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7737849,
+          35.7108585
+        ]
+      },
+      "properties": {
+        "id": "node/5055630509",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5055630509",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7790943,
+          35.7203914
+        ]
+      },
+      "properties": {
+        "id": "node/5117147537",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5117147537",
+          "defibrillator:location": "改札入ってすぐ右の壁面",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7720991,
+          35.7161321
+        ]
+      },
+      "properties": {
+        "id": "node/5126290125",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5126290125",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7707825,
+          35.7175269
+        ]
+      },
+      "properties": {
+        "id": "node/5154790818",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5154790818",
+          "defibrillator:location": "入って左の壁",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7838029,
+          35.6974727
+        ]
+      },
+      "properties": {
+        "id": "node/5185152675",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5185152675",
+          "access": "yes",
+          "defibrillator:location": "浅草橋駅構内",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7764136,
+          35.70594
+        ]
+      },
+      "properties": {
+        "id": "node/5231956149",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5231956149",
+          "defibrillator:location": "交番内1Fの壁に設置",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7748147,
+          35.7075466
+        ]
+      },
+      "properties": {
+        "id": "node/5259440532",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5259440532",
+          "defibrillator:location": "御徒町駅改札脇柱、改札内・改札外どちらからでも届く場所",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7778415,
+          35.7228904
+        ]
+      },
+      "properties": {
+        "id": "node/5259456380",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5259456380",
+          "access": "permissive",
+          "defibrillator:location": "交番建物内1F",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7738653,
+          35.7065985
+        ]
+      },
+      "properties": {
+        "id": "node/5303070186",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5303070186",
+          "defibrillator:location": "駐車場の出入口を入って右の壁 (営業時間外は閉鎖)",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7746871,
+          35.7067423
+        ]
+      },
+      "properties": {
+        "id": "node/5456979879",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5456979879",
+          "access": "customers",
+          "defibrillator:location": "改札内・精算機の脇",
+          "emergency": "defibrillator",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7831791,
+          35.6997024
+        ]
+      },
+      "properties": {
+        "id": "node/5525436410",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "柳北公園 一時集合場所",
+        "tags": {
+          "@id": "node/5525436410",
+          "emergency": "assembly_point",
+          "name": "柳北公園 一時集合場所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7762052,
+          35.7024534
+        ]
+      },
+      "properties": {
+        "id": "node/5568283708",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5568283708",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7833169,
+          35.699463
+        ]
+      },
+      "properties": {
+        "id": "node/5580605949",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5580605949",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7848721,
+          35.7066173
+        ]
+      },
+      "properties": {
+        "id": "node/5582687550",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5582687550",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7785775,
+          35.7032883
+        ]
+      },
+      "properties": {
+        "id": "node/5592737110",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "一時集合場所",
+        "tags": {
+          "@id": "node/5592737110",
+          "emergency": "assembly_point",
+          "name": "一時集合場所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7835391,
+          35.705554
+        ]
+      },
+      "properties": {
+        "id": "node/5602363696",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/5602363696",
+          "emergency": "assembly_point"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7810957,
+          35.7014391
+        ]
+      },
+      "properties": {
+        "id": "node/5752967072",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5752967072",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7816268,
+          35.7144961
+        ]
+      },
+      "properties": {
+        "id": "node/5950436522",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5950436522",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7826323,
+          35.7115115
+        ]
+      },
+      "properties": {
+        "id": "node/6167679480",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6167679480",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7731552,
+          35.7071763
+        ]
+      },
+      "properties": {
+        "id": "node/6202597860",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6202597860",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7895635,
+          35.7174697
+        ]
+      },
+      "properties": {
+        "id": "node/6960268986",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/6960268986",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7753386,
+          35.7028219
+        ]
+      },
+      "properties": {
+        "id": "node/7180365976",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7180365976",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7735565,
+          35.7029685
+        ]
+      },
+      "properties": {
+        "id": "node/7180365980",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7180365980",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7671875,
+          35.7101763
+        ]
+      },
+      "properties": {
+        "id": "node/7196512582",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7196512582",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7698987,
+          35.7171292
+        ]
+      },
+      "properties": {
+        "id": "node/7374387123",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7374387123",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7942034,
+          35.7046298
+        ]
+      },
+      "properties": {
+        "id": "node/7658485491",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7658485491",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7812157,
+          35.7026137
+        ]
+      },
+      "properties": {
+        "id": "node/8166867974",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/8166867974",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.788404,
+          35.7182523
+        ]
+      },
+      "properties": {
+        "id": "node/8244845970",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/8244845970",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7706373,
+          35.7218855
+        ]
+      },
+      "properties": {
+        "id": "node/8491447531",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/8491447531",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8000153,
+          35.7274185
+        ]
+      },
+      "properties": {
+        "id": "node/9175936542",
+        "ward": "taito",
+        "category": "police",
+        "name": "浅草警察署 日本堤交番",
+        "tags": {
+          "@id": "node/9175936542",
+          "amenity": "police",
+          "name": "浅草警察署 日本堤交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7896921,
+          35.7037428
+        ]
+      },
+      "properties": {
+        "id": "node/9956466591",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/9956466591",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7739073,
+          35.7038519
+        ]
+      },
+      "properties": {
+        "id": "node/10219741801",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10219741801",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7722473,
+          35.7065527
+        ]
+      },
+      "properties": {
+        "id": "node/10219741802",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10219741802",
+          "emergency": "assembly_point"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7890157,
+          35.7039933
+        ]
+      },
+      "properties": {
+        "id": "node/10219741803",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10219741803",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7824249,
+          35.7019696
+        ]
+      },
+      "properties": {
+        "id": "node/10248569878",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "NBK浅草橋ビル前周辺 一時集合場所",
+        "tags": {
+          "@id": "node/10248569878",
+          "emergency": "assembly_point",
+          "name": "NBK浅草橋ビル前周辺 一時集合場所"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7892136,
+          35.7004498
+        ]
+      },
+      "properties": {
+        "id": "node/10613392558",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10613392558",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7780509,
+          35.7019724
+        ]
+      },
+      "properties": {
+        "id": "node/10680972840",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10680972840",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7803207,
+          35.7055736
+        ]
+      },
+      "properties": {
+        "id": "node/10773558185",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/10773558185",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7736212,
+          35.7074905
+        ]
+      },
+      "properties": {
+        "id": "node/10914283020",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "松坂屋東側路上",
+        "tags": {
+          "@id": "node/10914283020",
+          "emergency": "assembly_point",
+          "name": "松坂屋東側路上"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7924304,
+          35.7171908
+        ]
+      },
+      "properties": {
+        "id": "node/11228362388",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11228362388",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7705847,
+          35.7251529
+        ]
+      },
+      "properties": {
+        "id": "node/11399750369",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11399750369",
+          "access": "customers",
+          "check_date": "2023-12-07",
+          "defibrillator:location:en": "In the police station",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7835417,
+          35.7190034
+        ]
+      },
+      "properties": {
+        "id": "node/11900345797",
+        "ward": "taito",
+        "category": "police",
+        "name": "下谷警察署入谷西交番",
+        "tags": {
+          "@id": "node/11900345797",
+          "amenity": "police",
+          "name": "下谷警察署入谷西交番",
+          "name:en": "Koban",
+          "source": "Bing"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7951191,
+          35.7237634
+        ]
+      },
+      "properties": {
+        "id": "node/11953767636",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11953767636",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7956974,
+          35.7220448
+        ]
+      },
+      "properties": {
+        "id": "node/11969585100",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11969585100",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7768461,
+          35.7178949
+        ]
+      },
+      "properties": {
+        "id": "node/12113963885",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12113963885",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7743513,
+          35.7186821
+        ]
+      },
+      "properties": {
+        "id": "node/12116359883",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12116359883",
+          "access": "permissive",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7878728,
+          35.6994217
+        ]
+      },
+      "properties": {
+        "id": "node/12452331940",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12452331940",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7939393,
+          35.7064811
+        ]
+      },
+      "properties": {
+        "id": "node/12455796509",
+        "ward": "taito",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12455796509",
+          "defibrillator:location": "It's in the entrance and easily visible from outside.",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7733258,
+          35.7029245
+        ]
+      },
+      "properties": {
+        "id": "node/12798816667",
+        "ward": "taito",
+        "category": "assembly_point",
+        "name": "",
+        "tags": {
+          "@id": "node/12798816667",
+          "emergency": "assembly_point",
+          "source": "survey"
+        }
+      }
+    }
+  ]
+}

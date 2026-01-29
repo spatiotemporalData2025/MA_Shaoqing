@@ -1,0 +1,1646 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T07:43:07Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102544353",
+        "amenity": "fire_station",
+        "name": "杉並消防署高井戸出張所",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619324,
+          35.6864498
+        ]
+      },
+      "id": "way/102544353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102915091",
+        "amenity": "police",
+        "name": "高井戸警察署",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6115752,
+          35.6910124
+        ]
+      },
+      "id": "way/102915091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131847309",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6074744,
+          35.7115195
+        ]
+      },
+      "id": "way/131847309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146464818",
+        "amenity": "police",
+        "name": "杉並警察署高円寺交番",
+        "source": "Bing,2007-03",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6559105,
+          35.6981714
+        ]
+      },
+      "id": "way/146464818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200165799",
+        "amenity": "fire_station",
+        "building": "yes",
+        "source": "image,2013-01;Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5985716,
+          35.6843436
+        ]
+      },
+      "id": "way/200165799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210226024",
+        "amenity": "police",
+        "building": "yes",
+        "name": "高井戸警察署 和泉地域安全センター",
+        "source": "image,2013-03;Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6535533,
+          35.6709149
+        ]
+      },
+      "id": "way/210226024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248023263",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Bing;GSI/KIBAN 2500",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6066187,
+          35.6829554
+        ]
+      },
+      "id": "way/248023263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306712831",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "杉並第二分団",
+        "source": "GSI/KIBAN 2500; NARO",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6516413,
+          35.6917119
+        ]
+      },
+      "id": "way/306712831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/315103743",
+        "amenity": "police",
+        "building": "yes",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6178293,
+          35.6880052
+        ]
+      },
+      "id": "way/315103743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/423149705",
+        "amenity": "police",
+        "name": "永福町駅前交番",
+        "police": "box",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6437347,
+          35.6760888
+        ]
+      },
+      "id": "node/423149705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/504228860",
+        "amenity": "police",
+        "name": "方南交番",
+        "note": "交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.656335,
+          35.686177
+        ]
+      },
+      "id": "node/504228860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/654741025",
+        "addr:city": "杉並区",
+        "addr:neighbourhood": "四丁目",
+        "addr:province": "東京都",
+        "addr:quarter": "高円寺南",
+        "amenity": "police",
+        "building": "yes",
+        "name": "杉並警察署 高円寺南四丁目交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "警視庁",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6525863,
+          35.7026131
+        ]
+      },
+      "id": "way/654741025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1014549927",
+        "amenity": "police",
+        "name": "杉並警察署天神橋交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6252251,
+          35.6956316
+        ]
+      },
+      "id": "node/1014549927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1026499081",
+        "amenity": "police",
+        "name": "荻窪五丁目交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6170894,
+          35.7011625
+        ]
+      },
+      "id": "node/1026499081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069536941",
+        "amenity": "police",
+        "name": "荻窪警察署 今川交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6060311,
+          35.7192018
+        ]
+      },
+      "id": "node/1069536941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1391320011",
+        "amenity": "police",
+        "name": "杉並警察署",
+        "name:en": "Suginami Police Station",
+        "name:ja": "杉並警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "official_name": "警視庁杉並警察署",
+        "operator": "警視庁第四方面本部",
+        "source": "Bing,2007-03;KSJ2;(URL) 2013",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "https://www.keishicho.metro.tokyo.jp/4/suginami/",
+        "wikidata": "Q11521713",
+        "wikipedia": "ja:杉並警察署",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6362362,
+          35.6988265
+        ]
+      },
+      "id": "way/1391320011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782199",
+        "addr:postcode": "166-0004",
+        "amenity": "fire_station",
+        "check_date": "2024-11-12",
+        "fax": "+81-3-33982209",
+        "name": "杉並消防署",
+        "name:en": "Suginami Fire Station",
+        "name:ja": "杉並消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第四消防方面本部",
+        "phone": "+81-3-33930119",
+        "source": "KSJ2;(URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-suginami/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6336861,
+          35.7004344
+        ]
+      },
+      "id": "node/1420782199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782200",
+        "KSJ2:ADS": "堀ノ内2-12-17",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "杉並消防署堀ノ内出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65525,
+          35.6879831
+        ]
+      },
+      "id": "node/1420782200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782201",
+        "KSJ2:ADS": "下高井戸2-21-37",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "杉並消防署 永福出張所",
+        "name:en": "Eifuku Branch Suginami Fire Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6415549,
+          35.6690689
+        ]
+      },
+      "id": "node/1420782201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782202",
+        "KSJ2:ADS": "阿佐谷北4-29-10",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "杉並消防署阿佐ヶ谷出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6379843,
+          35.7129434
+        ]
+      },
+      "id": "node/1420782202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782203",
+        "amenity": "fire_station",
+        "name": "杉並消防署馬橋出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.644137,
+          35.697954
+        ]
+      },
+      "id": "node/1420782203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782204",
+        "KSJ2:ADS": "高井戸東3-32-2",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "杉並消防署高井戸出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619195,
+          35.686538
+        ]
+      },
+      "id": "node/1420782204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782205",
+        "KSJ2:ADS": "高円寺南5-20-8",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "杉並消防署高円寺出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6550811,
+          35.7028991
+        ]
+      },
+      "id": "node/1420782205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782213",
+        "amenity": "police",
+        "name": "杉並警察署和田本町交番",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6647749,
+          35.6902841
+        ]
+      },
+      "id": "node/1420782213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782214",
+        "addr:block_number": "49",
+        "addr:city": "杉並区",
+        "addr:housenumber": "26",
+        "addr:neighbourhood": "堀ノ内三丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "杉並警察署堀ノ内交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.654415,
+          35.691955
+        ]
+      },
+      "id": "node/1420782214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782216",
+        "amenity": "police",
+        "check_date": "2024-11-12",
+        "name": "杉並警察署成宗交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6289299,
+          35.7025967
+        ]
+      },
+      "id": "node/1420782216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782217",
+        "amenity": "police",
+        "name": "杉並警察署成田交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6383694,
+          35.6925406
+        ]
+      },
+      "id": "node/1420782217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782218",
+        "amenity": "police",
+        "name": "杉並警察署成田西駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.631055,
+          35.690927
+        ]
+      },
+      "id": "node/1420782218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782219",
+        "amenity": "police",
+        "name": "杉並警察署新高円寺駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6490257,
+          35.698002
+        ]
+      },
+      "id": "node/1420782219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782220",
+        "amenity": "police",
+        "name": "杉並警察署東田町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6387906,
+          35.6981572
+        ]
+      },
+      "id": "node/1420782220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782221",
+        "amenity": "police",
+        "name": "松ノ木地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6444576,
+          35.6924794
+        ]
+      },
+      "id": "node/1420782221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782222",
+        "amenity": "police",
+        "name": "杉並警察署阿佐谷北交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6381265,
+          35.7129505
+        ]
+      },
+      "id": "node/1420782222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782223",
+        "amenity": "police",
+        "name": "杉並警察署阿佐谷駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6361398,
+          35.7046637
+        ]
+      },
+      "id": "node/1420782223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782224",
+        "KSJ2:ADS": "高円寺南1-11-1",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "杉並警察署高円寺交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6559096,
+          35.6981663
+        ]
+      },
+      "id": "node/1420782224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420782226",
+        "amenity": "police",
+        "name": "杉並警察署高円寺駅前交番",
+        "name:en": "Koenji Station Police Box",
+        "name:ja": "杉並警察署高円寺駅前交番",
+        "name:ja-Hira": "すぎなみけいさつしょこうえんじえきまえこうばん",
+        "name:ja_rm": "Suginami Keisatsusho Koenji Ekimae Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6503542,
+          35.7055907
+        ]
+      },
+      "id": "node/1420782226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796916",
+        "KSJ2:ADS": "下井草3-30-10",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "荻窪消防署下井草出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6241654,
+          35.7224913
+        ]
+      },
+      "id": "node/1420796916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796927",
+        "KSJ2:ADS": "久我山2-11-7",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "amenity": "fire_station",
+        "name": "荻窪消防署久我山出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598586,
+          35.684399
+        ]
+      },
+      "id": "node/1420796927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796932",
+        "amenity": "fire_station",
+        "name": "荻窪消防署天沼出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6283024,
+          35.7116688
+        ]
+      },
+      "id": "node/1420796932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796942",
+        "amenity": "police",
+        "name": "荻窪警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "https://www.keishicho.metro.tokyo.jp/4/ogikubo/",
+        "wikidata": "Q11619017",
+        "wikipedia": "ja:荻窪警察署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.607473,
+          35.711424
+        ]
+      },
+      "id": "node/1420796942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796952",
+        "amenity": "police",
+        "name": "荻窪警察署上井草駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6034168,
+          35.7250422
+        ]
+      },
+      "id": "node/1420796952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796957",
+        "amenity": "police",
+        "name": "荻窪警察署 神明駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6100535,
+          35.700682
+        ]
+      },
+      "id": "node/1420796957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796967",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "addr:block_number": "44",
+        "addr:city": "杉並区",
+        "addr:housenumber": "13",
+        "addr:neighbourhood": "下井草二丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "荻窪警察署下井草駅前交番",
+        "name:ja": "荻窪警察署下井草駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.624166,
+          35.723784
+        ]
+      },
+      "id": "node/1420796967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796968",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "addr:block_number": "23",
+        "addr:city": "杉並区",
+        "addr:housenumber": "14",
+        "addr:neighbourhood": "下井草五丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "check_date": "2024-11-13",
+        "name": "荻窪警察署井荻駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6146682,
+          35.7244974
+        ]
+      },
+      "id": "node/1420796968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796983",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "addr:block_number": "34",
+        "addr:city": "杉並区",
+        "addr:housenumber": "19",
+        "addr:neighbourhood": "善福寺一丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "荻窪警察署善福寺交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5966223,
+          35.7168246
+        ]
+      },
+      "id": "node/1420796983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796988",
+        "amenity": "police",
+        "name": "荻窪警察署 地蔵坂地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5952909,
+          35.7093253
+        ]
+      },
+      "id": "node/1420796988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796994",
+        "amenity": "police",
+        "name": "荻窪警察署天沼交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6269235,
+          35.7117471
+        ]
+      },
+      "id": "node/1420796994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420796996",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "addr:block_number": "3",
+        "addr:city": "杉並区",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "桃井四丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "荻窪警察署桃井四丁目交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6020571,
+          35.7122985
+        ]
+      },
+      "id": "node/1420796996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797007",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "addr:block_number": "21",
+        "addr:city": "杉並区",
+        "addr:housenumber": "30",
+        "addr:neighbourhood": "清水三丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "check_date": "2024-11-13",
+        "name": "荻窪警察署清水交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6189211,
+          35.7169868
+        ]
+      },
+      "id": "node/1420797007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797018",
+        "amenity": "police",
+        "name": "荻窪警察署荻窪駅北口交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6205077,
+          35.7052301
+        ]
+      },
+      "id": "node/1420797018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797021",
+        "KSJ2:ADS": "荻窪5-31-9",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "荻窪警察署荻窪駅南口交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6208562,
+          35.704312
+        ]
+      },
+      "id": "node/1420797021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797025",
+        "KSJ2:ADS": "西荻北3-1-16",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "荻窪警察署西荻窪交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5997564,
+          35.7040654
+        ]
+      },
+      "id": "node/1420797025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797100",
+        "addr:postcode": "167-0034",
+        "amenity": "fire_station",
+        "fax": "+81-3-33950120",
+        "name": "荻窪消防署",
+        "name:en": "Ogikubo Fire Station",
+        "name:ja": "荻窪消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第四消防方面本部",
+        "phone": "+81-3-33950119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-ogikubo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6061908,
+          35.7115795
+        ]
+      },
+      "id": "node/1420797100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420797101",
+        "amenity": "fire_station",
+        "name": "萩窪消防署西萩出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5995103,
+          35.6974816
+        ]
+      },
+      "id": "node/1420797101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800157",
+        "KSJ2:ADS": "宮前1-16-1",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6115303,
+          35.6909234
+        ]
+      },
+      "id": "node/1420800157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800158",
+        "KSJ2:ADS": "上高井戸1-13-2",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署上高井戸交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6139557,
+          35.6720363
+        ]
+      },
+      "id": "node/1420800158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800159",
+        "amenity": "police",
+        "name": "高井戸警察署下高井戸交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6389621,
+          35.6671838
+        ]
+      },
+      "id": "node/1420800159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800160",
+        "KSJ2:ADS": "久我山3-23-20",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署久我山交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59928,
+          35.687288
+        ]
+      },
+      "id": "node/1420800160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800161",
+        "amenity": "police",
+        "name": "高井戸警察署久我山四丁目駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5957592,
+          35.6928593
+        ]
+      },
+      "id": "node/1420800161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800162",
+        "KSJ2:ADS": "和泉2-5-10",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署和泉地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653554,
+          35.670902
+        ]
+      },
+      "id": "node/1420800162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800163",
+        "amenity": "police",
+        "name": "高井戸警察署大宮八幡駐在所",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.64311,
+          35.682206
+        ]
+      },
+      "id": "node/1420800163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800164",
+        "amenity": "police",
+        "name": "高井戸警察署 宗源寺前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6299764,
+          35.6699136
+        ]
+      },
+      "id": "node/1420800164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800165",
+        "amenity": "police",
+        "name": "高井戸警察署宮前駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6090597,
+          35.6914923
+        ]
+      },
+      "id": "node/1420800165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800166",
+        "amenity": "police",
+        "name": "高井戸警察署富士見ヶ丘駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6066077,
+          35.6829523
+        ]
+      },
+      "id": "node/1420800166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800167",
+        "amenity": "police",
+        "name": "高井戸警察署方南交番",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.657276,
+          35.681179
+        ]
+      },
+      "id": "node/1420800167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800169",
+        "amenity": "police",
+        "name": "高井戸警察署泉南交番",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.658331,
+          35.675513
+        ]
+      },
+      "id": "node/1420800169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800170",
+        "KSJ2:ADS": "浜田山4-15-2",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署浜田山交番",
+        "name:ja": "高井戸警察署浜田山交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626938,
+          35.684956
+        ]
+      },
+      "id": "node/1420800170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800171",
+        "amenity": "police",
+        "name": "高井戸警察署西永福駅前交番",
+        "source": "KSJ2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6358256,
+          35.6785426
+        ]
+      },
+      "id": "node/1420800171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800172",
+        "amenity": "police",
+        "name": "高井戸警察署西荻南交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.600011,
+          35.6970935
+        ]
+      },
+      "id": "node/1420800172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800173",
+        "amenity": "police",
+        "name": "高井戸警察署高井戸東地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6178297,
+          35.6879957
+        ]
+      },
+      "id": "node/1420800173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800174",
+        "KSJ2:ADS": "高井戸西1-27-5",
+        "KSJ2:AdminArea": "東京都杉並区",
+        "KSJ2:PubFacAdmin": "都道府県",
+        "amenity": "police",
+        "name": "高井戸警察署高井戸西交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6148666,
+          35.6816667
+        ]
+      },
+      "id": "node/1420800174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2186278971",
+        "amenity": "police",
+        "name": "警視庁杉並警察署浜田山駐在所",
+        "source": "image,2013-03;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6308204,
+          35.6907517
+        ]
+      },
+      "id": "node/2186278971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561135934",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6066501,
+          35.6829389
+        ]
+      },
+      "id": "node/2561135934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2561135940",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "source": "image,2013-12;GSI/KIBAN 2500",
+        "source_ref": "http://wiki.osm.org/wiki/GSI_KIBAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6070256,
+          35.6836089
+        ]
+      },
+      "id": "node/2561135940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2697022953",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "opening_hours": "04:36-01:03",
+        "source": "image,2014-01;Bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6075371,
+          35.684675
+        ]
+      },
+      "id": "node/2697022953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945058765",
+        "amenity": "police",
+        "name": "久我山交番",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5995638,
+          35.6866526
+        ]
+      },
+      "id": "node/4945058765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5967976403",
+        "access": "customers",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6129683,
+          35.7021656
+        ]
+      },
+      "id": "node/5967976403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7217788886",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6111746,
+          35.6829071
+        ]
+      },
+      "id": "node/7217788886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7256927306",
+        "access": "yes",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "opening_hours": "24/7",
+        "operator": "警視庁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.609052,
+          35.69147
+        ]
+      },
+      "id": "node/7256927306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7353195247",
+        "amenity": "fire_station",
+        "name": "荻窪消防団第三分隊本部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5977944,
+          35.7159361
+        ]
+      },
+      "id": "node/7353195247"
+    }
+  ]
+}

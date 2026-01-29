@@ -1,0 +1,1232 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T07:45:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157263587",
+        "amenity": "police",
+        "building": "yes",
+        "source": "Bing,2007-03",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6456925,
+          35.7706485
+        ]
+      },
+      "id": "way/157263587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/179895099",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "志村消防署志村坂上出張所",
+        "name:en": "Fire Substation",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6973432,
+          35.7737117
+        ]
+      },
+      "id": "way/179895099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389492592",
+        "amenity": "police",
+        "building": "yes",
+        "name": "民間 森の番所",
+        "operator": "南ときわ台民間交番運営委員会",
+        "source": "source=GSImaps/ort",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6881083,
+          35.7584525
+        ]
+      },
+      "id": "way/389492592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/426893504",
+        "amenity": "police",
+        "name": "板橋警察署 上板橋駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6770326,
+          35.763517
+        ]
+      },
+      "id": "node/426893504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/525097847",
+        "addr:city": "板橋区",
+        "addr:province": "東京都",
+        "addr:quarter": "熊野町",
+        "amenity": "police",
+        "building": "yes",
+        "name": "板橋警察署熊野交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "警視庁",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7059345,
+          35.7421114
+        ]
+      },
+      "id": "way/525097847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/609932448",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6770291,
+          35.7635131
+        ]
+      },
+      "id": "way/609932448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668093092",
+        "addr:housenumber": "3",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6815563,
+          35.7843418
+        ]
+      },
+      "id": "way/668093092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780221",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "17",
+        "addr:city": "板橋区",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "相生町",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "fax": "+81 3-5398-2555",
+        "name": "志村消防署",
+        "name:en": "Shimura Fire Station",
+        "name:ja": "志村消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "東京消防庁第十消防方面本部",
+        "phone": "+81 3-5398-0119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-simura/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678659,
+          35.777196
+        ]
+      },
+      "id": "node/1420780221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780229",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "30",
+        "addr:city": "板橋区",
+        "addr:housenumber": "12",
+        "addr:neighbourhood": "成増一丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "志村消防署成増出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6301727,
+          35.7770768
+        ]
+      },
+      "id": "node/1420780229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780234",
+        "amenity": "fire_station",
+        "name": "志村消防署 蓮根出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6815681,
+          35.7843442
+        ]
+      },
+      "id": "node/1420780234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780239",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "1",
+        "addr:city": "板橋区",
+        "addr:housenumber": "10",
+        "addr:neighbourhood": "赤塚三丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "志村消防署赤塚出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6402508,
+          35.7769603
+        ]
+      },
+      "id": "node/1420780239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780244",
+        "amenity": "fire_station",
+        "name": "志村消防署 高島平出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6578912,
+          35.7861931
+        ]
+      },
+      "id": "node/1420780244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780249",
+        "amenity": "police",
+        "name": "志村警察署",
+        "name:en": "Shimura Police Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11491032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6993228,
+          35.7726921
+        ]
+      },
+      "id": "node/1420780249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780250",
+        "amenity": "police",
+        "name": "志村警察署 中台三丁目交番",
+        "name:ja": "志村警察署 中台三丁目交番",
+        "name:ja-Hira": "しむらけいさつしょ なかだいさんちょうめこうばん",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.677869,
+          35.7745702
+        ]
+      },
+      "id": "node/1420780250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780251",
+        "amenity": "police",
+        "name": "志村警察署 中台交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6764025,
+          35.7687595
+        ]
+      },
+      "id": "node/1420780251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780252",
+        "amenity": "police",
+        "name": "志村警察署 前野町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6951023,
+          35.7662213
+        ]
+      },
+      "id": "node/1420780252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780253",
+        "amenity": "police",
+        "name": "志村警察署北前野地域安全センター",
+        "name:en": "Local Security Center",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.688936,
+          35.771614
+        ]
+      },
+      "id": "node/1420780253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780254",
+        "amenity": "police",
+        "name": "志村警察署坂上交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694403,
+          35.7765479
+        ]
+      },
+      "id": "node/1420780254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780255",
+        "amenity": "police",
+        "name": "志村警察署 坂下交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6847005,
+          35.7878838
+        ]
+      },
+      "id": "node/1420780255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780256",
+        "amenity": "police",
+        "name": "志村警察署小豆沢交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701685,
+          35.774503
+        ]
+      },
+      "id": "node/1420780256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780257",
+        "amenity": "police",
+        "name": "志村警察署戸田橋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6855815,
+          35.7962341
+        ]
+      },
+      "id": "node/1420780257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780258",
+        "amenity": "police",
+        "name": "志村警察署 清水交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7040637,
+          35.7659092
+        ]
+      },
+      "id": "node/1420780258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780259",
+        "amenity": "police",
+        "name": "志村警察署 蓮根交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6763857,
+          35.7803525
+        ]
+      },
+      "id": "node/1420780259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420780260",
+        "amenity": "police",
+        "name": "志村警察署 西台交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6704014,
+          35.773857
+        ]
+      },
+      "id": "node/1420780260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786143",
+        "addr:block_number": "60",
+        "addr:city": "板橋区",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "板橋二丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "fax": "03-3964-0605",
+        "name": "板橋消防署",
+        "name:en": "Itabashi Fire Station",
+        "name:ja": "板橋消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "phone": "03-3964-0119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-itabasi/index.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711102,
+          35.750145
+        ]
+      },
+      "id": "node/1420786143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786144",
+        "amenity": "fire_station",
+        "name": "板橋消防署小茂根出張所",
+        "name:en": "Itabashi Fire Station Komone Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.681898,
+          35.749186
+        ]
+      },
+      "id": "node/1420786144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786145",
+        "amenity": "fire_station",
+        "check_date": "2024-08-17",
+        "name": "板橋消防署常盤台出張所",
+        "name:en": "Itabashi Fire Station Tokiwadai Branch",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686464,
+          35.758671
+        ]
+      },
+      "id": "node/1420786145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786154",
+        "amenity": "police",
+        "name": "板橋警察署",
+        "name:en": "Itabashi Police Station",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11532682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710713,
+          35.750395
+        ]
+      },
+      "id": "node/1420786154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786156",
+        "addr:block_number": "33",
+        "addr:city": "板橋区",
+        "addr:housenumber": "2",
+        "addr:neighbourhood": "弥生町",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "板橋警察署中板橋交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "警視庁",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.695797,
+          35.755783
+        ]
+      },
+      "id": "node/1420786156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786157",
+        "amenity": "police",
+        "name": "板橋警察署 加賀交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7161486,
+          35.7532628
+        ]
+      },
+      "id": "node/1420786157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786158",
+        "amenity": "police",
+        "name": "板橋警察署 向原地域安全センター",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6854124,
+          35.7403809
+        ]
+      },
+      "id": "node/1420786158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786159",
+        "amenity": "police",
+        "name": "板橋警察署大山町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6971807,
+          35.7485412
+        ]
+      },
+      "id": "node/1420786159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786160",
+        "amenity": "police",
+        "name": "板橋警察署 大谷口交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6911159,
+          35.7461162
+        ]
+      },
+      "id": "node/1420786160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786161",
+        "amenity": "police",
+        "name": "板橋警察署 富士見交番",
+        "name:en": "Fujimi Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6971563,
+          35.7597925
+        ]
+      },
+      "id": "node/1420786161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786162",
+        "amenity": "police",
+        "name": "板橋警察署常盤台交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6900187,
+          35.7585929
+        ]
+      },
+      "id": "node/1420786162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786163",
+        "amenity": "police",
+        "name": "板橋警察署 平尾交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155152,
+          35.74906
+        ]
+      },
+      "id": "node/1420786163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786164",
+        "amenity": "police",
+        "name": "板橋警察署 東山町交番",
+        "name:en": "Koban",
+        "name:ja": "板橋警察署東山町交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6876379,
+          35.7552757
+        ]
+      },
+      "id": "node/1420786164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786165",
+        "amenity": "police",
+        "name": "板橋警察署 板橋本町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7077697,
+          35.7592239
+        ]
+      },
+      "id": "node/1420786165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786166",
+        "addr:block_number": "3",
+        "addr:city": "板橋区",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "桜川三丁目",
+        "addr:province": "東京都",
+        "amenity": "police",
+        "name": "板橋警察署桜川三丁目駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "警視庁",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.676243,
+          35.757504
+        ]
+      },
+      "id": "node/1420786166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786168",
+        "amenity": "police",
+        "name": "板橋警察署 茂呂交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6775504,
+          35.7477053
+        ]
+      },
+      "id": "node/1420786168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420786169",
+        "amenity": "police",
+        "name": "板橋警察署 養育院前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7017064,
+          35.7498544
+        ]
+      },
+      "id": "node/1420786169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800394",
+        "amenity": "police",
+        "name": "高島平警察署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wikidata": "Q11669641"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6587912,
+          35.7865804
+        ]
+      },
+      "id": "node/1420800394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800395",
+        "amenity": "police",
+        "name": "高島平警察署 上赤塚交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637888,
+          35.7819196
+        ]
+      },
+      "id": "node/1420800395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800396",
+        "amenity": "police",
+        "name": "高島平警察署 下赤塚交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6456964,
+          35.7706482
+        ]
+      },
+      "id": "node/1420800396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800397",
+        "amenity": "police",
+        "name": "高島平警察署 北野交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6617344,
+          35.7690973
+        ]
+      },
+      "id": "node/1420800397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800399",
+        "amenity": "police",
+        "name": "高島平警察署 成増駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6325992,
+          35.7770465
+        ]
+      },
+      "id": "node/1420800399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800400",
+        "amenity": "police",
+        "name": "高島平警察署 新河岸交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.663917,
+          35.7950655
+        ]
+      },
+      "id": "node/1420800400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800402",
+        "amenity": "police",
+        "name": "高島平警察署 笹目橋交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6442322,
+          35.7924281
+        ]
+      },
+      "id": "node/1420800402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800403",
+        "amenity": "police",
+        "name": "高島平警察署 西台駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6740596,
+          35.7866226
+        ]
+      },
+      "id": "node/1420800403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800404",
+        "amenity": "police",
+        "name": "高島平警察署 赤塚交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6347336,
+          35.775029
+        ]
+      },
+      "id": "node/1420800404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420800405",
+        "amenity": "police",
+        "name": "高島平警察署 高島平駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660177,
+          35.7884192
+        ]
+      },
+      "id": "node/1420800405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466743448",
+        "amenity": "police",
+        "name": "高島平警察署 徳丸駐在所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6593888,
+          35.7795504
+        ]
+      },
+      "id": "node/2466743448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466743449",
+        "amenity": "police",
+        "name": "高島平警察署 松月院前交番"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6475363,
+          35.7800981
+        ]
+      },
+      "id": "node/2466743449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181579846",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6859944,
+          35.7720313
+        ]
+      },
+      "id": "node/6181579846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12116504543",
+        "access": "permissive",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6897623,
+          35.7586619
+        ]
+      },
+      "id": "node/12116504543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12778805832",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6854033,
+          35.7403666
+        ]
+      },
+      "id": "node/12778805832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13174787825",
+        "access": "yes",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6334819,
+          35.7782388
+        ]
+      },
+      "id": "node/13174787825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13321817060",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6452238,
+          35.7920481
+        ]
+      },
+      "id": "node/13321817060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13325623024",
+        "emergency": "defibrillator",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6452238,
+          35.7920481
+        ]
+      },
+      "id": "node/13325623024"
+    }
+  ]
+}

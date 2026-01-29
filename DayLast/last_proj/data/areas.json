@@ -1,0 +1,27 @@
+{
+  "hachioji": { "name": "八王子市", "file": "hachioji_points.geojson" },
+
+  "shinjuku": { "name": "新宿区", "file": "shinjuku_points.geojson" },
+  "shibuya": { "name": "渋谷区", "file": "shibuya_points.geojson" },
+  "minato": { "name": "港区", "file": "minato_points.geojson" },
+  "chiyoda": { "name": "千代田区", "file": "chiyoda_points.geojson" },
+  "chuo": { "name": "中央区", "file": "chuo_points.geojson" },
+  "taito": { "name": "台東区", "file": "taito_points.geojson" },
+  "sumida": { "name": "墨田区", "file": "sumida_points.geojson" },
+  "koto": { "name": "江東区", "file": "koto_points.geojson" },
+  "shinagawa": { "name": "品川区", "file": "shinagawa_points.geojson" },
+  "meguro": { "name": "目黒区", "file": "meguro_points.geojson" },
+  "ota": { "name": "大田区", "file": "ota_points.geojson" },
+  "setagaya": { "name": "世田谷区", "file": "setagaya_points.geojson" },
+  "nakano": { "name": "中野区", "file": "nakano_points.geojson" },
+  "suginami": { "name": "杉並区", "file": "suginami_points.geojson" },
+  "toshima": { "name": "豊島区", "file": "toshima_points.geojson" },
+  "kita": { "name": "北区", "file": "kita_points.geojson" },
+  "arakawa": { "name": "荒川区", "file": "arakawa_points.geojson" },
+  "itabashi": { "name": "板橋区", "file": "itabashi_points.geojson" },
+  "nerima": { "name": "練馬区", "file": "nerima_points.geojson" },
+  "adachi": { "name": "足立区", "file": "adachi_points.geojson" },
+  "katsushika": { "name": "葛飾区", "file": "katsushika_points.geojson" },
+  "edogawa": { "name": "江戸川区", "file": "edogawa_points.geojson" },
+  "bunkyo": { "name": "文京区", "file": "bunkyo_points.geojson" }
+}

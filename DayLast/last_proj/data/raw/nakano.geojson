@@ -1,0 +1,816 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-29T07:42:07Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94043321",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673494,
+          35.6979578
+        ]
+      },
+      "id": "way/94043321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818389595",
+        "amenity": "police",
+        "name": "野方警察署 家政通交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6442677,
+          35.7224182
+        ]
+      },
+      "id": "node/818389595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818956766",
+        "amenity": "police",
+        "name": "野方警察署鷺宮駅前交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6379832,
+          35.7227709
+        ]
+      },
+      "id": "node/818956766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/928152145",
+        "amenity": "police",
+        "name": "野方警察署 野方駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.652398,
+          35.7197953
+        ]
+      },
+      "id": "node/928152145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1135043276",
+        "amenity": "police",
+        "name": "中野警察署早稲田通交番",
+        "name:en": "Nakano Police Station Wasedatsu Police Box",
+        "name:ja": "中野警察署早稲田通交番",
+        "name:ja-Hira": "なかのけいさつしょわせだつうこうばん",
+        "name:ja-Latn": "Nakano Keisatsusho Wasedatsū Kōban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6713348,
+          35.7093483
+        ]
+      },
+      "id": "node/1135043276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1213571424",
+        "amenity": "police",
+        "name": "野方警察署 上高田交番",
+        "name:ja-Hira": "のがたけいさつしょ かみたかだこうばん",
+        "name:ja-Latn": "Nogata Keisatsusho Kamitakada Kōban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6777564,
+          35.7120509
+        ]
+      },
+      "id": "node/1213571424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1216134025",
+        "amenity": "police",
+        "name": "野方警察署薬師駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6714017,
+          35.7161385
+        ]
+      },
+      "id": "node/1216134025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766476",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "25",
+        "addr:city": "中野区",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "中央三丁目",
+        "addr:postcode": "164-0011",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "check_date": "2023-08-19",
+        "fax": "+81-3-33660555",
+        "name": "中野消防署",
+        "name:en": "Nakano Fire Station",
+        "name:ja": "中野消防署",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "phone": "+81-3-33660119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-nakano/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.673468,
+          35.697928
+        ]
+      },
+      "id": "node/1420766476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766477",
+        "amenity": "fire_station",
+        "name": "中野消防署南中野出張所",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.671441,
+          35.68629
+        ]
+      },
+      "id": "node/1420766477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766478",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "18",
+        "addr:city": "中野区",
+        "addr:housenumber": "24",
+        "addr:neighbourhood": "中央二丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "中野消防署宮園出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680634,
+          35.700872
+        ]
+      },
+      "id": "node/1420766478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766479",
+        "KSJ2:PubFacAdmin": "市区町村",
+        "addr:block_number": "1",
+        "addr:city": "中野区",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "上高田一丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "中野消防署東中野出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-nakano/shoukai/shosho.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6816137,
+          35.7097619
+        ]
+      },
+      "id": "node/1420766479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766485",
+        "amenity": "police",
+        "name": "中野警察署中央五丁目交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6645609,
+          35.6975678
+        ]
+      },
+      "id": "node/1420766485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766486",
+        "amenity": "police",
+        "name": "中野坂上交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6830784,
+          35.6966742
+        ]
+      },
+      "id": "node/1420766486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766488",
+        "amenity": "police",
+        "name": "中野警察署南台交番",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.66893,
+          35.6863136
+        ]
+      },
+      "id": "node/1420766488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766489",
+        "amenity": "police",
+        "name": "白山地域安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "operator": "中野警察署",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6743721,
+          35.7021224
+        ]
+      },
+      "id": "node/1420766489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766492",
+        "amenity": "police",
+        "name": "中野警察署本郷通交番",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.676929,
+          35.6914306
+        ]
+      },
+      "id": "node/1420766492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766493",
+        "amenity": "police",
+        "name": "中野警察署東中野駅前交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.686492,
+          35.7061583
+        ]
+      },
+      "id": "node/1420766493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766494",
+        "amenity": "police",
+        "name": "中野警察署鍋屋横丁交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.672008,
+          35.6976865
+        ]
+      },
+      "id": "node/1420766494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420766495",
+        "amenity": "police",
+        "name": "中野警察署昭和さくら駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "https://www.keishicho.metro.tokyo.jp/4/nakano/koban/nakano69.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6789272,
+          35.7085294
+        ]
+      },
+      "id": "node/1420766495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799310",
+        "addr:block_number": "21",
+        "addr:city": "中野区",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "丸山二丁目",
+        "addr:postcode": "165-0021",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "fax": "+81-3-33365054",
+        "name": "野方消防署",
+        "name:en": "Nogata Fire Station",
+        "name:ja": "野方消防署",
+        "name:ja-Hira": "のがたしょうぼうしょ",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "operator": "東京消防庁第四消防方面本部",
+        "phone": "+81-3-33300119",
+        "source": "KSJ2; (URL)",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+        "website": "http://www.tfd.metro.tokyo.jp/hp-nogata/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6520721,
+          35.7233481
+        ]
+      },
+      "id": "node/1420799310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799311",
+        "amenity": "fire_station",
+        "name": "野方消防署大和出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6535189,
+          35.7151655
+        ]
+      },
+      "id": "node/1420799311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799312",
+        "addr:block_number": "2",
+        "addr:city": "中野区",
+        "addr:housenumber": "7",
+        "addr:neighbourhood": "江古田二丁目",
+        "addr:province": "東京都",
+        "amenity": "fire_station",
+        "name": "野方消防署江古田出張所",
+        "name:ja": "野方消防署江古田出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6686877,
+          35.7253239
+        ]
+      },
+      "id": "node/1420799312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799313",
+        "amenity": "fire_station",
+        "name": "野方消防署鷺宮出張所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6318904,
+          35.7270879
+        ]
+      },
+      "id": "node/1420799313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799314",
+        "addr:block_number": "12",
+        "addr:city": "中野区",
+        "addr:housenumber": "1",
+        "addr:neighbourhood": "4",
+        "addr:postcode": "164-0001",
+        "addr:province": "東京都",
+        "addr:quarter": "中野",
+        "amenity": "police",
+        "name": "野方警察署",
+        "phone": "+81-3-3386-0110",
+        "wikidata": "Q11645474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6604691,
+          35.7094132
+        ]
+      },
+      "id": "node/1420799314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799316",
+        "amenity": "police",
+        "name": "野方警察署上鷺宮駐在所",
+        "name:en": "Police Substation",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.630998,
+          35.73245
+        ]
+      },
+      "id": "node/1420799316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799317",
+        "amenity": "police",
+        "name": "丸山地域交通安全センター",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6557848,
+          35.7226956
+        ]
+      },
+      "id": "node/1420799317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799319",
+        "amenity": "police",
+        "name": "野方警察署江原町交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6745912,
+          35.7311045
+        ]
+      },
+      "id": "node/1420799319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799320",
+        "addr:block_number": "1",
+        "addr:city": "中野区",
+        "addr:housenumber": "3",
+        "addr:neighbourhood": "4",
+        "addr:postcode": "165-0022",
+        "addr:province": "東京都",
+        "addr:quarter": "江古田",
+        "amenity": "police",
+        "name": "野方警察署江古田四丁目交番",
+        "name:ja": "野方警察署江古田四丁目交番",
+        "name:ja-Hira": "のがたけいさつしょえこだよちょうめこうばん",
+        "name:ja-Latn": "Nogata Keisatsusho Ekoda Yon-chōme Kōban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6656662,
+          35.7239934
+        ]
+      },
+      "id": "node/1420799320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799321",
+        "amenity": "police",
+        "name": "野方警察署沼袋交番（仮設）",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6636336,
+          35.7188208
+        ]
+      },
+      "id": "node/1420799321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799322",
+        "amenity": "police",
+        "name": "野方警察署白鷺駐在所",
+        "name:ja": "野方警察署白鷺駐在所",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6365663,
+          35.7195549
+        ]
+      },
+      "id": "node/1420799322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799323",
+        "amenity": "police",
+        "name": "野方警察署 若宮交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6451562,
+          35.7158007
+        ]
+      },
+      "id": "node/1420799323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799325",
+        "amenity": "police",
+        "name": "野方警察署野方一丁目交番",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65422,
+          35.7113334
+        ]
+      },
+      "id": "node/1420799325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1420799327",
+        "amenity": "police",
+        "name": "野方警察署鷺宮六丁目交番",
+        "name:en": "Koban",
+        "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+        "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+        "source": "KSJ2",
+        "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6274434,
+          35.7272115
+        ]
+      },
+      "id": "node/1420799327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2401378824",
+        "amenity": "fire_station",
+        "name": "中野消防署 宮園出張所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.682802,
+          35.69988
+        ]
+      },
+      "id": "node/2401378824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770297483",
+        "amenity": "police",
+        "name": "警視庁第四方面本部"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6605977,
+          35.7087967
+        ]
+      },
+      "id": "node/3770297483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770297484",
+        "amenity": "police",
+        "name": "警視庁第四方面交通機動隊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.660603,
+          35.7086029
+        ]
+      },
+      "id": "node/3770297484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4986606454",
+        "amenity": "police",
+        "name": "中野警察署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6686615,
+          35.6976957
+        ]
+      },
+      "id": "node/4986606454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6217609580",
+        "emergency": "defibrillator"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6808314,
+          35.6969508
+        ]
+      },
+      "id": "node/6217609580"
+    }
+  ]
+}

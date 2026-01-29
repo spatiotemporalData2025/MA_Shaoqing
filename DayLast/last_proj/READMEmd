@@ -1,0 +1,34 @@
+bousai-map-app/
+├─ server.js
+├─ package.json
+├─ README.md
+
+├─ data/
+│  ├─ raw/
+│  │  ├─ hachioji.geojson
+│  │  ├─ shinjuku.geojson
+│  │  ├─ suginami.geojson
+│  │  └─ ...
+│  │
+│  ├─ processed/
+│  │  ├─ hachioji_points.geojson
+│  │  ├─ shinjuku_points.geojson
+│  │  └─ ...
+│  │
+│  └─ areas.json
+
+├─ scripts/
+│  ├─ build_dataset.js
+│  └─ list_stats.js
+
+├─ algorithms/
+│  ├─ rtree.js
+│  ├─ dbscan.js
+│  ├─ misra_gries.js
+│  ├─ grid.js
+│  └─ geo.js
+
+└─ public/
+   ├─ index.html
+   ├─ style.css
+   └─ main.js

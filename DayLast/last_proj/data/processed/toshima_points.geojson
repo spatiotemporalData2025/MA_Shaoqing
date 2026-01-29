@@ -1,0 +1,1554 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7292727,
+          35.7312572
+        ]
+      },
+      "properties": {
+        "id": "way/176511199",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 大塚駅前交番",
+        "tags": {
+          "@id": "way/176511199",
+          "amenity": "police",
+          "building": "yes",
+          "name": "巣鴨警察署 大塚駅前交番",
+          "source": "Bing, 1980-2007",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6886194,
+          35.7286764
+        ]
+      },
+      "properties": {
+        "id": "way/218192389",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "池袋消防署長崎出張所",
+        "tags": {
+          "@id": "way/218192389",
+          "amenity": "fire_station",
+          "name": "池袋消防署長崎出張所",
+          "name:en": "Ikebukuro Fire Station Nagasaki Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7183304,
+          35.7242016
+        ]
+      },
+      "properties": {
+        "id": "way/971299067",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署 雑司が谷交番",
+        "tags": {
+          "@id": "way/971299067",
+          "amenity": "police",
+          "building": "yes",
+          "name": "目白警察署 雑司が谷交番",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7129269,
+          35.7296481
+        ]
+      },
+      "properties": {
+        "id": "way/1127932836",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋駅東口交番",
+        "tags": {
+          "@id": "way/1127932836",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "池袋駅東口交番",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7100957,
+          35.7315641
+        ]
+      },
+      "properties": {
+        "id": "node/1315146056",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋駅西口交番",
+        "tags": {
+          "@id": "node/1315146056",
+          "amenity": "police",
+          "name": "池袋駅西口交番",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7321333,
+          35.7311501
+        ]
+      },
+      "properties": {
+        "id": "way/1349500711",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署",
+        "tags": {
+          "@id": "way/1349500711",
+          "amenity": "police",
+          "defibrillator": "yes",
+          "mapillary": "781013630153929",
+          "name": "巣鴨警察署",
+          "name:en": "Sugamo Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11479430",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7408497,
+          35.7379289
+        ]
+      },
+      "properties": {
+        "id": "way/1408415442",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 染井駐在所",
+        "tags": {
+          "@id": "way/1408415442",
+          "amenity": "police",
+          "defibrillator": "separate",
+          "name": "巣鴨警察署 染井駐在所",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7467491,
+          35.7367209
+        ]
+      },
+      "properties": {
+        "id": "way/1408415443",
+        "ward": "toshima",
+        "category": "police",
+        "name": "駒込駅前交番",
+        "tags": {
+          "@id": "way/1408415443",
+          "amenity": "police",
+          "check_date": "2025-06-22",
+          "level": "0",
+          "name": "駒込駅前交番",
+          "name:en": "Komagome Station Koban",
+          "name:ja": "巣鴨警察署 駒込駅前交番",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7388521,
+          35.7336821
+        ]
+      },
+      "properties": {
+        "id": "way/1408415444",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 巣鴨駅前交番",
+        "tags": {
+          "@id": "way/1408415444",
+          "amenity": "police",
+          "defibrillator": "separate",
+          "name": "巣鴨警察署 巣鴨駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7250942,
+          35.7363851
+        ]
+      },
+      "properties": {
+        "id": "node/1420777261",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 巣鴨新田交番",
+        "tags": {
+          "@id": "node/1420777261",
+          "amenity": "police",
+          "name": "巣鴨警察署 巣鴨新田交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7248498,
+          35.7293216
+        ]
+      },
+      "properties": {
+        "id": "node/1420777272",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 巣鴨向原 地域安全センター",
+        "tags": {
+          "@id": "node/1420777272",
+          "amenity": "police",
+          "name": "巣鴨警察署 巣鴨向原 地域安全センター",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7267706,
+          35.742533
+        ]
+      },
+      "properties": {
+        "id": "node/1420777279",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 庚甲塚交番",
+        "tags": {
+          "@id": "node/1420777279",
+          "amenity": "police",
+          "name": "巣鴨警察署 庚甲塚交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7190727,
+          35.7301679
+        ]
+      },
+      "properties": {
+        "id": "node/1420777283",
+        "ward": "toshima",
+        "category": "police",
+        "name": "巣鴨警察署 サンシャイン前交番",
+        "tags": {
+          "@id": "node/1420777283",
+          "amenity": "police",
+          "name": "巣鴨警察署 サンシャイン前交番",
+          "name:en": "Police Box",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7069646,
+          35.7279633
+        ]
+      },
+      "properties": {
+        "id": "node/1420787786",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "池袋消防署",
+        "tags": {
+          "@id": "node/1420787786",
+          "addr:postcode": "171-0021",
+          "amenity": "fire_station",
+          "fax": "+81-3-39880130",
+          "name": "池袋消防署",
+          "name:en": "Ikebukuro Fire Station",
+          "name:es": "Estación de bomberos de Ikebukuro",
+          "name:ja": "池袋消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第五消防方面本部",
+          "phone": "+81-3-39880119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-ikebukuro/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.699548,
+          35.73498
+        ]
+      },
+      "properties": {
+        "id": "node/1420787788",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "池袋消防署高松出張所",
+        "tags": {
+          "@id": "node/1420787788",
+          "amenity": "fire_station",
+          "name": "池袋消防署高松出張所",
+          "name:en": "Ikebukuro Fire Station Takamatsu Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7191355,
+          35.7405757
+        ]
+      },
+      "properties": {
+        "id": "node/1420787798",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署 上池袋交番",
+        "tags": {
+          "@id": "node/1420787798",
+          "amenity": "police",
+          "check_date": "2024-12-27",
+          "name": "池袋警察署 上池袋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7106876,
+          35.7390943
+        ]
+      },
+      "properties": {
+        "id": "node/1420787800",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署 川越通交番",
+        "tags": {
+          "@id": "node/1420787800",
+          "amenity": "police",
+          "name": "池袋警察署 川越通交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7116356,
+          35.7333576
+        ]
+      },
+      "properties": {
+        "id": "node/1420787801",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署平和通交番",
+        "tags": {
+          "@id": "node/1420787801",
+          "amenity": "police",
+          "name": "池袋警察署平和通交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.717269,
+          35.728036
+        ]
+      },
+      "properties": {
+        "id": "node/1420787802",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署 東池袋交番",
+        "tags": {
+          "@id": "node/1420787802",
+          "amenity": "police",
+          "name": "池袋警察署 東池袋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7068437,
+          35.7316561
+        ]
+      },
+      "properties": {
+        "id": "node/1420787803",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署 池袋二又交番",
+        "tags": {
+          "@id": "node/1420787803",
+          "amenity": "police",
+          "name": "池袋警察署 池袋二又交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7113705,
+          35.7427548
+        ]
+      },
+      "properties": {
+        "id": "node/1420787804",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署 池袋本町交番",
+        "tags": {
+          "@id": "node/1420787804",
+          "amenity": "police",
+          "name": "池袋警察署 池袋本町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.702159,
+          35.727203
+        ]
+      },
+      "properties": {
+        "id": "node/1420787807",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署西池袋交番",
+        "tags": {
+          "@id": "node/1420787807",
+          "amenity": "police",
+          "name": "池袋警察署西池袋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711381,
+          35.720037
+        ]
+      },
+      "properties": {
+        "id": "node/1420790419",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署",
+        "tags": {
+          "@id": "node/1420790419",
+          "amenity": "police",
+          "name": "目白警察署",
+          "name:en": "Mejiro Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11581586"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6909845,
+          35.736918
+        ]
+      },
+      "properties": {
+        "id": "node/1420790420",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署 千川交番",
+        "tags": {
+          "@id": "node/1420790420",
+          "amenity": "police",
+          "name": "目白警察署 千川交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7141831,
+          35.7187507
+        ]
+      },
+      "properties": {
+        "id": "node/1420790421",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署千登世橋交番",
+        "tags": {
+          "@id": "node/1420790421",
+          "amenity": "police",
+          "name": "目白警察署千登世橋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.711838,
+          35.7264157
+        ]
+      },
+      "properties": {
+        "id": "node/1420790422",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署南池袋交番",
+        "tags": {
+          "@id": "node/1420790422",
+          "amenity": "police",
+          "name": "目白警察署南池袋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689339,
+          35.7229312
+        ]
+      },
+      "properties": {
+        "id": "node/1420790423",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署南長崎交番",
+        "tags": {
+          "@id": "node/1420790423",
+          "amenity": "police",
+          "name": "目白警察署南長崎交番",
+          "name:en": "Minami-nagasaki Police box",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6829118,
+          35.7299532
+        ]
+      },
+      "properties": {
+        "id": "node/1420790424",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署東長崎駅前交番",
+        "tags": {
+          "@id": "node/1420790424",
+          "amenity": "police",
+          "name": "目白警察署東長崎駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6951156,
+          35.7264979
+        ]
+      },
+      "properties": {
+        "id": "node/1420790425",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署 椎名町駅前交番",
+        "tags": {
+          "@id": "node/1420790425",
+          "amenity": "police",
+          "name": "目白警察署 椎名町駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6827557,
+          35.7349522
+        ]
+      },
+      "properties": {
+        "id": "node/1420790426",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署 水道端地域安全センター",
+        "tags": {
+          "@id": "node/1420790426",
+          "amenity": "police",
+          "name": "目白警察署 水道端地域安全センター",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7064618,
+          35.7215785
+        ]
+      },
+      "properties": {
+        "id": "node/1420790427",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署目白駅前交番",
+        "tags": {
+          "@id": "node/1420790427",
+          "amenity": "police",
+          "name": "目白警察署目白駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6995168,
+          35.7328416
+        ]
+      },
+      "properties": {
+        "id": "node/1420790428",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署 要町交番",
+        "tags": {
+          "@id": "node/1420790428",
+          "amenity": "police",
+          "check_date": "2025-03-16",
+          "name": "目白警察署 要町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.689889,
+          35.7292783
+        ]
+      },
+      "properties": {
+        "id": "node/1420790429",
+        "ward": "toshima",
+        "category": "police",
+        "name": "目白警察署長崎交番",
+        "tags": {
+          "@id": "node/1420790429",
+          "amenity": "police",
+          "name": "目白警察署長崎交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7327711,
+          35.73884
+        ]
+      },
+      "properties": {
+        "id": "node/1420798183",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "豊島消防署巣鴨出張所",
+        "tags": {
+          "@id": "node/1420798183",
+          "amenity": "fire_station",
+          "name": "豊島消防署巣鴨出張所",
+          "name:en": "Toshima Fire Station Sugamo Branch",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7111143,
+          35.7201189
+        ]
+      },
+      "properties": {
+        "id": "node/1420798192",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "豊島消防署目白出張所",
+        "tags": {
+          "@id": "node/1420798192",
+          "amenity": "fire_station",
+          "name": "豊島消防署目白出張所",
+          "name:en": "Mejiro Fire Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7217726,
+          35.7298606
+        ]
+      },
+      "properties": {
+        "id": "way/1455098501",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "豊島消防署",
+        "tags": {
+          "@id": "way/1455098501",
+          "addr:postcode": "170-0013",
+          "amenity": "fire_station",
+          "fax": "+81 3-3985-0880",
+          "name": "豊島消防署",
+          "name:en": "Toshima Fire Station",
+          "name:es": "Estación de bomberos Toshima",
+          "name:ja": "豊島消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第五消防方面本部",
+          "phone": "+81 3-3985-0119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/hp-tosima/",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7447877,
+          35.7360435
+        ]
+      },
+      "properties": {
+        "id": "node/2236782753",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "豊島消防団 第一分団本部",
+        "tags": {
+          "@id": "node/2236782753",
+          "amenity": "fire_station",
+          "name": "豊島消防団 第一分団本部",
+          "name:en": "1st Branch Office, Toshima Fire Brigade"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7072395,
+          35.7283379
+        ]
+      },
+      "properties": {
+        "id": "node/3904475291",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋通告センター",
+        "tags": {
+          "@id": "node/3904475291",
+          "amenity": "police",
+          "name": "池袋通告センター"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7071556,
+          35.7284736
+        ]
+      },
+      "properties": {
+        "id": "node/4085799348",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署",
+        "tags": {
+          "@id": "node/4085799348",
+          "amenity": "police",
+          "name": "池袋警察署",
+          "name:en": "Ikebukuro Police Station",
+          "wikidata": "Q11552248"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7162746,
+          35.7333297
+        ]
+      },
+      "properties": {
+        "id": "node/5678760017",
+        "ward": "toshima",
+        "category": "police",
+        "name": "池袋警察署六つ又交番",
+        "tags": {
+          "@id": "node/5678760017",
+          "amenity": "police",
+          "name": "池袋警察署六つ又交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707369,
+          35.7216255
+        ]
+      },
+      "properties": {
+        "id": "node/5766981338",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5766981338",
+          "emergency": "defibrillator",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7155754,
+          35.727847
+        ]
+      },
+      "properties": {
+        "id": "node/7205319228",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/7205319228",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7318095,
+          35.7312934
+        ]
+      },
+      "properties": {
+        "id": "node/12389623536",
+        "ward": "toshima",
+        "category": "fire_station",
+        "name": "豊島消防団第二分団本部",
+        "tags": {
+          "@id": "node/12389623536",
+          "amenity": "fire_station",
+          "name": "豊島消防団第二分団本部"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7218793,
+          35.727239
+        ]
+      },
+      "properties": {
+        "id": "node/12389685433",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12389685433",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7469389,
+          35.7364804
+        ]
+      },
+      "properties": {
+        "id": "node/12397136114",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12397136114",
+          "defibrillator:location": "北口改札の外側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "manufacturer": "日本光電",
+          "operator": "東日本旅客鉄道",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7467552,
+          35.7367015
+        ]
+      },
+      "properties": {
+        "id": "node/12987461373",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12987461373",
+          "access": "yes",
+          "defibrillator:location": "交番内",
+          "emergency": "defibrillator",
+          "indoor": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7407903,
+          35.7378996
+        ]
+      },
+      "properties": {
+        "id": "node/12998609756",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12998609756",
+          "brand": "SECOM",
+          "defibrillator:location": "駐在所内 入って左側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "support": "wall"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.718859,
+          35.7292623
+        ]
+      },
+      "properties": {
+        "id": "node/12998869705",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/12998869705",
+          "access": "yes",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "manufacturer": "日本光電",
+          "model": "AED-3150"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7379255,
+          35.7340735
+        ]
+      },
+      "properties": {
+        "id": "node/13000912850",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13000912850",
+          "defibrillator:location": "とげぬき地蔵方面改札 外側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "operator": "東京都交通局"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7397319,
+          35.7341722
+        ]
+      },
+      "properties": {
+        "id": "node/13000914000",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13000914000",
+          "defibrillator:location": "西友地下1階 サービスカウンター横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "manufacturer": "オムロン",
+          "opening_hours": "24/7",
+          "operator": "西友"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7384593,
+          35.7335749
+        ]
+      },
+      "properties": {
+        "id": "node/13000959661",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13000959661",
+          "defibrillator:location": "JR巣鴨駅方面改札の外側、券売機の横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "manufacturer": "日本光電",
+          "operator": "東京都交通局"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73939,
+          35.7335339
+        ]
+      },
+      "properties": {
+        "id": "node/13011221903",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13011221903",
+          "defibrillator:location": "JR改札の内側、のりこし精算機の横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7471701,
+          35.7371877
+        ]
+      },
+      "properties": {
+        "id": "node/13036989598",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13036989598",
+          "access": "yes",
+          "defibrillator:location": "豊島区立駒込地域文化創造館 4Fエレベータ横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "3"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7428514,
+          35.7383061
+        ]
+      },
+      "properties": {
+        "id": "node/13037049804",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13037049804",
+          "access": "yes",
+          "defibrillator:location": "駒込小学校 正面玄関",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7391528,
+          35.7352231
+        ]
+      },
+      "properties": {
+        "id": "node/13037049902",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13037049902",
+          "access": "yes",
+          "defibrillator:location": "巣鴨スポーツセンター本館 入口正面",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7128769,
+          35.7305514
+        ]
+      },
+      "properties": {
+        "id": "node/13042719741",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13042719741",
+          "defibrillator:location": "池袋ショッピングパーク 地下通路（レンガ通り） 28番出口横",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7149162,
+          35.729874
+        ]
+      },
+      "properties": {
+        "id": "node/13042739801",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13042739801",
+          "defibrillator:location": "Mixalive 1階入口",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0",
+          "manufacturer": "PHILIPS"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7375751,
+          35.7339738
+        ]
+      },
+      "properties": {
+        "id": "node/13043094690",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13043094690",
+          "defibrillator:location": "藤和シティホームズ巣鴨 敷地北側入口",
+          "emergency": "defibrillator",
+          "operator": "高岩寺"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7312447,
+          35.7313471
+        ]
+      },
+      "properties": {
+        "id": "node/13045258775",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13045258775",
+          "defibrillator:location": "豊島区東部区民事務所 正面入口の風防室",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7388168,
+          35.733644
+        ]
+      },
+      "properties": {
+        "id": "node/13063618625",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13063618625",
+          "defibrillator:location": "交番内 入口左側",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7260914,
+          35.7301572
+        ]
+      },
+      "properties": {
+        "id": "node/13064892444",
+        "ward": "toshima",
+        "category": "assembly_point",
+        "name": "震災時の一時集合場所 大塚台公園",
+        "tags": {
+          "@id": "node/13064892444",
+          "emergency": "assembly_point",
+          "name": "震災時の一時集合場所 大塚台公園"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7248691,
+          35.7293215
+        ]
+      },
+      "properties": {
+        "id": "node/13344139702",
+        "ward": "toshima",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/13344139702",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    }
+  ]
+}

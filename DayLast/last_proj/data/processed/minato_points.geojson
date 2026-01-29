@@ -1,0 +1,1943 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7366474,
+          35.6776901
+        ]
+      },
+      "properties": {
+        "id": "way/145661188",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署赤坂見附交番",
+        "tags": {
+          "@id": "way/145661188",
+          "amenity": "police",
+          "building": "yes",
+          "check_date": "2023-01-12",
+          "name": "赤坂警察署赤坂見附交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7564297,
+          35.6603358
+        ]
+      },
+      "properties": {
+        "id": "way/151481749",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "芝消防署",
+        "tags": {
+          "@id": "way/151481749",
+          "amenity": "fire_station",
+          "building": "yes",
+          "building:levels": "9",
+          "check_date": "2025-10-09",
+          "name": "芝消防署",
+          "name:en": "Shiba Fire Station",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7544693,
+          35.6533733
+        ]
+      },
+      "properties": {
+        "id": "way/154287736",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署浜松町交番",
+        "tags": {
+          "@id": "way/154287736",
+          "amenity": "police",
+          "building": "yes",
+          "name": "愛宕警察署浜松町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2; GSImaps/std; Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7332634,
+          35.6354523
+        ]
+      },
+      "properties": {
+        "id": "way/157191079",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署",
+        "tags": {
+          "@id": "way/157191079",
+          "amenity": "police",
+          "building": "public",
+          "building:levels": "8",
+          "name": "高輪警察署",
+          "name:en": "Takanawa Police Station",
+          "wikidata": "Q11672884",
+          "wikipedia": "ja:高輪警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7332992,
+          35.6357603
+        ]
+      },
+      "properties": {
+        "id": "way/165776332",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "高輪消防署二本榎出張所",
+        "tags": {
+          "@id": "way/165776332",
+          "amenity": "fire_station",
+          "building": "fire_station",
+          "check_date": "2025-01-12",
+          "name": "高輪消防署二本榎出張所",
+          "name:en": "Takanawa Fire Station Nihon'enoki Branch",
+          "name:ja": "高輪消防署二本榎出張所",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7416861,
+          35.6291361
+        ]
+      },
+      "properties": {
+        "id": "way/185985196",
+        "ward": "minato",
+        "category": "police",
+        "name": "品川駅港南口交番",
+        "tags": {
+          "@id": "way/185985196",
+          "amenity": "police",
+          "check_date": "2025-03-18",
+          "name": "品川駅港南口交番",
+          "name:en": "Koban",
+          "source": "Survey",
+          "wheelchair": "yes",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7196101,
+          35.6521738
+        ]
+      },
+      "properties": {
+        "id": "way/209161961",
+        "ward": "minato",
+        "category": "assembly_point",
+        "name": "聖心女子大学",
+        "tags": {
+          "@id": "way/209161961",
+          "addr:block_number": "3",
+          "addr:city": "渋谷区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "4丁目",
+          "addr:postcode": "150-8938",
+          "addr:province": "東京都",
+          "addr:quarter": "広尾",
+          "amenity": "university",
+          "education": "university",
+          "emergency": "assembly_point",
+          "name": "聖心女子大学",
+          "name:en": "University of the Sacred Heart",
+          "name:es": "Universidad del Sagrado Corazón",
+          "name:ja": "聖心女子大学",
+          "name:ko": "성심여자대학",
+          "name:pt": "Universidade do Sagrado Coração",
+          "name:zh": "圣心女子大学",
+          "operator": "学校法人聖心女子学院",
+          "wikidata": "Q860278",
+          "wikipedia": "ja:聖心女子大学",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7406658,
+          35.6437551
+        ]
+      },
+      "properties": {
+        "id": "way/217809662",
+        "ward": "minato",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "way/217809662",
+          "amenity": "police",
+          "building": "yes",
+          "source": "image,2013-04;Bing",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732932,
+          35.6643458
+        ]
+      },
+      "properties": {
+        "id": "way/343449457",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署",
+        "tags": {
+          "@id": "way/343449457",
+          "amenity": "police",
+          "name": "麻布警察署",
+          "name:en": "Azabu Police Station",
+          "start_date": "2019",
+          "wikidata": "Q11677483",
+          "wikipedia": "ja:麻布警察署",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7526744,
+          35.6490813
+        ]
+      },
+      "properties": {
+        "id": "way/413028391",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署芝四丁目交番",
+        "tags": {
+          "@id": "way/413028391",
+          "addr:block_number": "7",
+          "addr:city": "港区",
+          "addr:housenumber": "4",
+          "addr:neighbourhood": "芝四丁目",
+          "addr:postcode": "108-0014",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "building": "yes",
+          "building:levels": "2",
+          "name": "三田警察署芝四丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2;GSImaps/std;Bing",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/shokai/ichiran/kankatsu/mita/koban/03.html",
+          "wheelchair": "no",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7189719,
+          35.6761978
+        ]
+      },
+      "properties": {
+        "id": "way/499552718",
+        "ward": "minato",
+        "category": "assembly_point",
+        "name": "明治神宮外苑",
+        "tags": {
+          "@id": "way/499552718",
+          "emergency": "assembly_point",
+          "leisure": "sports_centre",
+          "name": "明治神宮外苑",
+          "name:en": "Meiji Jingu Garden",
+          "name:es": "Jardín Meiji Jingu",
+          "name:ja": "明治神宮外苑",
+          "name:pt": "Jardim Meiji Jingu",
+          "name:zh": "明治神宫外苑",
+          "wikidata": "Q6631448",
+          "wikipedia": "ja:明治神宮外苑",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7158419,
+          35.6728242
+        ]
+      },
+      "properties": {
+        "id": "way/625278154",
+        "ward": "minato",
+        "category": "assembly_point",
+        "name": "東京都立 青山高等学校",
+        "tags": {
+          "@id": "way/625278154",
+          "amenity": "school",
+          "education": "school",
+          "emergency": "assembly_point",
+          "emergency:type:unable_to_move": "yes",
+          "name": "東京都立 青山高等学校",
+          "name:en": "Aoyama High School",
+          "name:es": "Colegio Aoyama",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q10869427",
+          "wikipedia": "ja:東京都立青山高等学校",
+          "@geometry": "center"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7407168,
+          35.6478232
+        ]
+      },
+      "properties": {
+        "id": "node/820688814",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田綱町交番 (Mita Tsunacho Koban)",
+        "tags": {
+          "@id": "node/820688814",
+          "amenity": "police",
+          "name": "三田綱町交番 (Mita Tsunacho Koban)",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7336556,
+          35.670223
+        ]
+      },
+      "properties": {
+        "id": "node/1111278302",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂５丁目交番",
+        "tags": {
+          "@id": "node/1111278302",
+          "amenity": "police",
+          "name": "赤坂５丁目交番",
+          "name:en": "Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.741459,
+          35.659926
+        ]
+      },
+      "properties": {
+        "id": "node/1145077248",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署狸穴警備派出所",
+        "tags": {
+          "@id": "node/1145077248",
+          "amenity": "police",
+          "name": "麻布警察署狸穴警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7543441,
+          35.6566936
+        ]
+      },
+      "properties": {
+        "id": "node/1367466699",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署大門交番",
+        "tags": {
+          "@id": "node/1367466699",
+          "addr:block_number": "4",
+          "addr:city": "港区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "芝大門二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "愛宕警察署大門交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "survey;KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7445667,
+          35.6422765
+        ]
+      },
+      "properties": {
+        "id": "node/1420765590",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署",
+        "tags": {
+          "@id": "node/1420765590",
+          "addr:block_number": "2",
+          "addr:city": "港区",
+          "addr:housenumber": "12",
+          "addr:neighbourhood": "4",
+          "addr:postcode": "108-0023",
+          "addr:province": "東京都",
+          "addr:quarter": "芝浦",
+          "amenity": "police",
+          "name": "三田警察署",
+          "name:en": "Mita Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "phone": "+81-3-3454-0110",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11356780",
+          "wikipedia": "ja:三田警察署 (東京都)"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7406617,
+          35.6437647
+        ]
+      },
+      "properties": {
+        "id": "node/1420765592",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署三田四丁目交番",
+        "tags": {
+          "@id": "node/1420765592",
+          "amenity": "police",
+          "name": "三田警察署三田四丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.744658,
+          35.650462
+        ]
+      },
+      "properties": {
+        "id": "node/1420765593",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署三田通交番",
+        "tags": {
+          "@id": "node/1420765593",
+          "amenity": "police",
+          "check_date": "2024-04-05",
+          "name": "三田警察署三田通交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7479355,
+          35.6418012
+        ]
+      },
+      "properties": {
+        "id": "node/1420765594",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署八千代橋交番",
+        "tags": {
+          "@id": "node/1420765594",
+          "addr:block_number": "20",
+          "addr:city": "港区",
+          "addr:housenumber": "11",
+          "addr:neighbourhood": "芝浦三丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "三田警察署八千代橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.752824,
+          35.660989
+        ]
+      },
+      "properties": {
+        "id": "node/1420780322",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署",
+        "tags": {
+          "@id": "node/1420780322",
+          "amenity": "police",
+          "name": "愛宕警察署",
+          "name:en": "Atago Police Station",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wikidata": "Q11493871"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755296,
+          35.666433
+        ]
+      },
+      "properties": {
+        "id": "node/1420780324",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署新橋三丁目交番",
+        "tags": {
+          "@id": "node/1420780324",
+          "amenity": "police",
+          "name": "愛宕警察署新橋三丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7576673,
+          35.6667614
+        ]
+      },
+      "properties": {
+        "id": "node/1420780325",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署新橋駅前交番",
+        "tags": {
+          "@id": "node/1420780325",
+          "amenity": "police",
+          "fixme": "Fish store?",
+          "name": "愛宕警察署新橋駅前交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7468084,
+          35.6586498
+        ]
+      },
+      "properties": {
+        "id": "node/1420780326",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署 東京タワー前交番",
+        "tags": {
+          "@id": "node/1420780326",
+          "amenity": "police",
+          "check_date": "2024-12-07",
+          "name": "愛宕警察署 東京タワー前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.757851,
+          35.663072
+        ]
+      },
+      "properties": {
+        "id": "node/1420780327",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署東新橋交番",
+        "tags": {
+          "@id": "node/1420780327",
+          "amenity": "police",
+          "name": "愛宕警察署東新橋交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.746574,
+          35.665211
+        ]
+      },
+      "properties": {
+        "id": "node/1420780329",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署虎の門交番",
+        "tags": {
+          "@id": "node/1420780329",
+          "amenity": "police",
+          "name": "愛宕警察署虎の門交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7552577,
+          35.632323
+        ]
+      },
+      "properties": {
+        "id": "node/1420784153",
+        "ward": "minato",
+        "category": "police",
+        "name": "東京湾岸警察署第五台場交番",
+        "tags": {
+          "@id": "node/1420784153",
+          "amenity": "police",
+          "name": "東京湾岸警察署第五台場交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7773081,
+          35.6294789
+        ]
+      },
+      "properties": {
+        "id": "node/1420784163",
+        "ward": "minato",
+        "category": "police",
+        "name": "東京湾岸警察署お台場海浜公園駅前交番",
+        "tags": {
+          "@id": "node/1420784163",
+          "amenity": "police",
+          "name": "東京湾岸警察署お台場海浜公園駅前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7590936,
+          35.6460946
+        ]
+      },
+      "properties": {
+        "id": "node/1420784196",
+        "ward": "minato",
+        "category": "police",
+        "name": "東京湾岸警察署日の出ふ頭水上派出所",
+        "tags": {
+          "@id": "node/1420784196",
+          "amenity": "police",
+          "name": "東京湾岸警察署日の出ふ頭水上派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7544019,
+          35.6406693
+        ]
+      },
+      "properties": {
+        "id": "node/1420784206",
+        "ward": "minato",
+        "category": "police",
+        "name": "三田警察署海岸通交番",
+        "tags": {
+          "@id": "node/1420784206",
+          "amenity": "police",
+          "check_date": "2025-10-05",
+          "name": "三田警察署海岸通交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.762518,
+          35.654324
+        ]
+      },
+      "properties": {
+        "id": "node/1420784216",
+        "ward": "minato",
+        "category": "police",
+        "name": "愛宕警察署竹芝交番",
+        "tags": {
+          "@id": "node/1420784216",
+          "amenity": "police",
+          "name": "愛宕警察署竹芝交番",
+          "name:en": "Koban",
+          "name:es": "Policía",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7417397,
+          35.648348
+        ]
+      },
+      "properties": {
+        "id": "node/1420796497",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "芝消防署三田出張所",
+        "tags": {
+          "@id": "node/1420796497",
+          "amenity": "fire_station",
+          "name": "芝消防署三田出張所",
+          "name:en": "Shiba Fire Station Mita Branch",
+          "name:es": "Estación de bomberos de Shiba, sucursal Mita",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.752852,
+          35.638964
+        ]
+      },
+      "properties": {
+        "id": "node/1420796498",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "芝消防署芝浦出張所",
+        "tags": {
+          "@id": "node/1420796498",
+          "addr:block_number": "4",
+          "addr:city": "港区",
+          "addr:housenumber": "14",
+          "addr:neighbourhood": "海岸三丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "芝消防署芝浦出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.720882,
+          35.668987
+        ]
+      },
+      "properties": {
+        "id": "node/1420798242",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "赤坂消防署",
+        "tags": {
+          "@id": "node/1420798242",
+          "addr:postcode": "107-0062",
+          "amenity": "fire_station",
+          "fax": "+81-3-34780149",
+          "name": "赤坂消防署",
+          "name:en": "Akasaka Fire Station",
+          "name:es": "Estación de bomberos Akasaka",
+          "name:ja": "赤坂消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第一消防方面本部",
+          "phone": "+81-3-34780119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733742,
+          35.669016
+        ]
+      },
+      "properties": {
+        "id": "node/1420798243",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "赤坂消防署新町出張所",
+        "tags": {
+          "@id": "node/1420798243",
+          "amenity": "fire_station",
+          "name": "赤坂消防署新町出張所",
+          "name:en": "Akasaka Fire Department, Shinmachi branch",
+          "name:es": "Departamento de bomberos Akasaka, ramal Shinmachi",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.732047,
+          35.674987
+        ]
+      },
+      "properties": {
+        "id": "node/1420798246",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署",
+        "tags": {
+          "@id": "node/1420798246",
+          "amenity": "police",
+          "name": "赤坂警察署",
+          "name:en": "Akasaka Police Station",
+          "name:es": "Estación de policía de Akasaka",
+          "name:ja": "赤坂警察署",
+          "name:ja-Hira": "あかさかけいさつしょ",
+          "name:ja_rm": "Akasaka Keisatsusho",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年 国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "toilets:wheelchair": "yes",
+          "wheelchair": "yes",
+          "wikidata": "Q17190921"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716994,
+          35.659405
+        ]
+      },
+      "properties": {
+        "id": "node/1420798247",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署南青山六丁目交番",
+        "tags": {
+          "@id": "node/1420798247",
+          "amenity": "police",
+          "name": "赤坂警察署南青山六丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.721211,
+          35.677407
+        ]
+      },
+      "properties": {
+        "id": "node/1420798248",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署東宮御所警備派出所",
+        "tags": {
+          "@id": "node/1420798248",
+          "addr:block_number": "2",
+          "addr:city": "港区",
+          "addr:housenumber": "21",
+          "addr:neighbourhood": "元赤坂二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "赤坂警察署東宮御所警備派出所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "警視庁",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.743774,
+          35.668952
+        ]
+      },
+      "properties": {
+        "id": "node/1420798249",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署米国大使館警備派出所",
+        "tags": {
+          "@id": "node/1420798249",
+          "amenity": "police",
+          "name": "赤坂警察署米国大使館警備派出所",
+          "name:en": "Akasaka Police Station, US Embassy Security",
+          "name:es": "Estación de policía Akasaka, seguridad de la embajada de los EEUU",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.712355,
+          35.66546
+        ]
+      },
+      "properties": {
+        "id": "node/1420798250",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署表参道交番",
+        "tags": {
+          "@id": "node/1420798250",
+          "amenity": "police",
+          "name": "赤坂警察署表参道交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7392341,
+          35.671877
+        ]
+      },
+      "properties": {
+        "id": "node/1420798251",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂警察署赤坂二丁目交番",
+        "tags": {
+          "@id": "node/1420798251",
+          "amenity": "police",
+          "name": "赤坂警察署赤坂二丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7328164,
+          35.6410321
+        ]
+      },
+      "properties": {
+        "id": "node/1420800462",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "高輪消防署",
+        "tags": {
+          "@id": "node/1420800462",
+          "addr:postcode": "108-0072",
+          "amenity": "fire_station",
+          "fax": "+81-3-34471421",
+          "name": "高輪消防署",
+          "name:en": "Takanawa Fire Station",
+          "name:es": "Estación de bomberos Takanawa",
+          "name:ja": "高輪消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第一消防方面本部",
+          "phone": "+81-3-34460119",
+          "source": "KSJ2;(URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.724243,
+          35.64524
+        ]
+      },
+      "properties": {
+        "id": "node/1420800463",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "高輪消防署三光出張所",
+        "tags": {
+          "@id": "node/1420800463",
+          "addr:block_number": "12",
+          "addr:city": "港区",
+          "addr:housenumber": "11",
+          "addr:neighbourhood": "白金五丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "高輪消防署三光出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都港区",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.755436,
+          35.63327
+        ]
+      },
+      "properties": {
+        "id": "node/1420800465",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "高輪消防署港南出張所",
+        "tags": {
+          "@id": "node/1420800465",
+          "addr:block_number": "8",
+          "addr:city": "港区",
+          "addr:housenumber": "34",
+          "addr:neighbourhood": "港南五丁目",
+          "addr:province": "東京都",
+          "amenity": "fire_station",
+          "name": "高輪消防署港南出張所",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都港区",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7377538,
+          35.6292527
+        ]
+      },
+      "properties": {
+        "id": "node/1420800474",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署品川駅高輪口交番",
+        "tags": {
+          "@id": "node/1420800474",
+          "amenity": "police",
+          "name": "高輪警察署品川駅高輪口交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.73266,
+          35.640741
+        ]
+      },
+      "properties": {
+        "id": "node/1420800475",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署清正公前交番",
+        "tags": {
+          "@id": "node/1420800475",
+          "addr:block_number": "4",
+          "addr:city": "港区",
+          "addr:housenumber": "14",
+          "addr:neighbourhood": "白金二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "高輪警察署清正公前交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.725354,
+          35.644574
+        ]
+      },
+      "properties": {
+        "id": "node/1420800476",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署白金三光町交番",
+        "tags": {
+          "@id": "node/1420800476",
+          "addr:block_number": "9",
+          "addr:city": "港区",
+          "addr:housenumber": "5",
+          "addr:neighbourhood": "白金五丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "高輪警察署白金三光町交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "limited"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7369447,
+          35.6399785
+        ]
+      },
+      "properties": {
+        "id": "node/1420800477",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署高輪二丁目交番",
+        "tags": {
+          "@id": "node/1420800477",
+          "addr:block_number": "1",
+          "addr:city": "港区",
+          "addr:housenumber": "55",
+          "addr:neighbourhood": "高輪二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "高輪警察署高輪二丁目交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.730521,
+          35.632075
+        ]
+      },
+      "properties": {
+        "id": "node/1420800479",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署高輪台交番",
+        "tags": {
+          "@id": "node/1420800479",
+          "amenity": "police",
+          "check_date": "2024-12-05",
+          "name": "高輪警察署高輪台交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7272526,
+          35.6571241
+        ]
+      },
+      "properties": {
+        "id": "node/1420800574",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "麻布消防署",
+        "tags": {
+          "@id": "node/1420800574",
+          "addr:postcode": "106-0046",
+          "amenity": "fire_station",
+          "contact:phone": "+81-3-34700119",
+          "fax": "+81-3-34700149",
+          "name": "麻布消防署",
+          "name:en": "Azabu Fire Station",
+          "name:fr": "Station de pompiers de Azabu",
+          "name:ja": "麻布消防署",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京消防庁第一消防方面本部",
+          "source": "KSJ2; (URL)",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "website": "http://www.tfd.metro.tokyo.jp/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.742607,
+          35.654934
+        ]
+      },
+      "properties": {
+        "id": "node/1420800577",
+        "ward": "minato",
+        "category": "fire_station",
+        "name": "麻布消防署飯倉出張所",
+        "tags": {
+          "@id": "node/1420800577",
+          "amenity": "fire_station",
+          "name": "麻布消防署飯倉出張所",
+          "name:en": "Fire Station",
+          "name:es": "Estación de bomberos",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.737353,
+          35.6556
+        ]
+      },
+      "properties": {
+        "id": "node/1420800582",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署一之橋交番",
+        "tags": {
+          "@id": "node/1420800582",
+          "amenity": "police",
+          "name": "麻布警察署一之橋交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7262954,
+          35.6540804
+        ]
+      },
+      "properties": {
+        "id": "node/1420800584",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署 中国大使館警備派出所",
+        "tags": {
+          "@id": "node/1420800584",
+          "amenity": "police",
+          "name": "麻布警察署 中国大使館警備派出所",
+          "name:en": "Police Substation",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7321699,
+          35.6635437
+        ]
+      },
+      "properties": {
+        "id": "node/1420800586",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署六本木交番",
+        "tags": {
+          "@id": "node/1420800586",
+          "amenity": "police",
+          "name": "麻布警察署六本木交番",
+          "name:en": "Roppongi Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.728606,
+          35.659641
+        ]
+      },
+      "properties": {
+        "id": "node/1420800588",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署六本木六丁目交番",
+        "tags": {
+          "@id": "node/1420800588",
+          "amenity": "police",
+          "name": "麻布警察署六本木六丁目交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.733493,
+          35.647018
+        ]
+      },
+      "properties": {
+        "id": "node/1420800590",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署古川交番",
+        "tags": {
+          "@id": "node/1420800590",
+          "addr:block_number": "15",
+          "addr:city": "港区",
+          "addr:housenumber": "1",
+          "addr:neighbourhood": "南麻布二丁目",
+          "addr:province": "東京都",
+          "amenity": "police",
+          "name": "麻布警察署古川交番",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "operator": "東京都",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7262722,
+          35.654128
+        ]
+      },
+      "properties": {
+        "id": "node/1420800594",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署 盛岡町交番",
+        "tags": {
+          "@id": "node/1420800594",
+          "amenity": "police",
+          "name": "麻布警察署 盛岡町交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723771,
+          35.659572
+        ]
+      },
+      "properties": {
+        "id": "node/1420800595",
+        "ward": "minato",
+        "category": "police",
+        "name": "麻布警察署西麻布交番",
+        "tags": {
+          "@id": "node/1420800595",
+          "amenity": "police",
+          "name": "麻布警察署西麻布交番",
+          "name:en": "Koban",
+          "note": "National-Land Numerical Information (Public Facility) 2006, MLIT Japan",
+          "note:ja": "国土数値情報（公共施設データ）平成19年　国土交通省",
+          "source": "KSJ2",
+          "source_ref": "http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.749426,
+          35.6526731
+        ]
+      },
+      "properties": {
+        "id": "node/1432389327",
+        "ward": "minato",
+        "category": "police",
+        "name": "芝園橋地域安全センター",
+        "tags": {
+          "@id": "node/1432389327",
+          "amenity": "police",
+          "name": "芝園橋地域安全センター",
+          "wheelchair": "no"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.716799,
+          35.659373
+        ]
+      },
+      "properties": {
+        "id": "node/2209620084",
+        "ward": "minato",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/2209620084",
+          "amenity": "police"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.729494,
+          35.665848
+        ]
+      },
+      "properties": {
+        "id": "node/2323842466",
+        "ward": "minato",
+        "category": "police",
+        "name": "赤坂九丁目前派出所",
+        "tags": {
+          "@id": "node/2323842466",
+          "amenity": "police",
+          "check_date": "2024-11-29",
+          "name": "赤坂九丁目前派出所",
+          "name:en": "Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7172454,
+          35.6665426
+        ]
+      },
+      "properties": {
+        "id": "node/3403995159",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/3403995159",
+          "emergency": "defibrillator",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7241812,
+          35.673064
+        ]
+      },
+      "properties": {
+        "id": "node/3782895630",
+        "ward": "minato",
+        "category": "police",
+        "name": "青山一丁目交番",
+        "tags": {
+          "@id": "node/3782895630",
+          "amenity": "police",
+          "name": "青山一丁目交番",
+          "name:en": "Koban"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7336701,
+          35.6702161
+        ]
+      },
+      "properties": {
+        "id": "node/5412173176",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5412173176",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7489798,
+          35.6485554
+        ]
+      },
+      "properties": {
+        "id": "node/5676705023",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5676705023",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "note": "券売機脇"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7526762,
+          35.6490743
+        ]
+      },
+      "properties": {
+        "id": "node/5676967806",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5676967806",
+          "defibrillator:location": "交番入ってすぐ",
+          "emergency": "defibrillator",
+          "level": "0",
+          "opening_hours": "24/7",
+          "source": "survey"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7496857,
+          35.6486505
+        ]
+      },
+      "properties": {
+        "id": "node/5677080435",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/5677080435",
+          "access": "permissive",
+          "defibrillator:location": "玄関入ってすぐの受付カウンター内",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "0"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7487851,
+          35.6444543
+        ]
+      },
+      "properties": {
+        "id": "node/5982150325",
+        "ward": "minato",
+        "category": "police",
+        "name": "田町駅東口交番",
+        "tags": {
+          "@id": "node/5982150325",
+          "amenity": "police",
+          "level": "0",
+          "name": "田町駅東口交番",
+          "name:en": "Koban Tamachi sta. Mita PD",
+          "wheelchair": "yes"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7369315,
+          35.6399963
+        ]
+      },
+      "properties": {
+        "id": "node/10711410226",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/10711410226",
+          "emergency": "defibrillator"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7457053,
+          35.6584091
+        ]
+      },
+      "properties": {
+        "id": "node/11577369745",
+        "ward": "minato",
+        "category": "aed",
+        "name": "",
+        "tags": {
+          "@id": "node/11577369745",
+          "defibrillator:location": "Underground Level -1",
+          "emergency": "defibrillator",
+          "indoor": "yes",
+          "level": "-1",
+          "source": "https://www.tokyotower.co.jp/barrierfree/"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7401238,
+          35.6358273
+        ]
+      },
+      "properties": {
+        "id": "node/13364021125",
+        "ward": "minato",
+        "category": "police",
+        "name": "高輪警察署 高輪ゲートウェイ駅前交番",
+        "tags": {
+          "@id": "node/13364021125",
+          "amenity": "police",
+          "name": "高輪警察署 高輪ゲートウェイ駅前交番"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7544687,
+          35.6533868
+        ]
+      },
+      "properties": {
+        "id": "node/13431598173",
+        "ward": "minato",
+        "category": "police",
+        "name": "",
+        "tags": {
+          "@id": "node/13431598173",
+          "amenity": "police"
+        }
+      }
+    }
+  ]
+}
