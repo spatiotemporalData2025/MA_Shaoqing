@@ -64,6 +64,10 @@ data/processed/*_points.geojson
   - 施設点を矩形領域で階層的に管理
   - 不要な領域を剪定することで探索を高速化
   - 全点探索を避け，効率的な最近傍検索を実現
+ 
+![最近傍検索（地図表示）](screenshot/function1_nearest.png)
+
+![最近傍検索（距離表）](screenshot/function1_sheet.png)
 
 ---
 
@@ -80,6 +84,8 @@ data/processed/*_points.geojson
 - Misra–Gries（Heavy Hitters）
   - 出現頻度の高いカテゴリ候補を少数のカウンタで保持
   - 少ないメモリで高速に Top-K を抽出可能
+    
+![Top-K 集計結果](screenshot/function2_topk.png)
 
 ---
 
@@ -96,6 +102,10 @@ data/processed/*_points.geojson
 - DBSCAN（Density-Based Spatial Clustering of Applications with Noise）
   - eps（距離），minPts（最小点数）により密集領域を定義
   - クラスタ数を事前に決める必要がなく，自動抽出が可能
+  - 
+![DBSCAN カバー範囲](screenshot/function3_cover.png)
+
+![DBSCAN パラメータ](screenshot/function3_parameter.png)
 
 ---
 
