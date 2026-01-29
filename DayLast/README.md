@@ -40,7 +40,7 @@ data/raw/*.geojson
 scripts/build_dataset.js
         ↓
 data/processed/*_points.geojson
-
+```
 各施設は以下の情報を持つ点データとして管理されている。
 
 - 緯度・経度  
@@ -111,7 +111,7 @@ DayLast/
 ├─ scripts/
 ├─ algorithms/
 └─ public/
-
+```
 
 
 
