@@ -34,11 +34,12 @@
 - 対象地域：東京都23区および八王子市  
 
 取得したデータは以下の流れで前処理を行っている。
-data/raw/.geojson
-↓
-scripts/build_dataset.js により整形
-↓
-data/processed/_points.geojson
+```text
+data/raw/*.geojson
+        ↓
+scripts/build_dataset.js
+        ↓
+data/processed/*_points.geojson
 
 各施設は以下の情報を持つ点データとして管理されている。
 
