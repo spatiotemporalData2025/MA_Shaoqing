@@ -96,7 +96,9 @@ data/processed/_points.geojson
 
 ---
 
-## 7.ディレクトリ構成
+## 7. ディレクトリ構成
+
+```text
 DayLast/
 ├─ server.js
 ├─ package.json
@@ -108,6 +110,7 @@ DayLast/
 ├─ scripts/
 ├─ algorithms/
 └─ public/
+
 
 
 
